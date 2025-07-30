@@ -328,7 +328,7 @@ http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kronehit_Logo2018_Nachtblau_rgb.svg/2560px-Kronehit_Logo2018_Nachtblau_rgb.svg.png" group-title="Music",Krone Hit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/One_Music_Television_Logo_2020.svg/2560px-One_Music_Television_Logo_2020.svg.png" group-title=Music",ONE
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/One_Music_Television_Logo_2020.svg/2560px-One_Music_Television_Logo_2020.svg.png" group-title="Music",ONE
 http://rtmp.one.by:1300
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png" group-title=Music",MTV Biggest Pop
@@ -390,11 +390,8 @@ http://45.126.83.51/uq2663/h/h23/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",ARIRANG (Korea)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",Al Jazeera
-http://210.210.155.35/qwr9ew/s/s16/index.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="International",Al Jazeera
-http://210.210.155.35/qwr9ew/s/s17/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/Aljazeera_eng.png" group-title="International",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https" group-title="International",TRT WORLD
 http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
