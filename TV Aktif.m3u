@@ -42,12 +42,6 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png"  group-title="Indonesia TV",Metro TV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png"  group-title="Indonesia TV",Metro TV 2
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png"  group-title="Indonesia TV",Metro TV 3
-https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png"  group-title="Indonesia TV",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
@@ -57,11 +51,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png"  group-title="Indonesia TV",BN Channel
 https://bntv.siar.us/bntv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nusantara_TV_Logo.svg/2560px-Nusantara_TV_Logo.svg.png"  group-title="Indonesia TV",Nusantara TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png"  group-title="Indonesia TV",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="Indonesia TV",Nusantara TV
-https://v6.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_(Indonesia)_logo_(2025).svg/2560px-BTV_(Indonesia)_logo_(2025).svg.png" group-title="Indonesia TV",BTV
 https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
