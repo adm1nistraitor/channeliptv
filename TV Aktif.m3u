@@ -362,6 +362,22 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLo2poZ2rpjliMu1xBm5z8voVXvt509Vopqg&s" group-title="KIDS",Pluto TV After School Cartoons (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https" group-title="International",Toon Max
+http://45.126.83.51/qwr9ew/s/s50/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/ZooMoo-Kids-Logo-Oficial-01.png" group-title="International",Zoo Moo (Samsung)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+
+
+
+
+####### MOVIES #######
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="MOVIES",TWD Universe | Vizio (AMC)
+https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
+
 
 
 
@@ -443,12 +459,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTINF:-1 tvg-logo="https" group-title="International",K Drama
 http://45.126.83.51/qwr9ew/s/s42/index.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="International",Toon Max
-http://45.126.83.51/qwr9ew/s/s50/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/ZooMoo-Kids-Logo-Oficial-01.png" group-title="International",Zoo Moo (Samsung)
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https" group-title="International",RT
 http://45.126.83.51/qwr9ew/s/s23/index.m3u8
