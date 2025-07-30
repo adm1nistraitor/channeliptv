@@ -408,6 +408,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 ######RELIGI######
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Iqraa_TV_Logo.svg/revision/latest?cb=20211127154922" group-title="Religi",Iqra TV
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/28/Logo_Al-Iman_TV.png" group-title="Religi",Al-Iman TV (720p)
 https://tv.aliman.id/aliman/live.m3u8
 
@@ -743,6 +746,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Premium",Pluto TV Yu-Gi-Oh (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https" group-title="Premium",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https" group-title="Premium",Toonami Aftermath West (480p)
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https" group-title="Premium",Toonami Aftermath Radio (480p)
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Toonami Aftermath Movies (540p)
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https" group-title="Premium",Celestial Classic Movies
 https://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
 
@@ -857,6 +872,7 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:-1 group-title="Channel TV Premium",Cinema World 1
 http://210.210.155.66/h/h04/01.m3u8
 
+#EXTINF:-1 group-title="Channel TV Premium",???
 http://rr.dens.tv/h/h04/index2.m3u8
 
 #EXTINF:-1 group-title="Channel TV Premium",Celestial Movies 1
@@ -899,15 +915,11 @@ http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
 #EXTINF:-1 group-title="Film TV",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-
 #EXTINF:-1 group-title="Film TV",MNX
 http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 
-
 #EXTINF:-1 group-title="Film TV",One TV
 http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
-
-
 
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="/storage/emulated/0/logo_tv/hbo-logo.jpg" group-title="Film TV",HBO
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
@@ -927,8 +939,6 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 #EXTINF:0 tvg-name="HBO.id" tvg-logo="/storage/emulated/0/logo_tv/redbyhbo.png" group-title="Film TV",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/kix.png" group-title="Film TV",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
