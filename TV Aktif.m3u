@@ -279,7 +279,7 @@ http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1e/PONTV.png" group-title="TV Daerah",Pon TV
-http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/39/Padang_TV_2007.png/revision/latest?cb=20231115142510" group-title="TV Daerah",Padang TV
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
