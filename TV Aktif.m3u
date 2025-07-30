@@ -612,6 +612,10 @@ http://45.126.83.51/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-logo="https" group-title="International",Rai Italia
 http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="International",CNN Go
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+
 
 
 ######## CHANNEL PREMIUM  ########
