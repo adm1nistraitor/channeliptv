@@ -278,10 +278,10 @@ http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/93/RBTV_Bengkulu.png" group-title="TV Daerah",RBTV (Bengkulu)
 http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logo-tv.fandom.com/wiki/TATV?file=TATV_%282010%29.png" group-title="TV Daerah",TATV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/2/2a/TATV_%282010%29.png/revision/latest?cb=20220509043801" group-title="TV Daerah",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1e/PONTV.png" group-title="TV Daerah",Pon TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1e/PONTV.png" group-title="TV Daerah",Pon TV (Pontianak)
 https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/39/Padang_TV_2007.png/revision/latest?cb=20231115142510" group-title="TV Daerah",Padang TV
