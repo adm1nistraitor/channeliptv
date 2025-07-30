@@ -322,7 +322,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ######MUSIC######
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/2560px-CARAC1_logo_2023.svg.png" group-title="Music",Krone Hit
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/2560px-CARAC1_logo_2023.svg.png" group-title="Music",RougeTV (Carac1)
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kronehit_Logo2018_Nachtblau_rgb.svg/2560px-Kronehit_Logo2018_Nachtblau_rgb.svg.png" group-title="Music",Krone Hit
