@@ -532,6 +532,9 @@ https://movies4free-lg.amagi.tv/playlist.m3u8
 ####### INTERNATIONAL #######
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxuFUp1fo8MW75tih56pA1r9lm44tsXvEJbDvFj16j3ypQaem1uHfg0PzK2cBUUYP2TjkA9mw1IxBr0bH1vc9zsv9u54qRbY4Pf_I-iPh6dLqeahhfDVAmQIG2p0y9-P0jWg1-IAgLLW4_iPBdmQlFStgmN6AikdR4x848sqx_TSaj-qLctHBtTzipnh94/s1600/Bloomberg_Logo.png" group-title="International",Bloomberg
+http://210.210.155.35/uq2663/h/h03/01.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png" group-title="International",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
@@ -820,13 +823,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jzSARwXGnHHBhXYsD-7JY0yByHAvU8Ltwb4iLuZz0Tu8DQXxPwkgAPql5SGIDFkO-_TEVRYsAq1TJ5lNNA5acAxO1u9DitFUXVJt90PKqcFR6dQuMessCGZpd7LwJ3VIewUIaRNfaU_i04qpWFoDBAFzzq5qiCOj7sjk3wdoTtYHTrTWrcEDHy6edR46/s1600/EGG_Network.png" group-title="Channel TV Premium",EGG
 http://210.210.155.66/h/h22/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Channel TV Premium",eGG NETWORK
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jzSARwXGnHHBhXYsD-7JY0yByHAvU8Ltwb4iLuZz0Tu8DQXxPwkgAPql5SGIDFkO-_TEVRYsAq1TJ5lNNA5acAxO1u9DitFUXVJt90PKqcFR6dQuMessCGZpd7LwJ3VIewUIaRNfaU_i04qpWFoDBAFzzq5qiCOj7sjk3wdoTtYHTrTWrcEDHy6edR46/s1600/EGG_Network.png" group-title="Channel TV Premium",eGG NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/2560px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="Channel TV Premium",Spongebob
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Channel TV Premium",Cartoon Network
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIm9u3fAxjK-4lD-4i_08BhNJn10Vlzi-3rFb9RdtIGdwXbY499WiCx8oERTImjR_UTjv0qW68EdtCwjNcmrpguT2SerIirB2DPmCltJrWPEIfT0bHad7SYno7WqBxjyMgSWuU-pFJ1_pFTPb8bMnOkhkcvZsdamlyCSYKE07Kn-sX8hsTU9q3XZfSx5H/s1600/Cartoon%20Network.png" group-title="Channel TV Premium",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn8nc3sKlFxjD-4_YP8fOhIFJQZDHwzdQkPfX5aBzL83qFaVIccOeIn1uixlFYZ5xo_RbI9-Cbkr5i9umWtXfR8vLg1sudkzg2QTkbQ4BP_y_laG29hVrzKPhcN3eCXI-i32Y2RFSL_z8NEsnbT9FevQJu1j84ubjlvqj5iiakjlQI9zhyphenhyphenpAiqUepwXo6g/s1600/Fight_Sports.png" group-title="Channel TV Premium",Fight Sport
@@ -870,9 +873,6 @@ http://45.126.83.51/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRdObfnhjkDyn453I2GI2zsI_XFqfO4TTf9ToBFkgyrDYbLFKmSxfpVZH_BlqdSVPpamDbsGYUSOEeQCst2MmZzUkCEzvXrb6FqN9cBeQXxPh6fd1w87vEPAbABmu383dvJlvm00v1zqsxxkpBzQHeuLjpyotoMqirXmoTrWYmrxPB3xOjYHc6FtnZDX_t/s1600/Style_TV_HD_2016.png" group-title="Channel TV Premium",Style HD
 http://210.210.155.35/uq2663/h/h01/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxuFUp1fo8MW75tih56pA1r9lm44tsXvEJbDvFj16j3ypQaem1uHfg0PzK2cBUUYP2TjkA9mw1IxBr0bH1vc9zsv9u54qRbY4Pf_I-iPh6dLqeahhfDVAmQIG2p0y9-P0jWg1-IAgLLW4_iPBdmQlFStgmN6AikdR4x848sqx_TSaj-qLctHBtTzipnh94/s1600/Bloomberg_Logo.png" group-title="Channel TV Premium",Bloomberg
-http://210.210.155.35/uq2663/h/h03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712" group-title="Channel TV Premium",Redbull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
@@ -930,6 +930,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
