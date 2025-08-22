@@ -18,7 +18,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/2560px-TVRI-World.svg.png"  group-title="Indonesia TV",TVRI world
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/5/58/20230801015834!TVRI_Sport_2017.png"  group-title="Indonesia TV",TVRI Sport HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip0sQvwCIUzXhFEnJZIGyrzTJCWsfibd3zK6qyA5yJdA2-0LeXm5igt6eImEDw01FJPFaHYjsN7WCrK4HlyDOoFpvlAizmfQob-VDf9QYrMpcnV1SoJGTEmIqi-ZDtcbD_BDn56ejWDvgiddFfnRFfZfZuMfOsGmI2bRuJin5bYo5W4_izHQIS8Qr2O59r/s1600/TVRI_Sport_2017.png"  group-title="Indonesia TV",TVRI Sport HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2560px-Rajawali_Televisi.svg.png"  group-title="Indonesia TV",RTV (Rajawali)
@@ -315,7 +315,7 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHsvpD0m0NWI4reo5I-gtDpH-efX28mimgyi1ju3O3hXos7YaVizhzuivmu7denlaChjXXqz-WRjjWnXueaLEF961DR8CVRhQPxZfRLe_oe258BjA28GHBdx5THsm00ca_tIW1wLF9Y-xmf5m7KCrRKa9BAZhfQe44rdoBFb35s7ILFUNVovl8uYRIa4WE/s1600/Citratv_%28baru%29.png" group-title="TV Daerah",Citra TV
 http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/AKTV_2025.png" group-title="TV Daerah",AKTV (Cimahi)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmIcOL1diQXk-JXRYQ708x0k3EBymdXjmk9me-Jqv9LBZcQ3o9TTguG7BjVOBs_YRGVahPCNlr7Rk_s_fJcRVrVmyY32sds-mifDB7n-bitO774LvjqHFV6huTxgpITdTI-OazfpxNCDztEqziPIY5-uIHprOYHzm_yvER69rwugL8y2-RE88d3XQC4Zhz/s1600/AKTV_2025.png" group-title="TV Daerah",AKTV (Cimahi)
 https://e.siar.us/live/aktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Arek_TV.png" group-title="TV Daerah",Arek TV (Sidoarjo)
@@ -937,6 +937,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
