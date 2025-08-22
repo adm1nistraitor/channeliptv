@@ -171,7 +171,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png" group-title="Indonesia TV", BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVo9tmw_0Gf8_oHs2C5-aXNYkKnEsNJFhdeGZXXTi3IlHvd1GYvydx62hmbqvNpc0L_fOgIRgr3x5F8Kd04w5tlp_Nv8rEhgLezXtDo1c7eMnBR-X-pt4jCK_ji9jg7OHyYqL_qxoJg7K9j-3bEH6LIS_wqa1VxjqmKSqoFr2PZvTzy3Ww2D53axtZsXtn/s1600/Biznet-lifestyle.png" group-title="Indonesia TV",Biznet Lifestyle (720p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbg-X7f9D74KDxU4dKsRAm1FGPhpNIOiqcTuPgjE26W6ColiLQI6yd6Alnjqq1YrwTeTqpeFtg3I8klhl2uYQVFiTOvPxAVNE8D4a412GwplQ5DPehRw4glXu-f2HYQxpWJxO459DyEyrKVFuznCEGypJGTx6vH7A19fb9Ye-_8NJXPLV75Li0WhSNA_Sm/s1600/Biznet-lifestyle.png" group-title="Indonesia TV",Biznet Lifestyle (720p)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHzcXoOmFcX93L-1PoHLiMX-7e-FgWxe4sZsBrwSUqgvDFP10XhzUJ1Ss2wtyi1SVraLEg9qz_9a15qFlqOgGUl9HUx1lZ2r-U7sQVQsSHOW6QCXxHLOcYqWsx2C6tRKCdzyD_vNwFxgdOQAzPIPo89Pzf5nbeO79YemxbUnb72BS5AsgQSwIeDvE0xh1/s1600/Biznet-Adventure.png" group-title="Indonesia TV",BIZNET ADVENTURE 4K
@@ -939,6 +939,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
