@@ -129,7 +129,7 @@ https://e1.siar.us/badartv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="Indonesia TV",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_(2015).png" group-title="Indonesia TV",MGS TV  (Megaswara)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_(2015).png" group-title="Indonesia TV",MGS TV (Megaswara)
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="Indonesia TV",DAAI TV
@@ -308,7 +308,7 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="TV Daerah",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/19/Citratv_(baru).png" group-title="TV Daerah",Citra TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHsvpD0m0NWI4reo5I-gtDpH-efX28mimgyi1ju3O3hXos7YaVizhzuivmu7denlaChjXXqz-WRjjWnXueaLEF961DR8CVRhQPxZfRLe_oe258BjA28GHBdx5THsm00ca_tIW1wLF9Y-xmf5m7KCrRKa9BAZhfQe44rdoBFb35s7ILFUNVovl8uYRIa4WE/s1600/Citratv_%28baru%29.png" group-title="TV Daerah",Citra TV
 http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/AKTV_2025.png" group-title="TV Daerah",AKTV (Cimahi)
@@ -454,9 +454,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee16331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png" group-title="Music",MTV Flow Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/One_Music_Television_Logo_2020.svg/2560px-One_Music_Television_Logo_2020.svg.png" group-title="Music",ONE
-http://210.210.155.66/h/h143/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikKnWbkQPPao62CXm2pOvxo5-M5vD2WDDKoqz7QDSCjUs4yqF0xX0KnkYqFTiAvXLGt6ISyIyw07zBCZwWTgS6QtXijXtS5dhq7LXL5vbEbT8sgkZ_o7kkbhUvkZxoZ4wEY9IHEaGQKS44SzHa0tbXTD-GB3cZQauuP8suRS2AjHpBsJD4SsOyQnjkf1gH/s1600/M20tv.png" group-title="Music",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
@@ -558,6 +555,9 @@ http://45.126.83.51/uq2663/h/h23/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",ARIRANG (Korea)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN9_8NIwIvjBLC93gRCsHy31909zd0pE7RSa4h7b57TlMrPDUVhaPDjlLgNQkw_Kw4YwY8yr9hYbjGmBP0y0dNtCur9Qh8H3cayxgUcDjfa3526meAf9eByAA3P3LdkNQDauBP2_t_946O_ZlxnWmhNoGfDf0R6iq9PLey56Kp40a4N4mbuxjIhWSg4kXC/s1600/Aljazeera_eng.png" group-title="International",Al-Jazeera
+http://210.210.155.66/h/h143/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/Aljazeera_eng.png" group-title="International",Al Jazeera (English)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -757,31 +757,31 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Premium",Pluto TV Yu-Gi-Oh (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",Toonami Aftermath East (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Premium",Toonami Aftermath East (480p)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",Toonami Aftermath West (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Premium",Toonami Aftermath West (480p)
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",Toonami Aftermath Radio (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Premium",Toonami Aftermath Radio (480p)
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",Toonami Aftermath Movies (540p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Premium",Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",Celestial Classic Movies
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqs4ftHuqn67jkmE6X2KeWMEv1-73xalyuOn2t5tnR1GmppSiWAU7QolbGGowWn1Qs2rwKw7x4hI5BNa8WBGO1N80_1L0eb9IyLNB-A12_PoqrEW4FLK5whs3FpWIWOJHJUgUGQIO-c9U1EAC8sYNwzC84FM0-OFFVEo9wwMgh9s6UBR1Z0ur33cazSM9P/s1600/CCM_new_Logo.png" group-title="Premium",Celestial Classic Movies
 https://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",Celestial Movies
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC87DiriaBNj4n0fhydww146znSkm6TTfOfczzpEByQMc9KWj_ipk-TeIG7Wf22qGleDvJ3j-ZiOX4eouZPsjCCZF1cfl3IzDAsJg2_p0vBNlVI8MHwcGB7QJ3WVyKE1VgZs-5VdGylTMUwu5kCa5iO7UMFPMIY7KDDNc3i2C8ZVBWovLs3iDW8gL2bQew/s1600/Celestial_Movies.png" group-title="Premium",Celestial Movies
 https://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/CinemaWorld.png/revision/latest?cb=20250323085940" group-title="Premium",CinemaWorld
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjglResYWOvxYdGLEK7dEV713ykQkhVFt4HydJgYi9DrAXSD2Re_SILJb35iXpkLaSRSXJHToKHpADWEXTcOEqUytUDb5lcJ2LWzcoJ6qORBsw-UJY2AWfKv8rMcbXa9kZPwz_MbgVhZby8pWeBvat8ORipk0h73ZvOh3nyFj9fXA-4acQOupULhja2GHGU/s1600/CinemaWorld.png" group-title="Premium",CinemaWorld
 https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",HITS
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nysm9ecv9RFxOmLcRmaLQrq8iebgpG38W2b1rSSvaEYL-PvAbmgFv4DlZ9Ducr-dUXMH8oh2BwP1QjI8TD5V8hKeMddwJSdh8Dbehc9vgD6HGkaBkj0U69KZAEXl0DWBjucJstIloVW3aIWNnTHNY3oyimtCVEM-LKBS5Wvs5Kx0BuSlDrabJs614qV0/s1600/hits.png" group-title="Premium",HITS
 https://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",HITS Movies
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Premium",HITS Movies
 https://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Premium",KIX
@@ -793,50 +793,46 @@ https://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_(2013).svg/revision/latest?cb=20240723011130" group-title="Premium",K-Plus 1
 https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",My Cinema
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiub5UJpspMobPPSiXeu153EKOMUQEbmPY_fBziyT7z7qiTDV0SJtGCpw1V26o1O_01FTxd7L-IGpIIvpSLmIrgPZiEXkpFnydJhvTHjXKJrNylkZQOzI-ws2vizoBkwhqz2V1jbzc0-1DxprtorcsZu_eFoNVfeSEJPH-FZ13Colax39PwJmb_MdOuSvF6/s1600/My_Cinema_Logo_kedua.png" group-title="Premium",My Cinema
 https://op-group1-swiftservehd-1.dens.tv/h/h192/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",My Cinema Asia
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOb19NaL45BythMaNq0nt9ikk-Lm6_pVCwYWP6L_mmCXXv2D5u66iOsNADAhc8nYmnP5mrNHfZ7ao974h-wDDWGP9BKf89W7yXmitPXL87pnBtBtnOoPyQIND_H_yii0wzYMPMq_bAa-89CtdmsxvHIPkgtdwBt93NsZsxuuutuK07XWQHyFL7-5zlQrLy/s1600/MY%20CINEMA%20ASIA.png" group-title="Premium",My Cinema Asia
 https://op-group1-swiftservehd-1.dens.tv/h/h193/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",My Family
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmZsnneI6pgbYIvVBt8wRQgUSoCPskbEtSQy8wLHBo1FezEJnyKHgGLZwqVzFYLk169RIOA02JB7NDT-FUZAIpYsYktpq7_xlbjCuntTz4L6xHM5rCorgritnOWJJktg2OgwcxbopoAxsyG702JsR-uzvFbVEFURX-7Q46Arizg6jhXIgZD2Y18WQyfhoE/s1600/MY%20FAMILY%20NEW.png" group-title="Premium",My Family
 https://op-group1-swiftservehd-1.dens.tv/h/h194/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",My Kidz 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl2JEUOFiGq3g9yIOP_nytuSZHvBIb9f9Hf6PB8VpY79PTjXtxxwSBtvSHUrPJ6oehMKbJpevb6mcQV2nRt-zVGTdW9y64Q82GccHZTM3KFmR5mE7Hxuoo3nNJLoWONTFn6ZslklpmA1mSk6KAvRi6ebeETxDLaM1DtKVHSSugedB2hk8EXGRUjeTrDiJ8/s1600/MY%20CINEMA%20Kidz.png" group-title="Premium",My Kidz 
 https://op-group1-swiftservehd-1.dens.tv/h/h191/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",Rock Action
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPYHnLjHC5zoeWw_H2qGDtJKwnc8Xe5pmCRgHakOflxszEGgqcqHposNJj3xU1eS9HS9HSdin-3lhaEuYEoap0Wbg_XirKR0XfX6JfWTbsgGkvwsZpwIOoTBa7MyFqF4VFc0E2-C2BWFBSh9j7WeMG3lI0gCZXz0xiefNyQkf2iBGsrz1PEGZewpJlPLp/s1600/Rock%20Action.png" group-title="Premium",Rock Action
 https://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",Rock Entertaiment
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjo-whP7pkfFAOq6olyOKC5t1o0t6SNEfy2zJajKE_bjSvcfXejnHJihWKMjjxVX9diyI-M0wubWWNbruhXr4y1wMWi2dmU9CtSHCjbjPWulxRJOm5rYO1j3mlFOK2lRgRnX46AMNBi4vlo_aCDBMYU63Wt3XxDdN3jfha_kTNwFzBqHEK6me8CsmVGPI/s1600/Rock_Entertainment.png" group-title="Premium",Rock Entertaiment
 https://op-group1-swiftservehd-1.dens.tv/h/h213/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",Thrill
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAWKx4Wf9W4DxKhv25Q_QpBZZdo-efJU6cZDc4j1hOjsmXoYDA5DcaMcoXUF-EP8eeX1AO5b1fMh8BqNozCrKk2MK0RuyPIItBe0zH22tKLaW-O3TnFfl-pH9og1YaWB4J8YlLQVU9hrv_Y_U9uS7HmWZyh4KFLd6w7NHgwDxxF6qqu69_5AbZlM17_dvi/s1600/Thrill_logo.svg.png" group-title="Premium",Thrill
 https://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2560px-Logo_tvN.svg.png" group-title="Premium",tvN Asia
 https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Premium",tvN Movies Asia
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz1SWWcIA98NUZ06tB1uuY6NmFIKrzz7POnTzwLkJwD1GfQ9w9evLFpZ1LS7Cz_EOOigS3tDQFppusHe6UZFU-Y3ixJw9MAfCZ9Mzzqcck5qITQyT_9oUqRj8TPIdzBZuWE9JNDjPR1ff1AB13hnT_yzQ5kiy8BvKAG5IfTLbUpAhaT-BN9HqTuRNQ4g/s1600/tvN%20Movies%20Asia.png" group-title="Premium",tvN Movies Asia
 https://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",EGG
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jzSARwXGnHHBhXYsD-7JY0yByHAvU8Ltwb4iLuZz0Tu8DQXxPwkgAPql5SGIDFkO-_TEVRYsAq1TJ5lNNA5acAxO1u9DitFUXVJt90PKqcFR6dQuMessCGZpd7LwJ3VIewUIaRNfaU_i04qpWFoDBAFzzq5qiCOj7sjk3wdoTtYHTrTWrcEDHy6edR46/s1600/EGG_Network.png" group-title="Channel TV Premium",EGG
 http://210.210.155.66/h/h22/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/2560px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="Channel TV Premium",Spongebob
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Channel TV Premium",eGG NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/2560px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="Channel TV Premium",Spongebob
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Channel TV Premium",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Fight Sport
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn8nc3sKlFxjD-4_YP8fOhIFJQZDHwzdQkPfX5aBzL83qFaVIccOeIn1uixlFYZ5xo_RbI9-Cbkr5i9umWtXfR8vLg1sudkzg2QTkbQ4BP_y_laG29hVrzKPhcN3eCXI-i32Y2RFSL_z8NEsnbT9FevQJu1j84ubjlvqj5iiakjlQI9zhyphenhyphenpAiqUepwXo6g/s1600/Fight_Sports.png" group-title="Channel TV Premium",Fight Sport
 http://210.210.155.66/h/h05/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Channel TV Premium",Animax 1
@@ -998,6 +994,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
