@@ -24,15 +24,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/2560px-Rajawali_Televisi.svg.png"  group-title="Indonesia TV",RTV (Rajawali)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png"  group-title="Indonesia TV",Moji TV
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png"  group-title="Indonesia TV",NET.
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/2560px-MDTV_logo.svg.png"  group-title="Indonesia TV",MDTV
-http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/2048px-CNN_Indonesia_logo.svg.png"  group-title="Indonesia TV",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
@@ -107,6 +98,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kompas_TV_(2011)_logo.svg/2560px-Kompas_TV_(2011)_logo.svg.png" group-title="Indonesia TV",KompasTV 2
 https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png"  group-title="Indonesia TV",Moji TV
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/2560px-MDTV_logo.svg.png"  group-title="Indonesia TV",MDTV
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dtv-indonesia.co.id/storage/dtvi/dtvi-logo-2024-tagline-1.png" group-title="Indonesia TV",dTVi
 https://e.siar.us/live/dtvi.m3u8
@@ -185,6 +182,9 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTVzRM6-hgZLAj4Ue6Vb18BMxnPjumD2GR_23-KN0HtQBdP5h7YYvoyY-IIHG8lz3jBtgIQDw6-DnnCLQawCk9PV92CTMuskElw8GYjGkvPSAbMFGlHWB5Fv8digohToERoXvgJtqow2Ln5KGTjkieya3lg1kNq7Mdk3QKT3lrhAaEaN9SdwVv1RX3TPtq/s1600/Biznet-Adventure.png" group-title="Indonesia TV",BIZNET ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png"  group-title="Indonesia TV",NET.
+http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MyTV_Logo.svg/2560px-MyTV_Logo.svg.png" group-title="Indonesia TV",MyTV
 http://210.210.155.35/qwr9ew/s/s46/01.m3u8
@@ -937,6 +937,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
