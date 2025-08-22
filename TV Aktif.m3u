@@ -884,77 +884,46 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamip
 
 ####### FILM TV #######
 
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",FILMY
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9jMVkOQZOzAdNBsyOhAEWt-gvld_HxgNrXWz7ZXyKWz0V57afJvqJneD_Y-6y5VCvoYrvQ3M_buddysIGMVZsscCNZLD10yaYgKyi3NiCa9sKIA2Vqshc_feLss0vhqW1CKadwfiqMdK84ytvlkQXYDfu-qHBSdSX9dYfF9uuEFQkptPucDRssyGRO8O9/s1600/Sahara-filmi-tv-logo.svg.png" group-title="Film TV",FILMY
 http://210.210.155.35/uq2663/h/h154/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",Telenovela Channel
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw6hnmey_8RrVEqmKifkJo18-CcGaFgH_0xGwq8wywmi0uqFwHGHh4px24d-xycguPVw0t7A5lwqn1JdyHPRdwKkAmUL8osL95iT50vr74KabX3FrVeoG94nkS61PaoQUTAvP4ARiCgbnGeopcFQlX1-NQRwdlVyjH_MDegvC57eu37hYqKW12cRoBQG0n/s1600/Telenovela_Channel.png" group-title="Film TV",Telenovela Channel
 http://210.210.155.35/uq2663/h/h153/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",DUBAI International
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKQFtmFQNoCYnu8TK1-_t1uIfuu5aNONiHlkkeulO-a8inLH99XHJigB1oeDLTbdUYDs-WTh_nGGM3nmdvPfdMetOt2FsWEqJEeL7vC5NiVQsWyrzAARRFEpzkJvtBjAuB-7M7TSZ5r4imT5nI9cXLdQpzN2REePCr0QBhqGEyHYdJ0rWAx3UwqjEQKI1m/s1600/Dubai%20TV.png" group-title="Film TV",DUBAI International
 http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",Movies Now
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZcafLQsCMsMGT6hKfVR7gOffrweSNei6QUOW8nBIbEuRdhnyRRFNQCnAEBJruD92z1o2dmEUxsJQedECVPUD63t3vvu0kwIDNDRCfJLy9niPf-CjueQxb3x7BUVaXrqJSlK5e8j5kt9T3favrBo9iQ38Y1TS068EhSznTkXkOrZn-BnytyiMOg7C0UJ_/s1600/Movies_Now_logo.png" group-title="Film TV",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",MNX
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1I520WkR1a2Cks2rGRCvuNCvk8zlFjGwzlLgR3W1VlUnQVtnj4FVJKKlcE30572Xil9kMxaGWgtLEtNAwUiol5LSAVWAV_uMywwv4sUSK7in_YR749XwHSj5YCDdWzzrCzekHBbHw6O3-TmRECpxTXqbgS_uAaBG0PuV_jrlPUpgbLAgHrznH5J3-cyaQ/s1600/MNX_new_logo.png" group-title="Film TV",MNX
 http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",One TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfR_c-CnT5ggK8uQCw57bxERJ2thSUHo3CxRD7su250vqQqXoh55Xir6mK-9LnQmMnGzzdX2ahxI7IZMpXlY3P2s48K93tsElSQUKfm2BLQM8H0J6-v3ukxpyp6EKpAbd4zi9XJYQGHdk3VJ-pWfJA6Y0NFksPOrsd_SV037KzIzNG9FrDG8UbPOnZmta/s1600/Logo_oneTV_DE_2016.png" group-title="Film TV",One TV
 http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
 
-#EXTINF:0 tvg-logo="/storage/emulated/0/logo_tv/hbo-logo.jpg" group-title="Film TV",HBO
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK0SLC0DF7_YTyVNyxhUHSiZ53zCgfpx-l7LZTD_cVt6ExuKn0nZoGB4_MqL4Qvis2k8yGUw2ER6WFOXEAv_uvTqBut-6-JTj3qChea0FlbslrlwAmJlj6W8DK8YRS_hWyde1ukgnYAXIkMOUcRLj3TgLmfhiKkzTO-F-472Tp0KSLN0KFNDzO5-Be-qT_/s1600/HBO_logo.png" group-title="Film TV",HBO
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
-#EXTINF:0 tvg-logo="/storage/emulated/0/logo_tv/HBO_Signature.png" group-title="Film TV",HBO Signature
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU2jOZP-sBB6yAbvjjTET_Sgw6MNyQzXsJ4ukRKS_FcgmxNh1YczhoMu_fiCGmZ6akJiwyvVxE1yq0vd7sVSmWXpsIVmBLDSrvihpnGgm8064PHh7N7jCPFLp_DqSaLydlXRXNrwzgc10qkBTJXct0t-O0PZNcakK3JLwoonWIa8onzkY8c0WuCqNsPIu/s1600/HBO_Signature.png" group-title="Film TV",HBO Signature
 https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 
-#EXTINF:0 tvg-logo="/storage/emulated/0/logo_tv/HBO_Family.png" group-title="Film TV",HBO Family
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SdhrqZap7k__gUaKy5_l3NaGYdE9RhyphenhyphenOizOZ52Fzp7zfMwBhSu0uXbjVvW6Ykz2NPtph9rTCu9zKguoBgh1Ui1VdrPYR7gWkONdYe9CqnO6nbIBpNXY9tAjcT7uv197tl1N-RsamcBrLGDkZNmqvlr71hJZYrUgYA2-meTBOe7JiPByBAbPWns_CMVrk/s1600/HBO_Family_logo.png" group-title="Film TV",HBO Family
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 
-
-#EXTINF:0 tvg-logo="/storage/emulated/0/logo_tv/HBOHits.png" group-title="Film TV",HBO Hits
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyqmEc3h6l17pnO4jXSbERLFaXOWx8Xw600kReGoWlSVt9Pdqe4Zrl6KLR_yXgn4cxZVscCTv8QgleZVxyAySsl1rMGpIB23hzuDRJjo8GVVorBLiyRjthBWOwMvjrQ4C61sqKcbAEaUBFpPW-9yiffUHoUbY8zfVvJl2OIvUXwJTstfcyTyH81lsKCD10/s1600/HBOHits-ASIA.png" group-title="Film TV",HBO Hits
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
-#EXTINF:0 tvg-logo="CMAX4.png" group-title="Film TV",Cinemax
-https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-
-#EXTINF:0 tvg-logo="/storage/emulated/0/logo_tv/redbyhbo.png" group-title="Film TV",Red By HBO
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMC80G1E9Gxtdj5a2JeS0IIVn2blOHRIaY-T-TvVx5g0OyoQ4HcuvPf-vTTI-oPLqmMlcFFSqXrbq5GeGokYq_CAKhz7EeW4WZ-xEJikPoUPrgQC7qjcla1OUeN8UVsqTwZgFM0KZPkkNJB9ILQWCuZ0tQ6ZMHjG7Mhw844YiUml38UML0nRADs82pl5DD/s1600/HBORed.png" group-title="Film TV",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
-#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/kix.png" group-title="Film TV",KIX
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png" group-title="Film TV",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8tZNV3tNZc-Z8yC5vDFwJRD-iDbKzfv0EmQkcZZDH2Ux0_leVvoMntZDQs49rRlUCZzqEQIzfSlPR0m5XgMo7yIGknWGuCBpzhmvFTlSVkN_doaP8oLC59Z9aEFlIZwZrVyYleCINeZNfuIFfdtRcuvWitpEchX-q-PXu9flS6Hr8enXY-eXE6gg5T7/s1600/KIX_logo.svg.png" group-title="Film TV",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 3
-http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 4
-http://rr2.dens.tv/s/s34/index1.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",My Cinema 1
-http://210.210.155.66/h/h90/index.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",My Cinema 2
-http://210.210.155.35/uq2663/h/h90/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",My Cinema 3
-http://45.126.83.51/uq2663/h/h90/index1.m3u8
-
-#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Cinema_World.jpg" group-title="Film TV",My Cinema 4
-http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Film TV",Cinema World 2
-http://210.210.155.66/h/h04/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Film TV",Cinema World 3
-http://rr.dens.tv/h/h04/index10.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",Cinema World 4
-http://45.126.83.51/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",HBO
-http://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Film TV",WAU
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuM92iSep8AnVBy59LkZIcUyARiHcbb0Jiy8jIJSPghIY_R8a0bb2Gg5VLcOMWDyI8UDCn-rho5HtTJDmhCyxd4z5PwFhCUpCCFKOpWPY4hbrCeIla9ghPudO26JBI7CKOSK3IFcX2vQPd_5IPOWsTPLVZCAb3mXH7HTr0_bvWdB3QOg8q4oY4Q3u9opKu/s1600/Wau_nove_logo.png" group-title="Film TV",WAU
 http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 
@@ -964,6 +933,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
