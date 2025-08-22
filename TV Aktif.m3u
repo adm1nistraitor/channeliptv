@@ -215,7 +215,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title="TV Daerah",TVKU Semarang
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Jogja_Istimewa_TV.jpg" group-title="TV Daerah",JITV Jogja
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeklurtrcFAGiTh8oKJW56ZBkgy6faY_Nd3gAMkLRGjQQxoiUTv_IRX-lGTOa2s3x3iPPyyk8ijFk46rPaJbj3eNMkrLLnIl1XLFSLMEIXLXWIMED4nS6qrW5NMAw8UjmxUacLm5g-52_U38QhGzyYd_8afeynGmoIL1Rzm3tIs0ikGycDDsvhDfrmwsdY/s1600/Jogja_Istimewa_TV.png" group-title="TV Daerah",JITV Jogja
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ef/Logo_CTV_Network_2023.png" group-title="TV Daerah",CTV Banten (Cahaya)
@@ -242,7 +242,7 @@ http://122.248.43.138:1935/ch21/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="TV Daerah",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeklurtrcFAGiTh8oKJW56ZBkgy6faY_Nd3gAMkLRGjQQxoiUTv_IRX-lGTOa2s3x3iPPyyk8ijFk46rPaJbj3eNMkrLLnIl1XLFSLMEIXLXWIMED4nS6qrW5NMAw8UjmxUacLm5g-52_U38QhGzyYd_8afeynGmoIL1Rzm3tIs0ikGycDDsvhDfrmwsdY/s1600/Jogja_Istimewa_TV.png" group-title="TV Daerah",Jogja TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54EgiNMK6evqBFsXtG0TSE4ll5ZOBS4pFXSx5qiPA4urXcp5KSD4AncZtSWPEYX8s6KuEFQFTMgeFfgI_EC_WLvgFFT8fT0YqtuY19z3Yko2hYzEGtEORrq_kPsff9y-bUUA6zAXbbqkme8LJ1gCJ7DEWtsfBhyphenhyphenAP8-sYLLnp3eP5sUrQl0wHuVQqUMM1/s1600/Jogjatvnew.png" group-title="TV Daerah",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/BETV_Bengkulu.png" group-title="TV Daerah",Bengkulu TV
@@ -1001,5 +1001,6 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
