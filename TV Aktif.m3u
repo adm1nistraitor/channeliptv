@@ -562,46 +562,43 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/Aljazeera_eng.png" group-title="International",Al Jazeera (English)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",TRT WORLD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-A-fe9OaZV-6d12CQa42e0DWfugXPmYObxXvoCKlNEhUPYKdTxdTQnTPoZ_8FwglrHvM5jGYLMnamikXYo4juS49dpz4nwGPr9FghOqQudoC7dRjo8dEwVAGoqK6mN6_WixhNPRKInwzCSoWURh4R9TcIKL0ELhlc-_t2y7RDjsovbdy-_iuJZhnZXaP/s1600/TRT_World_logo.png" group-title="International",TRT WORLD
 http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",UA
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuIdjt41KuJVQwAQl2Z9nqMvWoDWtk1dUJkZQuvbDZ8VV1j4c5MEmqLguFyxrAcqACt9SwPUQNDgoAGSRD5fGUk11lI19_NcfNW9ABsCyxe-YouG2FPKq06j09DBCvgdsipn2rzjB9sdrkvB2ROmV6y0R98VcEw2yAskBTWwoe8i6BTnvT_WaT6GtPfThQ/s1600/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_UATV.png" group-title="International",UA
 http://210.210.155.35/uq2663/h/h101/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",CCTV 4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVzbXD707rFHrjhNdgcAN0ZHqqMzUr-nfbSrH_2CrzjLbwIYCUPgEBa6aPw5kYF7vFPAoCqT_FQjbt0HmjV9BLyBFRxJab1JZdtxEbCZCyskixsWUNQWcmFxwgfa1QS9TZTF4zMaCd8rGmUYb6afGW60kwx02PIda_pp8yoLtbo9SD6zP1yAC6GEGt5VVS/s1600/cctv_4_logo.png" group-title="International",CCTV 4
 http://210.210.155.35/qwr9ew/s/s19/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",FRANCE 24
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8S7eYRywYNqomq6UXny3M83sSVJJHOTtS80HXIpkqHNV53d9PJSHyynhhbfqIEBXrOu0mFnKcX_ZD0gn-YqcXWo5fFG4IIfBGHzELztUTE9wZkpwxCNHYt_Y9C5DIyI4DkTYRqqWuLKQohFG20JLUYUMra0QdKtrnEV50QIio5cKJvNXtmsXzyPBaKHId/s1600/France24.png" group-title="International",FRANCE 24
 http://45.126.83.51/qwr9ew/s/s22/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",TV5MONDE
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgE1-KANa4PANWNcMr5dXUQo0Wymg8jmiNY4d1fg7ZKozzKSqqP8UmFviXbQZZVn2-WmnSaA1jtGRarMs07rxGJH0RSbhOWOkfa1QwVbycMihfqQL6ATkaqZ22fzgI8DAaXvTN24BSDyG1Fz4oBkzuhn3gMR6RNbeyroW3VNH4fP0gUSOkjA27YC3CI0PC/s1600/TV5Monde_Logo.svg.png" group-title="International",TV5MONDE
 http://45.126.83.51/qwr9ew/s/s24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",DW TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ehkqFATSYxcjou21poS7ewU9OSnVsB673O0gpQUvhpKDXBiJbxlYjcv8gL_933hEZjeFAOv-Y68bXl3xjbAfs18oz0LK90o5pc-sLNbruxdDuOMu5jNJX4iF6oz_PY3Q-3EA0dmduapZNzz2RQEe2oUgB-xpmDjgoLoMwOcyquldkRdWqCUdSaeXBZZR/s1600/DW_%28TV%29_Logo_2012.png" group-title="International",DW TV
 http://210.210.155.35/session/da5339aa-1f82-11eb-b5b0-9a5685350a12/qwr9ew/s/s26/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",TBN
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK3MyYIDIXuGJ4b2pvi6KHhOZrb7i0zO5gbL8UQx7VAVQGNr5N6Hlvkc1uDuH-JdSNIOj-EALJ8OYE_Z2JQOX88jqAb7_VI1HWAt0tGUkZqHwrrgVrr-lVSSXzGYdzTadUGSjk4gj9XDLtGdaZcDZR967gUKVa_ZOl154xhF5hVaQSwfd9fozfXWl4Dzl_/s1600/TBN_logo_2015.png" group-title="International",TBN
 http://45.126.83.51/qwr9ew/s/s39/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",CGTN
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfVnfzDZFrkwplZSO0YkLUxVRAsJP8dagFeSm71gZNG3Ht6uoHx2MRcgp4Pa43fkjDXiXFmeWTZOcbQ9psKikIwhY-ba_hRqf_QDGcq6wC_Mfgq473GAIb4l7ObePk5BIFgKOW8xRJ8Y_a-LhcKXoTq-ulm3RWCI35K535huEWN6OysYT0USreQ9pdHYZx/s1600/CGTN1.png" group-title="International",CGTN
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiTeG_bg3rmLiLLoPRu3WR35gTtIK5fe-TUwqVKrRb8TWkCVaONlDSHhS3hEHdHCPkme6Mf1029vR-ZKv6dGm5CRN4PeZKO13Hs3C3gPRIw083s5iW4TdRvwwD0HxR_7fBvvdlokckZLY8qkmZCf7zBaXt4fhLc5r6hjQN0q8aD_8zuWqBeKQ3A9BCSKIC/s1600/CGTN_Documentary_II.png" group-title="International",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Makkah1.jpg" group-title="International",Makkah
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7hs3AFzP_DN-XO9OYVBAF1-BLDIAUWGlxySqQPvxGhczXTxwk5LYAtq3_KS25u3f1HJ7KaBv5CB8whU_y4LKZev0i4MsX_aPKvVqVw5_W0-VVIEiDPS6GNflv09qq_FF-X6JATQsEBSw5hVdvHKqwxmY3Sqac77jfIzt7eD1RHrHgjusaXwc30XRqS-2T/s1600/MakkahTV.png" group-title="International",Makkah
 http://210.210.155.35/session/3d4a6e12-22d9-11eb-a769-b82a72d63267/qwr9ew/s/s28/01.m3u8
 
-#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Makkah2.jpg" group-title="International",Makkah
-http://45.126.83.51/qwr9ew/s/s27/02.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="International",Phoenix
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdzIS2knWi-z_5ob_oZOBMIG3coLuBB3CJnl2L3HjFox00p8d_IDhFKhri2hxOsC4PmmaA9TA_PNtJP94KoNNnkwMU0Wl_9I-PgYnERhesAG2NsXvTF2KT_5kAmkE4FeCT4NBK8ID1vzh9AIfv5GPkq65RK-ALpYyLuyCxHz-hFqUQcrdm8ES0bZ007nge/s1600/Phoenix_Chinese.png" group-title="International",Phoenix
 http://210.210.155.35/uq2663/h/h157/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",Phoenix News
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsfu1IOcQKjcKpPNxaWydM-2ZrzW5D5hJsTRzVlwK0wKH6gEU3JLAvCAh39jIIH7u0DKa0rDQzarHNl9OMwGmEf-acXYcC8Uq6UOh4wWg9JwPqjEGtkwtrdc8b8qChWkomhDEY3Y-GzPYglrt3GSeMoAKnVc7vaQBhFdqHJi4V6v1av77FfBZ9q0IETWrT/s1600/Phoenix_InfoNews.svg.png" group-title="International",Phoenix News
 http://45.126.83.51/qwr9ew/s/s21/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",Xing Kong
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHnMJSau-1J_mtrm2Cj8STASKRo-P_1KvmGRG40BDva_DL-q2wk8iLMvrWhvp08oX2H4qXSe949uqa42jCzHeP556tz9ed95jLhj8be6ErQaX7ZoztPUYuTSDEKuhpTwpGm_byZP5uYI74eanLHYQ-6PFIMQtsRNvuUZrCV5tOHgi7ZLMADY4iEIXYm4Q/s1600/Xing_Kong_China.png" group-title="International",Xing Kong
 http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/KBS_logo_2023.svg/2560px-KBS_logo_2023.svg.png" group-title="International",KBS Korea
@@ -610,16 +607,16 @@ http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/2560px-KBS_World_(2009).svg.png" group-title="International",KBS World
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",K Drama
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGCnl0D-2Vhk69T2maawZyAPJcTSM40cQr9WqN7Iu6f6yzEg2eHdAx_CmTibaXAOrPY-G9IvEH77dlaiFdesunGrflScmYGP6-aXWoGmqM5S8bhWqxL5qE99rEfLkieQkIr99O2mwQsm0jZWAdmkwinalcMCPH-WKKKP2d2XY7WAmaIHFCinO0Y3uxDU5/s1600/K-drama_logo.png" group-title="International",K Drama
 http://45.126.83.51/qwr9ew/s/s42/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",RT
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xVOQHqcwKWqzkfgBrdu0GbiraEeOGzL25PUwni9BTqbAVU6V8XEwNOHMMGyjQGjjOcJhMJOytRRuwMfKyjEq_ompMXcgGj5q9F97gJMpi_AYPgxqv4FqdSiFLWPOPNGGfu0VvuMywnkdhlVVhFIA9_pACaxikEvTgGfc8UlPs_r0HJaVTKzqgscBEJiv/s1600/Russia-today-logo.svg.png" group-title="International",RT
 http://45.126.83.51/qwr9ew/s/s23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",RTP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiei3mWurrHFayz_ubgRUJ5XPJRrbcs2Odd5GYtzDYsRtklULMu49O2lLHWJ7e5tAWkPmy97-RnRhDOi56AhgnT6vLxCfB9UU37mASAbIv6HLHNicRDswxAEbyRbGlXPsjA4cvzWPMeT8S68Q0owIOrpIDI3TQah9-Sl5DA-_ceGSE6DSNcAdY9Er4RKc0b/s1600/RTP.png" group-title="International",RTP
 http://45.126.83.51/qwr9ew/s/s38/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",Rai Italia
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDIAw-3nnu45XclZcjqdF4ccdIwgEFSTUWVlbsSKOUrZjQsvYFQNzEIQYawzTUgCY-8GTHaPzqBbh6n9O5uPvmjMnMWAtaXwt2XQzRSBU9_4AgkE8E2Pjj4jzwYJb-UKLGMBPfeqgwdgMPBkHPg8B7RdkGfxcBXaI0kr7YcsVwKXXsF0zK4rRjW5570wY/s1600/Logo_of_RAI_%282016%29.png" group-title="International",Rai Italia
 http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="International",CNN Go
@@ -1001,6 +998,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
