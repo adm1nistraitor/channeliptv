@@ -730,7 +730,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Premium",Pluto TV VEVO 70's (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4QqU3TH3k9P9ch2rCpjpltgna9oIGYguwaQ&usqp=CAU" group-title="Premium", Vevo '80s (Pluto TV)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvNiQkcAubjmnRoyDVdcARHed2NbnvmFpesO3fw7akyHBFvZHkHt8NMEgYp7aIQprOTOubT5jKv8J9Su09DEz2IRKJWnNvzml6j8d1X_yS-aPlyf8zgsrD1WGDQ1E83TqmVuQUGRrSGOWuKvE0oGhuFWyYsQqYKujjJoieLimpNK22sc_Y2k5nghkAw2lF/s1600/Pluto%20TV%20VEVO%20%2780s.png" group-title="Premium", Vevo '80s (Pluto TV)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4860b-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8927ee53-9a67-4b77-b657-50ff6b872c44&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Premium",Pluto TV VEVO 90's (1080p)
@@ -844,67 +844,37 @@ http://rr1.dens.tv/h/h144/index10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Channel TV Premium",Animax 3
 http://210.210.155.35/dr9445/h/h144/index10.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Ani Plus
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oORS1KDvNfEri42DZbGxgpg3m315Fwt-_qJ4LEFmF3KtilbO9yopi0BBsYgWy2mrlHucsSVjZaQ3LvmlZjI8-y5zIZY6m6o-o6G9kXmdKdtIGkfEXW0_kIHeMcBAhmkKeNTuD2nleYba1ey_Ata4yrHHF-Tq3jNY0UU8iCvgLSzRpk6vCF27vGp-dyZj/s1600/Aniplus-Asia-PNG.png" group-title="Channel TV Premium",Ani Plus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",My Kidz 1
-http://210.210.155.66/h/h98/index.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",My Kidz 2
-http://45.126.83.51/uq2663/h/h98/index.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",AXN
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjpOBWblqwD2zucWJIgi6VmsS2KpilwksDsE8z9_Keoo33h7Y38nhm_14b0In8YFinm0LjcoE7loSa8dzJo5P9LD68tbyU9SnTurxbJ0s-fGkHn8mL2kVAF-oA1LylQLN2EVTJ4B-FTNKIaG_ZiEq8tPqzTKa4H4STY9Hp2bctwmV0zuPKp9DxwHXlxLpm/s1600/AXN.png" group-title="Channel TV Premium",AXN
 http://210.210.155.66/h/h141/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",HITS MOVIES 1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Channel TV Premium",HITS MOVIES 1
 http://45.126.83.51/uq2663/h/h37/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",HITS MOVIES 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Channel TV Premium",HITS MOVIES 2
 http://210.210.155.66/h/h37/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",HITS MOVIES 3
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Channel TV Premium",HITS MOVIES 3
 http://210.210.155.35/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6XK8WUGbbmRcBSqzIDdYxC6S_icCizzrVvCG_blGAnzFVWXD2cQsJWJSp9fZ4igOvIKRNIe-2SQEM3A-KwhmJmvSBMcYL5kZY_NBWwuALSHZe7cXGJZKxn97a85ywBnmdkF5KURFMeiVq3TpBPInxRiCyrRqkbY2nNVMl0MeB3UPlJjlVmzrfHJu0Ug7g/s1600/Blue_Ant_Extreme_2018-2021_3D.png" group-title="Channel TV Premium",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj5PSDxzWL6Wf2_tGmHw-vpGnDiMiScLBXj1nOThN742PRUyOzueolupsZEoKq2y3_jc9z56NrtUBTFs5biYReVy-zwGGCFaieWBGxwvwBFkkYMNtN-IxMHbuY0j1Ec3w1tG-fu25Uae5BcSUHL0svqoDL4cg-ZvhVzu1UH-WrJLHif5UMybRcHkHr4XJm/s1600/Blue_Ant_Entertainment.png" group-title="Channel TV Premium",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",K+ 1
-http://210.210.155.66/h/h08/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",K+ 2
-http://45.126.83.51/uq2663/h/h08/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",GEM
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsETfItBHmUjZwrsxqxh3h34CIIiTeNGtlN4sDN4haXUQC6it9OLiJ-hQL2O8LrmR7qzUaaTKG4EVb16Zmkn_cLV4N6nLIgiQpqxsZFFsxNq2VNja1IEWz4dloP7FwQsR85lfwlLHehSwYdiy_VWWTPP-GMeKH14yakJPtpVD8tKqdBS7iZMfMX6Qdv-go/s1600/Gem_TV_logo_2020.png" group-title="Channel TV Premium",GEM
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Cinema World 1
-http://210.210.155.66/h/h04/01.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",???
-http://rr.dens.tv/h/h04/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Celestial Movies 1
-http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Celestial Movies 2
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Zee Bioskop
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja_-tXun6EFJHTrDVigwe_7Nh75aTsgiieuDwkFm5L5YtgdUKAEVRtGDOWxzBQc18a_87wr9hVfwUIdA0qeLJEdI1tT7LpdeudcFflXAa6x5cKoahAm3okPcYp_gyNxiHog9NbghJSBBfKL2NFt3iGvfJ5sKFj5UznINsQ-xQQKxe3789SRueU7zYmsUL_/s1600/Zee_Bioskop_%282025%29.png" group-title="Channel TV Premium",Zee Bioskop
 http://45.126.83.51/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Thrill 1
-http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Thrill 2
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Style HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRdObfnhjkDyn453I2GI2zsI_XFqfO4TTf9ToBFkgyrDYbLFKmSxfpVZH_BlqdSVPpamDbsGYUSOEeQCst2MmZzUkCEzvXrb6FqN9cBeQXxPh6fd1w87vEPAbABmu383dvJlvm00v1zqsxxkpBzQHeuLjpyotoMqirXmoTrWYmrxPB3xOjYHc6FtnZDX_t/s1600/Style_TV_HD_2016.png" group-title="Channel TV Premium",Style HD
 http://210.210.155.35/uq2663/h/h01/01.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Channel TV Premium",Bloomberg
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxuFUp1fo8MW75tih56pA1r9lm44tsXvEJbDvFj16j3ypQaem1uHfg0PzK2cBUUYP2TjkA9mw1IxBr0bH1vc9zsv9u54qRbY4Pf_I-iPh6dLqeahhfDVAmQIG2p0y9-P0jWg1-IAgLLW4_iPBdmQlFStgmN6AikdR4x848sqx_TSaj-qLctHBtTzipnh94/s1600/Bloomberg_Logo.png" group-title="Channel TV Premium",Bloomberg
 http://210.210.155.35/uq2663/h/h03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712" group-title="Channel TV Premium",Redbull TV
@@ -994,6 +964,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
