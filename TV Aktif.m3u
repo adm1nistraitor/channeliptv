@@ -457,10 +457,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/One_Music_Television_Logo_2020.svg/2560px-One_Music_Television_Logo_2020.svg.png" group-title="Music",ONE
 http://210.210.155.66/h/h143/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Music",M2O TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikKnWbkQPPao62CXm2pOvxo5-M5vD2WDDKoqz7QDSCjUs4yqF0xX0KnkYqFTiAvXLGt6ISyIyw07zBCZwWTgS6QtXijXtS5dhq7LXL5vbEbT8sgkZ_o7kkbhUvkZxoZ4wEY9IHEaGQKS44SzHa0tbXTD-GB3cZQauuP8suRS2AjHpBsJD4SsOyQnjkf1gH/s1600/M20tv.png" group-title="Music",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="Music",MUSIC TOP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHanG_Hn738vxpUwDm7KX_Wz853j0MXbmSukwemCMo6rabxPuhsBStx8m0Y9m0YwqJknXALQzZELg4R4QVjIAoNOifUCdDGKjkvfXhDwEJ2i2BJVdr1b-iKM_SE9BeEwGg-8R2NgmdoCz7zK7c0__B6FkDkJoCa6eXcLgZf1PfNK3Rdj2jzE2bv5VZZKi3/s1600/Musictop.png" group-title="Music",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Music",RETRO TV
@@ -528,7 +528,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="MOVIES",TWD Universe | Vizio (AMC)
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
 
-#EXTINF:0 tvg-logo="https" group-title="MOVIES",Movies4Free
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0zIyvSA-aEGR1lT5ATzh1BU9GVWenK_hkPQb-IipW1Tt6mF6DmISYjoNJv6lu7amFQzuJkbEN-D1OCU6gGA-3nacwIZGHZWbaZKAK0ENWf9CQ1_uwzobfWlDzBpMwblyGGbG20whsRWaCtaFTrw7QDbGSCSQOqB958Gs7hes25LUkdKnaWqfXrw0DvbUc/s1600/moviesforfree.png" group-title="MOVIES",Movies4Free
 https://movies4free-lg.amagi.tv/playlist.m3u8
 
 
@@ -544,16 +544,16 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png" group-title="International",Bloomberg Asia Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-#EXTINF:0 tvg-logo="/storage/emulated/0/logo_tv/cbs.png" group-title="International",CBS
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV5zNhec8Uuvxrm9JpQAndm5lqYr3Q9jHzvc1hi_wS7r9h4PddKNpQbNLNiFmeG06SPqTCY3rf74fL0IHPUviLG-g7AA1MIkirXKc070oYgtaPJWZnm4fBUbdU1BtgxLdz6XSVlZtO_8_DftOk2k46QZOiXxQRPOKY9pCHxJ65QLm43O2NSLC8L4vJnWFX/s1600/CBS.png" group-title="International",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 
-#EXTINF:0 tvg-logo="https" group-title="International",NBC News
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1J9dcbgiqWW6ut4z0kz0ENd4S3B2RIHN-8hid4Gt-dJdnDmWzlNTHKUlMBAITqkd0Enj1mLkx9hDL_nL4aqz4WoDG9rjW_u-ZP8DqLjgMQVclG9hQJuY3fnFRKGrjOcELHMZSVH-mWMTHxBAHsTpstzvGQlV_oKQLIdmXCS3LVS10xvPx4_B1z3-1Atu/s1600/NBC_News.png" group-title="International",NBC News
 http://161.0.157.50/PLTV/88888888/224/3221227040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1615px-CNA_new_logo.svg.png" group-title="International",Channel News Asia (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https" group-title="International",NHK WORLD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiufyzPd33M4YZun7Ymdv1dKKYgW_MbDM4sogP4dMTxmGH8tlZliezVtRAbvHh1w2A2q_mKjHHxAWero_Kwsi948VFlL0IgvuLPHYNMTdd3MInsnsjqhLS6tD3R_BiXWORWJzYqZ6LbDaJYvu0ioLY6B_U-6vodBW4dS2DXoG8h8zUABlXBKUSwpSj3ZBYY/s1600/NHK.png" group-title="International",NHK WORLD
 http://45.126.83.51/uq2663/h/h23/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",ARIRANG (Korea)
@@ -1001,6 +1001,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
