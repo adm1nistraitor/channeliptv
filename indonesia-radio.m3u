@@ -86,6 +86,9 @@ http://live.radioquonline.com:8199/;
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s149542g.png", Rama FM Bandung
 #EXTVLCOPT:network-caching=1000
 http://rama-fm.simaya.net.id:8800/;
+#EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/T7TQMKX9fe.png", Rodja FM/TV
+#EXTVLCOPT:network-caching=1000
+https://radioislamindonesia.com/rodjatv.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Radio_Rodja_Bandung.png", Rodja Bandung
 #EXTVLCOPT:network-caching=1000
 http://live.radiorodjabandung.com/;stream.nsv
