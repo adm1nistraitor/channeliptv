@@ -35,6 +35,9 @@ https://stream.roov.id:8064/;
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/Logo_Hard_Rock_FM_%282014%29.png", Hard Rock FM (Jakarta)
 #EXTVLCOPT:network-caching=1000
 https://stream.zeno.fm/btdooo7j1ydvv
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/Logo_Hard_Rock_FM_%282014%29.png", Hard Rock FM (Bandung)
+#EXTVLCOPT:network-caching=1000
+https://stream.radiojar.com/fnex9bkswk8uv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Heartline_FM_Network.png", Heartline FM (Lampung)
 #EXTVLCOPT:network-caching=1000
 https://svara-stream.radioddns.net:8900/lampung_heartline_mp3
