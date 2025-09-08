@@ -25,7 +25,7 @@ https://c1.siar.us:9180/fbibaliradio
 https://s1.cloudmu.id/listen/female_radio/radio.mp3
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s47846g.png", Geronimo Jogja
 #EXTVLCOPT:network-caching=1000
-https://ig.idstreamer.com;8090/live
+https://ig.idstreamer.com:8090/live
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s242642g.png", Global Radio
 #EXTVLCOPT:network-caching=1000
 http://202.147.199.98/;stream.nsv
