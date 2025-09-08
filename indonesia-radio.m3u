@@ -17,6 +17,9 @@ http://cloudstreaming.mramedia.com:8002/live
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s115337g.png", FBI FM Bali
 #EXTVLCOPT:network-caching=1000
 https://c1.siar.us:9180/fbibaliradio
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_FeMale_Radio.png/1200px-Logo_FeMale_Radio.png", Female Radio (Jakarta)
+#EXTVLCOPT:network-caching=1000
+https://s1.cloudmu.id/listen/female_radio/radio.mp3
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s47846g.png", Geronimo Jogja
 #EXTVLCOPT:network-caching=1000
 https://ig.idstreamer.com;8090/live
