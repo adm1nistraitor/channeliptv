@@ -28,7 +28,7 @@ http://202.147.199.98/;stream.nsv
 https://stream.roov.id:8064/;
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOJVVbNvUH6mSoApDNw9izK9c7dd--7QE_g&s", iRadio Bandung
 #EXTVLCOPT:network-caching=1000
-http://cloudstreaming.mramedia.com:8005/live
+https://stream.radiojar.com/4ywdgup3bnzuv?1757311029
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/LogoJak101FM.png", Jak Radio
 #EXTVLCOPT:network-caching=1000
 http://streaming1.sim-indonesia.com:8000/jak
