@@ -13,7 +13,7 @@ https://stream.laut.fm/poploungecafe
 http://cloudstreaming.mramedia.com:8002/live
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s115337g.png", FBI FM Bali
 #EXTVLCOPT:network-caching=1000
-http://server.fbifm.com:9180/fbibaliradio
+https://c1.siar.us:9180/fbibaliradio
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s47846g.png", Geronimo Jogja
 #EXTVLCOPT:network-caching=1000
 http://live2.indostreamserver.com:8018/;
