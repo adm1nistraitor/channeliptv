@@ -5,7 +5,7 @@ https://r5.siar.us:1057/andikafm
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24935g.png", Ardan Radio
 #EXTVLCOPT:network-caching=1000
 https://stream.rcs.revma.com/ugpyzu9n5k3vv
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Logoelshinta.png", Elshinta FM Bandung
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Logoelshinta.png", Elshinta FM (Bandung)
 #EXTVLCOPT:network-caching=1000
 http://202.137.4.147:8005/;
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s180489g.png", Pop Lounge Cafe (Germany)
