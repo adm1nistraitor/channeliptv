@@ -94,7 +94,7 @@ http://pvstreaming.rri.co.id:9015/web-rribandungpro2.mp3
 http://pvstreaming.rri.co.id:9025/rrijakartapro2.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/54/Logo_RRI_Pro_3.png/250px-Logo_RRI_Pro_3.png", RRI Pro 3 Jakarta
 #EXTVLCOPT:network-caching=1000
-http://pvstreaming.rri.co.id:9014/kbrn.mp3
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Logo_RRI_Pro_4.png/250px-Logo_RRI_Pro_4.png", RRI Pro 4 Jakarta
 #EXTVLCOPT:network-caching=1000
 http://pvstreaming.rri.co.id:9025/rrijakartapro4.mp3
