@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s149533/images/logog.png?t=158472", Andika FM
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s149533/images/logog.png?t=158472", Andika FM Kediri
 #EXTVLCOPT:network-caching=1000
-http://stream2.andikafm.com:1057/andikafm
+https://r5.siar.us:1057/andikafm
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24935g.png", Ardan Radio
 #EXTVLCOPT:network-caching=1000
 http://listento.ardanradio.com:1059/;
