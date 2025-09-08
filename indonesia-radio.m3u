@@ -116,9 +116,9 @@ https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Logo_RRI_Pro_4.png/250px-Logo_RRI_Pro_4.png", RRI Pro 4 Jakarta
 #EXTVLCOPT:network-caching=1000
 https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SindoTrijayaFM_%282013%29.svg/1000px-SindoTrijayaFM_%282013%29.svg.png", Sindo Trijaya FM
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SindoTrijayaFM_%282013%29.svg/1000px-SindoTrijayaFM_%282013%29.svg.png", Sindo/MNC Trijaya FM
 #EXTVLCOPT:network-caching=1000
-http://202.147.199.101:8000/;stream.nsv
+https://202.147.199.101:8000/;
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s190157g.png", Smart FM Balikpapan
 #EXTVLCOPT:network-caching=1000
 http://101.50.0.77:8000/balikpapan.aac
