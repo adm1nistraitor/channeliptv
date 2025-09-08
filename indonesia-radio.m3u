@@ -34,7 +34,7 @@ http://202.147.199.98/;stream.nsv
 https://stream.roov.id:8064/;
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s16917g.png", Hard Rockin 80s (USA)
 #EXTVLCOPT:network-caching=1000
-https://stream-licensing.com:8018/;
+http://stream-licensing.com:8018/;
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/Logo_Hard_Rock_FM_%282014%29.png", Hard Rock FM (Jakarta)
 #EXTVLCOPT:network-caching=1000
 https://stream.zeno.fm/btdooo7j1ydvv
