@@ -55,7 +55,7 @@ https://cast2.my-control-panel.com/proxy/radios19/stream
 http://streaming1.sim-indonesia.com:8000/jak
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s279211g.png", Kalimaya Bhaskara Malang
 #EXTVLCOPT:network-caching=1000
-http://stream.suararadio.com:8000/Malang_KalimayaBhaskara_mono
+https://cast1.my-control-panel.com/proxy/radioso4/live
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/05/Logo-Sonora.png/640px-Logo-Sonora.png", Kompas Sonora FM
 #EXTVLCOPT:network-caching=1000
 https://cast1.my-control-panel.com/proxy/radioso1/stream
