@@ -62,7 +62,7 @@ https://cast2.my-control-panel.com/proxy/radios19/stream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/LOGO-MQFM-BANDUNG.png", MQFM Bandung
 #EXTVLCOPT:network-caching=1000
 http://radio.useetv.com/mqfm-aac
-#EXTINF:0 tvg-logo="https://ozradiobali.id/wp-content/uploads/2024/08/OZ-RADIO-BALI-101.2-FM.png", Oz Radio Bali
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/D_oz_radio_101_2_fm_bali.png/revision/latest/scale-to-width-down/250?cb=20241030043440", Oz Radio Bali
 #EXTVLCOPT:network-caching=1000
 https://streaming.ozradiobali.id:8443/ozradiobali
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s116417/images/logog.png?t=153962", Oz Radio Bandung
