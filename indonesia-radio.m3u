@@ -62,9 +62,9 @@ http://45.64.97.211:1031/;stream.nsv
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/PRFM.png/revision/latest/scale-to-width-down/250?cb=20200212041352", Pikiran Rakyat
 #EXTVLCOPT:network-caching=1000
 http://prfm.pikiran-rakyat.com:8000/
-#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s10612/images/logog.png", Prambors FM
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s10612/images/logog.png", Prambors FM (Makassar)
 #EXTVLCOPT:network-caching=1000
-http://masima.rastream.com/masima-pramborsjakarta?
+https://s1.cloudmu.id/listen/prambors_makassar/stream
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa2RPKCcrl5QDJeTx278dMTBaw76wQjUjIOQ&s", RadioMuslim
 #EXTVLCOPT:network-caching=1000
 http://live.radiomuslim.com/;stream/1/;
