@@ -140,6 +140,9 @@ http://radio.useetv.com:8024/;
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s121003g.png", Suara Quran
 #EXTVLCOPT:network-caching=1000
 http://suaraquran.com:8030/;audio.mp3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Trax_FM.png", Trax FM Jakarta
+#EXTVLCOPT:network-caching=1000
+http://n09.radiojar.com/rrqf78p3bnzuv.mp3
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s330541/images/logog.png?t=1", Urban Radio
 #EXTVLCOPT:network-caching=1000
 http://radio.melsa.net.id:8050/urban
