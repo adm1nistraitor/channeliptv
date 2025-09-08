@@ -59,12 +59,6 @@ https://cast1.my-control-panel.com/proxy/radioso4/live
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/05/Logo-Sonora.png/640px-Logo-Sonora.png", Kompas Sonora FM
 #EXTVLCOPT:network-caching=1000
 https://cast1.my-control-panel.com/proxy/radioso1/stream
-#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s20295/images/logoq.png?t=637008656480000000", Malangkucecwara FM
-#EXTVLCOPT:network-caching=1000
-http://202.164.218.22:8222/
-#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s224664g.png", Matrix FM Ponorogo
-#EXTVLCOPT:network-caching=1000
-http://live.radiomatrixfm.com:8000/;
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/LOGO-MQFM-BANDUNG.png", MQFM Bandung
 #EXTVLCOPT:network-caching=1000
 http://radio.useetv.com/mqfm-aac
