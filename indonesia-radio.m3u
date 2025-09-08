@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://radioandalasfm.com/wp-content/uploads/2024/03/andalas-logo.png", Andalas FM (Lampung)
+#EXTVLCOPT:network-caching=1000
+https://s7.alhastream.com/radio/8310/radio
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s149533/images/logog.png?t=158472", Andika FM (Kediri)
 #EXTVLCOPT:network-caching=1000
 https://r5.siar.us:1057/andikafm
