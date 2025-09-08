@@ -58,7 +58,7 @@ http://streaming1.sim-indonesia.com:8000/jak
 http://stream.suararadio.com:8000/Malang_KalimayaBhaskara_mono
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/05/Logo-Sonora.png/640px-Logo-Sonora.png", Kompas Sonora FM
 #EXTVLCOPT:network-caching=1000
-http://103.226.246.245/kompas-sonorajakarta
+https://cast1.my-control-panel.com/proxy/radios1/stream
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s20295/images/logoq.png?t=637008656480000000", Malangkucecwara FM
 #EXTVLCOPT:network-caching=1000
 http://202.164.218.22:8222/
