@@ -119,9 +119,9 @@ https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/SindoTrijayaFM_%282013%29.svg/1000px-SindoTrijayaFM_%282013%29.svg.png", Sindo/MNC Trijaya FM
 #EXTVLCOPT:network-caching=1000
 https://202.147.199.101:8000/;
-#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s190157g.png", Smart FM Balikpapan
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Smart_FM_%282017%29.png/revision/latest?cb=20190830095648", Smart FM Jakarta
 #EXTVLCOPT:network-caching=1000
-http://101.50.0.77:8000/balikpapan.aac
+https://cast2.my-control-panel.com/proxy/radioso3/stream
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s183838g.png", Suara Mahakam Samarinda
 #EXTVLCOPT:network-caching=1000
 http://u.klikhost.com:8000/suara_mahakam
