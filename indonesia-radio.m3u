@@ -100,10 +100,10 @@ https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro1.mp3
 https://stream-node0.rri.co.id/streaming/16/9116/rrisamarindapro1.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/RRI_Pro_2_Bandung_2023_%28Alt%29.svg/2560px-RRI_Pro_2_Bandung_2023_%28Alt%29.svg.png", RRI Pro 2 Bandung
 #EXTVLCOPT:network-caching=1000
-http://pvstreaming.rri.co.id:9015/web-rribandungpro2.mp3
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/RRI_Pro_2_Jakarta_2023_%28Alt%29.svg/2560px-RRI_Pro_2_Jakarta_2023_%28Alt%29.svg.png", RRI Pro 2 Jakarta
 #EXTVLCOPT:network-caching=1000
-http://pvstreaming.rri.co.id:9025/rrijakartapro2.mp3
+https://stream-node0.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/54/Logo_RRI_Pro_3.png/250px-Logo_RRI_Pro_3.png", RRI Pro 3 Jakarta
 #EXTVLCOPT:network-caching=1000
 https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
