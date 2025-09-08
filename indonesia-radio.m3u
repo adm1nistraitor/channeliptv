@@ -32,6 +32,9 @@ http://202.147.199.98/;stream.nsv
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s242642g.png", Global Radio (Jakarta)
 #EXTVLCOPT:network-caching=1000
 https://stream.roov.id:8064/;
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/Logo_Hard_Rock_FM_%282014%29.png", Hard Rock FM (Jakarta)
+#EXTVLCOPT:network-caching=1000
+https://stream.zeno.fm/btdooo7j1ydvv
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOJVVbNvUH6mSoApDNw9izK9c7dd--7QE_g&s", iRadio Bandung
 #EXTVLCOPT:network-caching=1000
 https://stream.radiojar.com/4ywdgup3bnzuv?1757311029
