@@ -47,9 +47,6 @@ https://svara-stream.radioddns.net:8900/lampung_heartline_mp3
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOJVVbNvUH6mSoApDNw9izK9c7dd--7QE_g&s", iRadio Bandung
 #EXTVLCOPT:network-caching=1000
 https://stream.radiojar.com/4ywdgup3bnzuv?1757311029
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_Motion_Radio.png", Motion Radio (Jakarta)
-#EXTVLCOPT:network-caching=1000
-https://cast2.my-control-panel.com/proxy/radios19/stream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/LogoJak101FM.png", Jak Radio
 #EXTVLCOPT:network-caching=1000
 http://streaming1.sim-indonesia.com:8000/jak
@@ -59,6 +56,9 @@ https://cast1.my-control-panel.com/proxy/radioso4/live
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/05/Logo-Sonora.png/640px-Logo-Sonora.png", Kompas Sonora FM
 #EXTVLCOPT:network-caching=1000
 https://cast1.my-control-panel.com/proxy/radioso1/stream
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_Motion_Radio.png", Motion Radio (Jakarta)
+#EXTVLCOPT:network-caching=1000
+https://cast2.my-control-panel.com/proxy/radios19/stream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/LOGO-MQFM-BANDUNG.png", MQFM Bandung
 #EXTVLCOPT:network-caching=1000
 http://radio.useetv.com/mqfm-aac
