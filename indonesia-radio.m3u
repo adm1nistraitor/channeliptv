@@ -125,6 +125,9 @@ https://202.147.199.101:8000/;
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Smart_FM_%282017%29.png/revision/latest?cb=20190830095648", Smart FM Jakarta
 #EXTVLCOPT:network-caching=1000
 https://cast2.my-control-panel.com/proxy/radioso3/stream
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s135934/images/logog.png", Sriwijaya FM Palembang
+#EXTVLCOPT:network-caching=1000
+https://thenonstopradio.com/play?url=http://sriwijaya.onlivestreaming.net:9430/stream
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s183838g.png", Suara Mahakam Samarinda
 #EXTVLCOPT:network-caching=1000
 http://u.klikhost.com:8000/suara_mahakam
