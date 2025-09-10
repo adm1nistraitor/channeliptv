@@ -667,10 +667,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/strea
 http://45.126.83.51/qwr9ew/s/s39/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfVnfzDZFrkwplZSO0YkLUxVRAsJP8dagFeSm71gZNG3Ht6uoHx2MRcgp4Pa43fkjDXiXFmeWTZOcbQ9psKikIwhY-ba_hRqf_QDGcq6wC_Mfgq473GAIb4l7ObePk5BIFgKOW8xRJ8Y_a-LhcKXoTq-ulm3RWCI35K535huEWN6OysYT0USreQ9pdHYZx/s1600/CGTN1.png" group-title="International",CGTN
-http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiTeG_bg3rmLiLLoPRu3WR35gTtIK5fe-TUwqVKrRb8TWkCVaONlDSHhS3hEHdHCPkme6Mf1029vR-ZKv6dGm5CRN4PeZKO13Hs3C3gPRIw083s5iW4TdRvwwD0HxR_7fBvvdlokckZLY8qkmZCf7zBaXt4fhLc5r6hjQN0q8aD_8zuWqBeKQ3A9BCSKIC/s1600/CGTN_Documentary_II.png" group-title="International",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7hs3AFzP_DN-XO9OYVBAF1-BLDIAUWGlxySqQPvxGhczXTxwk5LYAtq3_KS25u3f1HJ7KaBv5CB8whU_y4LKZev0i4MsX_aPKvVqVw5_W0-VVIEiDPS6GNflv09qq_FF-X6JATQsEBSw5hVdvHKqwxmY3Sqac77jfIzt7eD1RHrHgjusaXwc30XRqS-2T/s1600/MakkahTV.png" group-title="International",Makkah
 http://210.210.155.35/session/3d4a6e12-22d9-11eb-a769-b82a72d63267/qwr9ew/s/s28/01.m3u8
@@ -1019,6 +1019,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
