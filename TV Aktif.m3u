@@ -640,7 +640,7 @@ http://210.210.155.66/h/h143/index2.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-A-fe9OaZV-6d12CQa42e0DWfugXPmYObxXvoCKlNEhUPYKdTxdTQnTPoZ_8FwglrHvM5jGYLMnamikXYo4juS49dpz4nwGPr9FghOqQudoC7dRjo8dEwVAGoqK6mN6_WixhNPRKInwzCSoWURh4R9TcIKL0ELhlc-_t2y7RDjsovbdy-_iuJZhnZXaP/s1600/TRT_World_logo.png" group-title="International",TRT WORLD
-http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuIdjt41KuJVQwAQl2Z9nqMvWoDWtk1dUJkZQuvbDZ8VV1j4c5MEmqLguFyxrAcqACt9SwPUQNDgoAGSRD5fGUk11lI19_NcfNW9ABsCyxe-YouG2FPKq06j09DBCvgdsipn2rzjB9sdrkvB2ROmV6y0R98VcEw2yAskBTWwoe8i6BTnvT_WaT6GtPfThQ/s1600/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_UATV.png" group-title="International",UA
 http://210.210.155.35/uq2663/h/h101/S4/mnf.m3u8
@@ -1013,6 +1013,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
