@@ -11,9 +11,6 @@ https://stream.rcs.revma.com/ugpyzu9n5k3vv
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bens_radio.png/revision/latest?cb=20200209022215", Bens Radio (Jakarta)
 #EXTVLCOPT:network-caching=1000
 https://stream.zeno.fm/047dgsp3v68uv
-#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s180489g.png", Pop Lounge Cafe (Germany)
-#EXTVLCOPT:network-caching=1000
-https://stream.laut.fm/poploungecafe
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Cosmopolitan_%28revista%29_logotipo.png", Cosmopolitan (90.4 FM Jakarta)
 #EXTVLCOPT:network-caching=1000
 https://stream.radiojar.com/u7d8heq3bnzuv
@@ -152,3 +149,9 @@ http://radio.melsa.net.id:8050/urban
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGzry68_8FH9JaBfjnoblUuMwK79XBKK4FrQ&s", Zora Radio
 #EXTVLCOPT:network-caching=1000
 http://stream.arenastreaming.com:8018/zora
+#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s180489g.png", Pop Lounge Cafe (Germany)
+#EXTVLCOPT:network-caching=1000
+https://stream.laut.fm/poploungecafe
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkHeTqEL14cute_3j_XrvLIiXUALqssWxyg&s", VOA Indonesia
+#EXTVLCOPT:network-caching=1000
+https://voa-audio-ns.akamaized.net/vin/2025/03/15/b5dba117-3b0b-406e-0a08-08dd5c8b1668.mp3
