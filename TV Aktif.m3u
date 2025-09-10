@@ -628,7 +628,7 @@ https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiufyzPd33M4YZun7Ymdv1dKKYgW_MbDM4sogP4dMTxmGH8tlZliezVtRAbvHh1w2A2q_mKjHHxAWero_Kwsi948VFlL0IgvuLPHYNMTdd3MInsnsjqhLS6tD3R_BiXWORWJzYqZ6LbDaJYvu0ioLY6B_U-6vodBW4dS2DXoG8h8zUABlXBKUSwpSj3ZBYY/s1600/NHK.png" group-title="International",NHK WORLD
-http://45.126.83.51/uq2663/h/h23/index2.m3u8
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",ARIRANG (Korea)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1013,6 +1013,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
