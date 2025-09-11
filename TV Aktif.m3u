@@ -577,21 +577,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 
 
 
-
-
-####### MOVIES #######
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="MOVIES",TWD Universe | Vizio (AMC)
-https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0zIyvSA-aEGR1lT5ATzh1BU9GVWenK_hkPQb-IipW1Tt6mF6DmISYjoNJv6lu7amFQzuJkbEN-D1OCU6gGA-3nacwIZGHZWbaZKAK0ENWf9CQ1_uwzobfWlDzBpMwblyGGbG20whsRWaCtaFTrw7QDbGSCSQOqB958Gs7hes25LUkdKnaWqfXrw0DvbUc/s1600/moviesforfree.png" group-title="MOVIES",Movies4Free
-https://movies4free-lg.amagi.tv/playlist.m3u8
-
-
-
-
-
 ####### INTERNATIONAL #######
 
 
@@ -690,12 +675,6 @@ http://45.126.83.51/qwr9ew/s/s21/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHnMJSau-1J_mtrm2Cj8STASKRo-P_1KvmGRG40BDva_DL-q2wk8iLMvrWhvp08oX2H4qXSe949uqa42jCzHeP556tz9ed95jLhj8be6ErQaX7ZoztPUYuTSDEKuhpTwpGm_byZP5uYI74eanLHYQ-6PFIMQtsRNvuUZrCV5tOHgi7ZLMADY4iEIXYm4Q/s1600/Xing_Kong_China.png" group-title="International",Xing Kong
 http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/KBS_logo_2023.svg/2560px-KBS_logo_2023.svg.png" group-title="International",KBS Korea
-http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/2560px-KBS_World_(2009).svg.png" group-title="International",KBS World
-http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGCnl0D-2Vhk69T2maawZyAPJcTSM40cQr9WqN7Iu6f6yzEg2eHdAx_CmTibaXAOrPY-G9IvEH77dlaiFdesunGrflScmYGP6-aXWoGmqM5S8bhWqxL5qE99rEfLkieQkIr99O2mwQsm0jZWAdmkwinalcMCPH-WKKKP2d2XY7WAmaIHFCinO0Y3uxDU5/s1600/K-drama_logo.png" group-title="International",K Drama
 http://45.126.83.51/qwr9ew/s/s42/index.m3u8
@@ -904,10 +883,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h194/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h191/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPYHnLjHC5zoeWw_H2qGDtJKwnc8Xe5pmCRgHakOflxszEGgqcqHposNJj3xU1eS9HS9HSdin-3lhaEuYEoap0Wbg_XirKR0XfX6JfWTbsgGkvwsZpwIOoTBa7MyFqF4VFc0E2-C2BWFBSh9j7WeMG3lI0gCZXz0xiefNyQkf2iBGsrz1PEGZewpJlPLp/s1600/Rock%20Action.png" group-title="Premium",Rock Action
-https://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjo-whP7pkfFAOq6olyOKC5t1o0t6SNEfy2zJajKE_bjSvcfXejnHJihWKMjjxVX9diyI-M0wubWWNbruhXr4y1wMWi2dmU9CtSHCjbjPWulxRJOm5rYO1j3mlFOK2lRgRnX46AMNBi4vlo_aCDBMYU63Wt3XxDdN3jfha_kTNwFzBqHEK6me8CsmVGPI/s1600/Rock_Entertainment.png" group-title="Premium",Rock Entertaiment
-https://op-group1-swiftservehd-1.dens.tv/h/h213/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAWKx4Wf9W4DxKhv25Q_QpBZZdo-efJU6cZDc4j1hOjsmXoYDA5DcaMcoXUF-EP8eeX1AO5b1fMh8BqNozCrKk2MK0RuyPIItBe0zH22tKLaW-O3TnFfl-pH9og1YaWB4J8YlLQVU9hrv_Y_U9uS7HmWZyh4KFLd6w7NHgwDxxF6qqu69_5AbZlM17_dvi/s1600/Thrill_logo.svg.png" group-title="Premium",Thrill
 https://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
@@ -973,6 +952,18 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamip
 
 ####### FILM TV #######
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="Film TV",TWD Universe | Vizio (AMC)
+https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0zIyvSA-aEGR1lT5ATzh1BU9GVWenK_hkPQb-IipW1Tt6mF6DmISYjoNJv6lu7amFQzuJkbEN-D1OCU6gGA-3nacwIZGHZWbaZKAK0ENWf9CQ1_uwzobfWlDzBpMwblyGGbG20whsRWaCtaFTrw7QDbGSCSQOqB958Gs7hes25LUkdKnaWqfXrw0DvbUc/s1600/moviesforfree.png" group-title="Film TV",Movies4Free
+https://movies4free-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/KBS_logo_2023.svg/2560px-KBS_logo_2023.svg.png" group-title="Film TV",KBS Korea
+https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=lite&chname=KBS_Korea
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/2560px-KBS_World_(2009).svg.png" group-title="Film TV",KBS World
+https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=lite&chname=KBS_World
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9jMVkOQZOzAdNBsyOhAEWt-gvld_HxgNrXWz7ZXyKWz0V57afJvqJneD_Y-6y5VCvoYrvQ3M_buddysIGMVZsscCNZLD10yaYgKyi3NiCa9sKIA2Vqshc_feLss0vhqW1CKadwfiqMdK84ytvlkQXYDfu-qHBSdSX9dYfF9uuEFQkptPucDRssyGRO8O9/s1600/Sahara-filmi-tv-logo.svg.png" group-title="Film TV",FILMY
 http://210.210.155.35/uq2663/h/h154/S4/mnf.m3u8
 
@@ -1022,6 +1013,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
