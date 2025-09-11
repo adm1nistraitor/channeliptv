@@ -916,7 +916,7 @@ http://rr1.dens.tv/h/h144/index10.m3u8
 http://210.210.155.35/dr9445/h/h144/index10.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oORS1KDvNfEri42DZbGxgpg3m315Fwt-_qJ4LEFmF3KtilbO9yopi0BBsYgWy2mrlHucsSVjZaQ3LvmlZjI8-y5zIZY6m6o-o6G9kXmdKdtIGkfEXW0_kIHeMcBAhmkKeNTuD2nleYba1ey_Ata4yrHHF-Tq3jNY0UU8iCvgLSzRpk6vCF27vGp-dyZj/s1600/Aniplus-Asia-PNG.png" group-title="Channel TV Premium",Ani Plus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjpOBWblqwD2zucWJIgi6VmsS2KpilwksDsE8z9_Keoo33h7Y38nhm_14b0In8YFinm0LjcoE7loSa8dzJo5P9LD68tbyU9SnTurxbJ0s-fGkHn8mL2kVAF-oA1LylQLN2EVTJ4B-FTNKIaG_ZiEq8tPqzTKa4H4STY9Hp2bctwmV0zuPKp9DxwHXlxLpm/s1600/AXN.png" group-title="Channel TV Premium",AXN
 http://210.210.155.66/h/h141/01.m3u8
@@ -1013,6 +1013,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
