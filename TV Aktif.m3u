@@ -100,7 +100,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?token=82023bfe00ca28f2339a420de887506ff27d8c8f919fbb07e53e39bb884fe224
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Indosiar_Karya_Media.png/revision/latest?cb=20250202061635" group-title="Indonesia TV",INDOSIAR 2
-https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8?token=5c15a22ffde8ce5e279287ce24e603ac4f2cd5bba18d80eae9e0e42712252f1f
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?token=82023bfe00ca28f2339a420de887506ff27d8c8f919fbb07e53e39bb884fe224
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/TPI_Logo_2006-2010.svg/2048px-TPI_Logo_2006-2010.svg.png" group-title="Indonesia TV",TPI
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
@@ -1030,6 +1030,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
