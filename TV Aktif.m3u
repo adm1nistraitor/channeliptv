@@ -235,7 +235,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 http://122.248.43.138:1935/jpm/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="TV Daerah",Bali TV
-https://video-edge-3dc919.pdx01.abs.hls.ttvnw.net/v1/segment/ClnHuu6W3_9rIMeZAwuLhkyGcaJoRJtdpKcLyAxypNhFnfdqiYRQmLVbOtvzoU5n6I3Vxy-pIjlGmUS0V8pQlrnptMgkoUfBlE0y09jLIQFmRYhFFWakJ_rWx4k5vZQt3lunpmoX05w0Ytold_bIgnWzVYDWQW_Yk2fMlwozb6gMzwGo2iPUTIr1VUm1f3T_NAFeD-n69pYJU_kEWqOC0eRQCgiwJg7jfkrzpIoNeBzXvevHdD9VeCZHfJlVHZ1hll9esKKqdwVS_1i0xnkrjXW9-sHP1ChEdSDzc1UMYwa-omNBcW9cEGMFsJ2Wky765u510tO_qGavcxpEmw-yqkByqGyd46V37hsBnc0lv7by8B_4qqCwUgDQ-FXhEpz71iq5thJAnwpY9vzTN1FzzCI4uGGSIfaicIO9iwfCxKbpt0kmYe3fITVnPXzMzkfFQ9zop2dKmeKN0yAfiWj_WjPZe9038LUBx_G4Q0wduCY5HnM09ozCFV1uunCymADoHF_d78ab-_q4VFqTgeXSMk8mHJXPsha9P3JYyKyJ-F_Re3PpI-oXY2quln7aOzmF20wiia-qzfHRwNTw2lyBYkl8_u_Re9bey7s2Pgoj5aHBkZasEswCHNgOWFKxp7iruSFPm9MG0-jL-Uvu5_jdv8ihp_j9tu-96oEeUEl7vDS8g89A9LlTICbGijCqSfBKpMFsUtrIhMeDYsjGzL7NpRmWkk3dBg94EKbd5RG0_83hMOumxXibF520YAoaQp-X.ts
+https://d3vd9lfkzbru3h.cloudfront.net/1e2e5665e68b533f2023_balitvnaradha_314713952616_1757586815/chunked/3.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_(Indonesian_TV_channel)_2022.svg/2438px-JTV_(Indonesian_TV_channel)_2022.svg.png" group-title="TV Daerah",JTV Surabaya
 https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/chunklist_w1234382599.m3u8
@@ -1036,6 +1036,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
