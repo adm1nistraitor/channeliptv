@@ -614,7 +614,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/LiveNOW_from_FOX.png" group-title="International",Live Now FOX
-https://s1002-f107.mp.lura.live/c107-o200013-l0-1/live/ephemeral/wN2PqdkWiAMwGH6iP7VM8saxDg5do3Ox/livenow/4128k/EfJK6BwX2UR/178924/segment_178924951.ts?Expires=1757567568&KeyName=mcpkey1&Signature=LhLV2MavBfwzm6STbgW1V950XgY
+https://dcs-live-uw1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1615px-CNA_new_logo.svg.png" group-title="International",Channel News Asia (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -1035,6 +1035,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
