@@ -295,7 +295,7 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/39/Padang_TV_2007.png/revision/latest?cb=20231115142510" group-title="TV Daerah",Padang TV
-http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+https://aps13.playlist.ttvnw.net/v1/playlist/CqsGhPgj347sQkwmWAMc0QnRxNi2j9xJZ47P1Ht_uTMYpAd-VQUYai40RrIqO_76MZQvlLUUZ9h2VzYkQBhqtGNRDRjAzguK88ZSeONOEldoi75bwxuz4y5Gpaaih6mDFY8Wp8B9iEn6yi6e3qrtc1i_piFOmZddt-Vbmo2rCU9pzXSytpjRgv74wOHUEEdONTPtE8jq-ByjU05xHLH30G0QVar0Bt8vAreCg5xYD15L8VJoFNYAyRIvXz3Kv9hb4gCX2M7n5aCA-ah4rDYGWqOLd2DDuWFxH-cc5PTUhj57SkTShcRlwLYDfYhaUD3k12F1yIZijY5CDC8l7UMcpaA2Ym2LA6Pce8Iy4tVUtFNeUsq67ifef13N68wPTOWYtfB_X4NYefqrduBv7ZkwmYCVzOGKeV-SWoeEZ65-mJ-UFUvTcBE5yrYTbQun1YmbJa9XhK6e0Pje66XcGCJwY54-kGqixnkq9rIjcOjnw38ZzmrsMXgGr4Qccj1yHqN1M3w5scAgG1T1iGhC49MPCbZiJxuxgRQpfWWl3i-63Eu63ZnyZ2ftoi3TxwLGd5-2VhlcKxICB858alwgS0M_el351nfTyTaCky081zff3cnJ7AemZ8FFnHhUIaD6ngUjt1lzierpUd97CQ1ziiElaM07-AS5Mfpp8HLc7G9M48SaBUzkkkVSlZycEFmbo7uOO92WVMCR0M-RvPRKRYzKNKiSKI69RWNBXM7p5x9a0r3YkWBoQr0RdkGGPryk7yMP1MfKjrvXFqdu1N4U64txINzwEwbBxs-9yX6FeGyzLmCusL5JiSHtX18zSXBtudvTm2v9-qqpE2LPb1Zc9W-kza71yBJkdb3BWmw45hc0eX-NjPq-fWcE5apAhwfLxh490mYJhMi-Qco0Xdo7V4XEV67o51Vayu93NU7KeIEBF2Qa1UuioQSH36i-Xc6vvbD9FDTSws5wiHGj3Z6GJRpHKqNG-JrvWl-Y2ImP5dii8u4RCGjqgXNH_n5ojhwd637mr-IENk8V9Wus__XTt2Z0rcivuHOR_UPB6l6vI2pI3CREA5FuCvPKTG3CbbRYkBoM_Lo5veJ4N5KompfIIAEqCXVzLXdlc3QtMjCgDQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Radar_TV.png" group-title="TV Daerah",Radar TV
 http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
@@ -1038,6 +1038,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
