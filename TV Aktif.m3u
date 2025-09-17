@@ -590,7 +590,7 @@ https://c.mjh.nz/abc-news.m3u8
 https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-2007.png" group-title="International",ABC News New York
-https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&clancy=testlivechannel&ad.adunit=/abc-news/abcnews.com/web/video&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=d749c580bd754d7ba2767747d087c8f0&ad.us_privacy=&prbd.server=drax&ad.prbd=drax&ad.rdp=0&ad.cust_params=chan=abc&beacTyp=ssai&stp=vdms&ait=ssai&vdm=live&var=16x9&accesslevel=0&isAuth=0&lang=en&aff=abc&swid=d749c580-bd75-4d7b-a276-7747d087c8f0&tag=&objid=abc_live11&refDomain=https://abcnews.go.com/Live/&plt=web&d_us_privacy=&ad.adUnit=/abc-news/abcnews.com/web/video&pbs=f7757719419a4bc5962ced90f67f75b3
+https://content-aapm1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/d.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxuFUp1fo8MW75tih56pA1r9lm44tsXvEJbDvFj16j3ypQaem1uHfg0PzK2cBUUYP2TjkA9mw1IxBr0bH1vc9zsv9u54qRbY4Pf_I-iPh6dLqeahhfDVAmQIG2p0y9-P0jWg1-IAgLLW4_iPBdmQlFStgmN6AikdR4x848sqx_TSaj-qLctHBtTzipnh94/s1600/Bloomberg_Logo.png" group-title="International",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -1035,6 +1035,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
