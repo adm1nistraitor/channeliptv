@@ -562,6 +562,9 @@ http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Kids",Spacetoon (Dubai)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w158753526_b596000_slAR.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warner_Bros._Television_2023_%28Alt%29.svg/250px-Warner_Bros._Television_2023_%28Alt%29.svg.png" group-title="Kids",Warner Bross TV
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd_video_1_5_35292333.mp4?m=1725696893
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids",Zoo Moo (Samsung)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
@@ -1051,6 +1054,7 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuM92iSep8AnVBy59LkZIcUyARiHcbb0Jiy8jIJSPghIY_R8a0bb2Gg5VLcOMWDyI8UDCn-rho5HtTJDmhCyxd4z5PwFhCUpCCFKOpWPY4hbrCeIla9ghPudO26JBI7CKOSK3IFcX2vQPd_5IPOWsTPLVZCAb3mXH7HTr0_bvWdB3QOg8q4oY4Q3u9opKu/s1600/Wau_nove_logo.png" group-title="Film TV",WAU
 http://nn.geo.joj.sk/hls/wau-360.m3u8
+
 
 
 
