@@ -701,6 +701,9 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7hs3AFzP_DN-XO9OYVBAF1-BLDIAUWGlxySqQPvxGhczXTxwk5LYAtq3_KS25u3f1HJ7KaBv5CB8whU_y4LKZev0i4MsX_aPKvVqVw5_W0-VVIEiDPS6GNflv09qq_FF-X6JATQsEBSw5hVdvHKqwxmY3Sqac77jfIzt7eD1RHrHgjusaXwc30XRqS-2T/s1600/MakkahTV.png" group-title="International",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w69057261.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.info/l/o/5/5862.1442339387.png" group-title="International",Al Arabiya
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdzIS2knWi-z_5ob_oZOBMIG3coLuBB3CJnl2L3HjFox00p8d_IDhFKhri2hxOsC4PmmaA9TA_PNtJP94KoNNnkwMU0Wl_9I-PgYnERhesAG2NsXvTF2KT_5kAmkE4FeCT4NBK8ID1vzh9AIfv5GPkq65RK-ALpYyLuyCxHz-hFqUQcrdm8ES0bZ007nge/s1600/Phoenix_Chinese.png" group-title="International",Phoenix
 http://210.210.155.35/uq2663/h/h157/S4/mnf.m3u8
 
@@ -1073,6 +1076,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Yahoo_Sports_New_Logo.png/1200px-Yahoo_Sports_New_Logo.png" group-title="TV Olahraga",Yahoo! Sports TV
 https://yahoo.global.transmit.live/ap-northeast-1/manifest/6862d5fd233e6604b8b457c6/158d5471-1482-4cde-8884-aceacfadaf9e/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/video-avc1.640028-mp4a.40.2-0.m3u8?ad.cust_params=lmsid=a077000000IraVzAAJ&spaceid=97304859&bucket=sports_game_page_test,prebid-bidderconfig-addappnxs-test,core-sports-team-newsdefault-copy,lr-client-test&site=sports&region=US&lang=en-US&pd=&pt=&pct=&pg_name=&expn=y20&ver=&hashtag=ymedia:playlist=b240dd70-41f1-11e9-acb7-d722bd65b8bf&pstaid=353797cb-afe9-3b48-8ba0-74265eaa3cc3&revsp=video.yahoosports.com&ad.gdpr=0&ad.gdpr_consent=&ad.givn=&ad.gpp=DBAA&ad.gpp_sid=-1&ad.iu=/22888152279/us/ysports/ros/dt/us_ysports_ros_dt_midroll_video&ad.ltd=0&ad.npa=0&ad.ppid=792d5f5a4c336f67564532754a63386866732e393967465a467a484d774b445578387e41&ad.url=https://sports.yahoo.com&ad.usprv=1---&ad.vid=353797cb-afe9-3b48-8ba0-74265eaa3cc3&h=1080&playlistUri=https://bcovlive-a.akamaihd.net/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/profile_0/chunklist_dvr.m3u8&sessionStart=1757666766988&streamPath=09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8&uid=__USER_ID__&w=1920
+
 
 
 
