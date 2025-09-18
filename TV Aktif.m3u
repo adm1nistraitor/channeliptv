@@ -479,7 +479,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png" group-title="TV Jiran",Berita RTM (Malaysia)
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/240p_origin03_20250917221453.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png" group-title="TV Jiran",RTM ASEAN (Malaysia)
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png" group-title="TV Jiran",Berita RTM (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png" group-title="TV Jiran",RTM ASEAN (Malaysia)
@@ -487,6 +492,12 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 
 #EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/maahtv.jpg" group-title="TV Jiran",MaahTV (Malaysia)
 https://hls.maahtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV1-200x112.png" group-title="TV Jiran",TV1 (Malaysia)
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8?id=1
+
+#EXTINF:-1 tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV2-200x112.png" group-title="TV Jiran",TV2 (Malaysia)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 
 
