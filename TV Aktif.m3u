@@ -655,8 +655,8 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuIdjt41KuJVQwAQl2Z9nqMvWoDWtk1dUJkZQuvbDZ8VV1j4c5MEmqLguFyxrAcqACt9SwPUQNDgoAGSRD5fGUk11lI19_NcfNW9ABsCyxe-YouG2FPKq06j09DBCvgdsipn2rzjB9sdrkvB2ROmV6y0R98VcEw2yAskBTWwoe8i6BTnvT_WaT6GtPfThQ/s1600/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_UATV.png" group-title="International",UA TV
 https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_mid_.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg" group-title="International",CCTV 1
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/CCTV-1_Logo.svg/330px-CCTV-1_Logo.svg.png" group-title="International",CCTV 1
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVzbXD707rFHrjhNdgcAN0ZHqqMzUr-nfbSrH_2CrzjLbwIYCUPgEBa6aPw5kYF7vFPAoCqT_FQjbt0HmjV9BLyBFRxJab1JZdtxEbCZCyskixsWUNQWcmFxwgfa1QS9TZTF4zMaCd8rGmUYb6afGW60kwx02PIda_pp8yoLtbo9SD6zP1yAC6GEGt5VVS/s1600/cctv_4_logo.png" group-title="International",CCTV 4
 https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&userid=lite&chname=CCTV-4
@@ -1044,6 +1044,7 @@ http://nn.geo.joj.sk/hls/wau-360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="Other TV",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
