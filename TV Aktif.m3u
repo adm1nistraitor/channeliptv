@@ -606,7 +606,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/0/0f/BBC_Earth_channel.png/revision/latest?cb=20240207221203" group-title="International",BBC Earth
-https://aegis-cloudfront-1.tubi.video/82acc374-8c59-48a2-a2e5-3158d111d93f/playlist360p_704867.m3u8
+https://aegis-cloudfront-1.tubi.video/82acc374-8c59-48a2-a2e5-3158d111d93f/playlist540p_33639.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxuFUp1fo8MW75tih56pA1r9lm44tsXvEJbDvFj16j3ypQaem1uHfg0PzK2cBUUYP2TjkA9mw1IxBr0bH1vc9zsv9u54qRbY4Pf_I-iPh6dLqeahhfDVAmQIG2p0y9-P0jWg1-IAgLLW4_iPBdmQlFStgmN6AikdR4x848sqx_TSaj-qLctHBtTzipnh94/s1600/Bloomberg_Logo.png" group-title="International",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -1085,6 +1085,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Yahoo_Sports_New_Logo.png/1200px-Yahoo_Sports_New_Logo.png" group-title="TV Olahraga",Yahoo! Sports TV
 https://yahoo.global.transmit.live/ap-northeast-1/manifest/6862d5fd233e6604b8b457c6/158d5471-1482-4cde-8884-aceacfadaf9e/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/video-avc1.640028-mp4a.40.2-0.m3u8?ad.cust_params=lmsid=a077000000IraVzAAJ&spaceid=97304859&bucket=sports_game_page_test,prebid-bidderconfig-addappnxs-test,core-sports-team-newsdefault-copy,lr-client-test&site=sports&region=US&lang=en-US&pd=&pt=&pct=&pg_name=&expn=y20&ver=&hashtag=ymedia:playlist=b240dd70-41f1-11e9-acb7-d722bd65b8bf&pstaid=353797cb-afe9-3b48-8ba0-74265eaa3cc3&revsp=video.yahoosports.com&ad.gdpr=0&ad.gdpr_consent=&ad.givn=&ad.gpp=DBAA&ad.gpp_sid=-1&ad.iu=/22888152279/us/ysports/ros/dt/us_ysports_ros_dt_midroll_video&ad.ltd=0&ad.npa=0&ad.ppid=792d5f5a4c336f67564532754a63386866732e393967465a467a484d774b445578387e41&ad.url=https://sports.yahoo.com&ad.usprv=1---&ad.vid=353797cb-afe9-3b48-8ba0-74265eaa3cc3&h=1080&playlistUri=https://bcovlive-a.akamaihd.net/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/profile_0/chunklist_dvr.m3u8&sessionStart=1757666766988&streamPath=09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8&uid=__USER_ID__&w=1920
+
 
 
 
