@@ -652,6 +652,9 @@ https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="International",Newsmax
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/newsmax2.png" group-title="International",Newsmax2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://global.earthtv.com/wp-content/uploads/thumb-cache/earthTV-logo-blue-6811f6c193bec5ae38f4605938effca3-225x225-9-crop.png" group-title="International",Earth TV
 https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/chunklist.m3u8
 
@@ -1090,6 +1093,7 @@ https://yahoo.global.transmit.live/ap-northeast-1/manifest/6862d5fd233e6604b8b45
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Realmadrid_Television_Logo.svg.png/revision/latest?cb=20160826131237" group-title="TV Olahraga",RMTV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
+
 
 
 
