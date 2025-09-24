@@ -1077,8 +1077,8 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8tZNV3tNZc-Z8yC5vDFwJRD-iDbKzfv0EmQkcZZDH2Ux0_leVvoMntZDQs49rRlUCZzqEQIzfSlPR0m5XgMo7yIGknWGuCBpzhmvFTlSVkN_doaP8oLC59Z9aEFlIZwZrVyYleCINeZNfuIFfdtRcuvWitpEchX-q-PXu9flS6Hr8enXY-eXE6gg5T7/s1600/KIX_logo.svg.png" group-title="Film TV",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuM92iSep8AnVBy59LkZIcUyARiHcbb0Jiy8jIJSPghIY_R8a0bb2Gg5VLcOMWDyI8UDCn-rho5HtTJDmhCyxd4z5PwFhCUpCCFKOpWPY4hbrCeIla9ghPudO26JBI7CKOSK3IFcX2vQPd_5IPOWsTPLVZCAb3mXH7HTr0_bvWdB3QOg8q4oY4Q3u9opKu/s1600/Wau_nove_logo.png" group-title="Film TV",WAU
-http://nn.geo.joj.sk/hls/wau-360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Wau_nove_logo.png" group-title="Film TV",WAU
+https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
 
 
 
@@ -1098,6 +1098,7 @@ https://yahoo.global.transmit.live/ap-northeast-1/manifest/6862d5fd233e6604b8b45
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Realmadrid_Television_Logo.svg.png/revision/latest?cb=20160826131237" group-title="TV Olahraga",RMTV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
+
 
 
 
