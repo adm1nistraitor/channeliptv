@@ -629,7 +629,7 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV5zNhec8Uuvxrm9JpQAndm5lqYr3Q9jHzvc1hi_wS7r9h4PddKNpQbNLNiFmeG06SPqTCY3rf74fL0IHPUviLG-g7AA1MIkirXKc070oYgtaPJWZnm4fBUbdU1BtgxLdz6XSVlZtO_8_DftOk2k46QZOiXxQRPOKY9pCHxJ65QLm43O2NSLC8L4vJnWFX/s1600/CBS.png" group-title="International",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24_33275124.ts?m=1749883315
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24_33289231.ts?m=1749883315
 
 #EXTINF:0 tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" group-title="International",CNBC Live
 https://livetvde.net/cnbc/tracks-v1a1/mono.m3u8?token=e733a6fe73cfe3a0cc7845d57d7fd382884b4588-7dc57e3ce386567feef9ce25b0ecf68f-1758706332-1758695532
@@ -1093,6 +1093,7 @@ https://yahoo.global.transmit.live/ap-northeast-1/manifest/6862d5fd233e6604b8b45
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Realmadrid_Television_Logo.svg.png/revision/latest?cb=20160826131237" group-title="TV Olahraga",RMTV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
+
 
 
 
