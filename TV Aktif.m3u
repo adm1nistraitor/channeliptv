@@ -1045,7 +1045,7 @@ http://210.210.155.35/uq2663/h/h154/S4/mnf.m3u8
 http://210.210.155.35/uq2663/h/h153/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKQFtmFQNoCYnu8TK1-_t1uIfuu5aNONiHlkkeulO-a8inLH99XHJigB1oeDLTbdUYDs-WTh_nGGM3nmdvPfdMetOt2FsWEqJEeL7vC5NiVQsWyrzAARRFEpzkJvtBjAuB-7M7TSZ5r4imT5nI9cXLdQpzN2REePCr0QBhqGEyHYdJ0rWAx3UwqjEQKI1m/s1600/Dubai%20TV.png" group-title="Film TV",DUBAI International
-http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b5500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZcafLQsCMsMGT6hKfVR7gOffrweSNei6QUOW8nBIbEuRdhnyRRFNQCnAEBJruD92z1o2dmEUxsJQedECVPUD63t3vvu0kwIDNDRCfJLy9niPf-CjueQxb3x7BUVaXrqJSlK5e8j5kt9T3favrBo9iQ38Y1TS068EhSznTkXkOrZn-BnytyiMOg7C0UJ_/s1600/Movies_Now_logo.png" group-title="Film TV",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -1098,6 +1098,7 @@ https://yahoo.global.transmit.live/ap-northeast-1/manifest/6862d5fd233e6604b8b45
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Realmadrid_Television_Logo.svg.png/revision/latest?cb=20160826131237" group-title="TV Olahraga",RMTV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
+
 
 
 
