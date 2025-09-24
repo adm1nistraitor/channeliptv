@@ -604,9 +604,6 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-2007.png" group-title="International",ABC News New York
 https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-2007.png" group-title="International",ABC News New York
-https://content-aapm1.uplynk.com/channel/640a5a594b434c2691e20580afda564f/d.m3u8?pbs=c162f5c9389d4ef0bdd4defe1d87e1d5
-
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/820/447/png-clipart-bbc-news-logo-others-television-text.png" group-title="International",BBC News Live
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
@@ -1090,6 +1087,7 @@ https://yahoo.global.transmit.live/ap-northeast-1/manifest/6862d5fd233e6604b8b45
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Realmadrid_Television_Logo.svg.png/revision/latest?cb=20160826131237" group-title="TV Olahraga",RMTV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
+
 
 
 
