@@ -70,7 +70,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png" group-title="Indonesia TV",RCTI
-https://rcdn.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+https://rcdn.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?hdnts=exp=1758719557~hmac=e27be9633eb9dbaa91741e3c6b6f4335aaf0800949c658895efbd49f499637a9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_(2017).svg/2560px-GTV_(2017).svg.png" group-title="Indonesia TV",GlobalTV
 https://cdnjkt913.transvision.co.id:1003/live/init/4028c6856c3db2cc016cd6e8eda22394/700/init-stream3.m3u8
@@ -1098,6 +1098,7 @@ https://yahoo.global.transmit.live/ap-northeast-1/manifest/6862d5fd233e6604b8b45
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Realmadrid_Television_Logo.svg.png/revision/latest?cb=20160826131237" group-title="TV Olahraga",RMTV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
+
 
 
 
