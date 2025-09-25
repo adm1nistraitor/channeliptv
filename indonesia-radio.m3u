@@ -44,6 +44,9 @@ https://stream.radiojar.com/fnex9bkswk8uv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Heartline_FM_Network.png", Heartline FM (Lampung)
 #EXTVLCOPT:network-caching=1000
 https://svara-stream.radioddns.net:8900/lampung_heartline_mp3
+#EXTINF:0 tvg-logo="https", Hits Memories
+#EXTVLCOPT:network-caching=1000
+http://stream.zeno.fm/wvq442iwm6ztv
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOJVVbNvUH6mSoApDNw9izK9c7dd--7QE_g&s", iRadio Bandung
 #EXTVLCOPT:network-caching=1000
 https://stream.radiojar.com/4ywdgup3bnzuv?1757311029
@@ -56,6 +59,9 @@ https://cast1.my-control-panel.com/proxy/radioso4/live
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/05/Logo-Sonora.png/640px-Logo-Sonora.png", Kompas Sonora FM
 #EXTVLCOPT:network-caching=1000
 https://cast1.my-control-panel.com/proxy/radioso1/stream
+#EXTINF:0 tvg-logo="https", La Nugraha FM (Palembang)
+#EXTVLCOPT:network-caching=1000
+https://a12.siar.us/listen/lanugrahafm/stream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_Motion_Radio.png", Motion Radio (Jakarta)
 #EXTVLCOPT:network-caching=1000
 https://cast2.my-control-panel.com/proxy/radios19/stream
@@ -80,6 +86,9 @@ https://s2.cloudmu.id/listen/prambors/stream
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s10612/images/logog.png", Prambors FM (Makassar)
 #EXTVLCOPT:network-caching=1000
 https://s1.cloudmu.id/listen/prambors_makassar/stream
+#EXTINF:0 tvg-logo="https", Radio Mp3 Indonesia (Palembang)
+#EXTVLCOPT:network-caching=1000
+https://stream.zeno.fm/syelpxk6taevv
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa2RPKCcrl5QDJeTx278dMTBaw76wQjUjIOQ&s", RadioMuslim
 #EXTVLCOPT:network-caching=1000
 http://live.radiomuslim.com/;stream/1/;
@@ -110,6 +119,9 @@ https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro1.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/RRI_Pro_1_Samarinda_2023_%28Alt%29.svg/2560px-RRI_Pro_1_Samarinda_2023_%28Alt%29.svg.png", RRI Pro 1 Samarinda
 #EXTVLCOPT:network-caching=1000
 https://stream-node0.rri.co.id/streaming/16/9116/rrisamarindapro1.mp3
+#EXTINF:0 tvg-logo="http", RRI Pro 2 Palembang
+#EXTVLCOPT:network-caching=1000
+http://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro2.mp3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/RRI_Pro_2_Bandung_2023_%28Alt%29.svg/2560px-RRI_Pro_2_Bandung_2023_%28Alt%29.svg.png", RRI Pro 2 Bandung
 #EXTVLCOPT:network-caching=1000
 https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
