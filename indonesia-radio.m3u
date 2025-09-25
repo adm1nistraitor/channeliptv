@@ -133,7 +133,7 @@ https://cast2.my-control-panel.com/proxy/radioso3/stream
 https://cast2.my-control-panel.com/proxy/radios21/stream
 #EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s135934/images/logog.png", Sriwijaya FM Palembang
 #EXTVLCOPT:network-caching=1000
-https://thenonstopradio.com/play?url=http://sriwijaya.onlivestreaming.net:9430/stream
+https://sriwijaya.onlivestreaming.net:9430/stream
 #EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s183838g.png", Suara Mahakam Samarinda
 #EXTVLCOPT:network-caching=1000
 http://u.klikhost.com:8000/suara_mahakam
