@@ -788,8 +788,12 @@ https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w328775573.m3u8
 #EXTINF:-1 tvg-logo="https://americasmusicaljourney.com/wp-content/uploads/2017/11/gousa_logo_color.png" group-title="International",GoUSA TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Li5GYyuE8SoJYsEhBsrf
 
-#EXTINF:-1 tvg-logo="https://www.usagm.gov/wp-content/uploads/2022/01/VOALogo_MarkOnly_RGB_FullColor.png" group-title="International",VoA
+#EXTINF:-1 tvg-logo="https://www.usagm.gov/wp-content/uploads/2022/01/VOALogo_MarkOnly_RGB_FullColor.png" group-title="International",UN Web Channel
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.uihj.com/wp-content/uploads/2020/04/inwB4O2s_400x400.jpg" group-title="International",VoA
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
 
 
 
@@ -1136,6 +1140,7 @@ https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="TV Olahraga",BeiN Sport Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
 
 
 
