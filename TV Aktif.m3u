@@ -516,6 +516,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee16331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png" group-title="Music",MTV Flow Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png" group-title="Music",Pluto MTV classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Music",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -524,6 +527,10 @@ https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bluestn.com/wp-content/uploads/2019/06/btnLogo-2.png" group-title="Music",Blues TV Network
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/518/407/png-clipart-k-pop-logo-pop-music-winner-kpop-miscellaneous-purple.png" group-title="Music",New K-POP
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
 
 
 ####### KIDS #######
@@ -1101,6 +1108,19 @@ https://yahoo.global.transmit.live/ap-northeast-1/manifest/6862d5fd233e6604b8b45
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Realmadrid_Television_Logo.svg.png/revision/latest?cb=20160826131237" group-title="TV Olahraga",RMTV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Realmadrid_Television_Logo.svg.png/revision/latest?cb=20160826131237" group-title="TV Olahraga",RMTV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b525d07e-cb2a-4b30-946b-2d5b0127ca60/Plex_billiard_horizontal.jpg" group-title="TV Olahraga",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/World_Poker_Tour_white_on_black_logo.jpg" group-title="TV Olahraga",World Poker Tour
+https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="TV Olahraga",BeiN Sport Xtra
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
 
 
 
