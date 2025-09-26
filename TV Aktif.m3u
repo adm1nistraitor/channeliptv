@@ -531,6 +531,9 @@ https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/518/407/png-clipart-k-pop-logo-pop-music-winner-kpop-miscellaneous-purple.png" group-title="Music",New K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network
+https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
+
 
 
 ####### KIDS #######
@@ -1120,6 +1123,7 @@ https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="TV Olahraga",BeiN Sport Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
 
 
 
