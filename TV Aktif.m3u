@@ -54,10 +54,10 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/MetroTV_2000.svg/revision/latest/scale-to-width-down/300?cb=20180224092515"  group-title="Indonesia TV",Metro TV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png"  group-title="Indonesia TV",Magna Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934"  group-title="Indonesia TV",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png"  group-title="Indonesia TV",Magna Channel 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934"  group-title="Indonesia TV",Magna Channel 2
 https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png"  group-title="Indonesia TV",Nusantara TV
@@ -171,9 +171,6 @@ https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b3/Rodja_TV.png" group-title="Indonesia TV",Rodja TV 2
 https://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ztA7mMOQ_CgVegfzkO8c0fH_l8jts0YzA4G98p9fLanSpkgIAnt70yikgClGd6btbKjuzsVpadMbCrnUB_6qSNWMDb8djMZ3NWe6daiHEY3SWLQchzxz4KiG16_smIJwFxmLRTEQBXZg4iHE1IB4QqhUCtexIkiEzFWSRF5UhSxxDCDdqNPuit7TUCkS/s1600/LingkarTV.png" group-title="Indonesia TV",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest?cb=20220525022727" group-title="Indonesia TV",TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8   
 
@@ -198,241 +195,245 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 
 
-######TV Daerah#######
+######Lokal#######
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_(2018).png" group-title="TV Daerah",JAKTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_(2018).png" group-title="TV Lokal",JAKTV
 http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_Tegar_TV.png" group-title="TV Daerah",TEGAR TV Lampung
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/17/Logo_Tegar_TV.png" group-title="TV Lokal",TEGAR TV Lampung
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="TV Daerah",Bungo TV Jambi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="TV Lokal",Bungo TV Jambi
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title="TV Daerah",TVKU Semarang
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title="TV Lokal",TVKU Semarang
 https://tvku.tv/hlsstream/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeklurtrcFAGiTh8oKJW56ZBkgy6faY_Nd3gAMkLRGjQQxoiUTv_IRX-lGTOa2s3x3iPPyyk8ijFk46rPaJbj3eNMkrLLnIl1XLFSLMEIXLXWIMED4nS6qrW5NMAw8UjmxUacLm5g-52_U38QhGzyYd_8afeynGmoIL1Rzm3tIs0ikGycDDsvhDfrmwsdY/s1600/Jogja_Istimewa_TV.png" group-title="TV Daerah",JITV Jogja
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeklurtrcFAGiTh8oKJW56ZBkgy6faY_Nd3gAMkLRGjQQxoiUTv_IRX-lGTOa2s3x3iPPyyk8ijFk46rPaJbj3eNMkrLLnIl1XLFSLMEIXLXWIMED4nS6qrW5NMAw8UjmxUacLm5g-52_U38QhGzyYd_8afeynGmoIL1Rzm3tIs0ikGycDDsvhDfrmwsdY/s1600/Jogja_Istimewa_TV.png" group-title="TV Lokal",JITV Jogja
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ef/Logo_CTV_Network_2023.png" group-title="TV Daerah",CTV Banten (Cahaya)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ef/Logo_CTV_Network_2023.png" group-title="TV Lokal",CTV Banten (Cahaya)
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w2003386219.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="TV Daerah",PAL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="TV Lokal",PAL TV
 https://v3.siar.us/paltv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d1/Sriwijaya_tv_logo_2006.png/revision/latest?cb=20231217222046" group-title="TV Daerah",Sriwijaya TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d1/Sriwijaya_tv_logo_2006.png/revision/latest?cb=20231217222046" group-title="TV Lokal",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/11/Logo_Duta_TV.png" group-title="TV Daerah",Duta TV (Bali)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/11/Logo_Duta_TV.png" group-title="TV Lokal",Duta TV (Bali)
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png" group-title="TV Daerah",JPN Stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_JPM_TV.png" group-title="TV Lokal",JPN Stream
 http://122.248.43.138:1935/jpm/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="TV Daerah",Bali TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="TV Lokal",Bali TV
 https://d3vd9lfkzbru3h.cloudfront.net/6a3270a3204336d38045_balitvnaradha_314764063209_1758022489/chunked/4.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_(Indonesian_TV_channel)_2022.svg/2438px-JTV_(Indonesian_TV_channel)_2022.svg.png" group-title="TV Daerah",JTV Surabaya
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_(Indonesian_TV_channel)_2022.svg/2438px-JTV_(Indonesian_TV_channel)_2022.svg.png" group-title="TV Lokal",JTV Surabaya
 https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/chunklist_w1234382599.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" group-title="TV Daerah",Madu TV (Tulungagung Jatim)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" group-title="TV Lokal",Madu TV (Tulungagung Jatim)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png" group-title="TV Daerah",Sakti TV (Surabaya)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png" group-title="TV Lokal",Sakti TV (Surabaya)
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="TV Daerah",Semarang TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="TV Lokal",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_KSTV_Kediri.png" group-title="TV Daerah",Kilisuci TV (Kediri)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ztA7mMOQ_CgVegfzkO8c0fH_l8jts0YzA4G98p9fLanSpkgIAnt70yikgClGd6btbKjuzsVpadMbCrnUB_6qSNWMDb8djMZ3NWe6daiHEY3SWLQchzxz4KiG16_smIJwFxmLRTEQBXZg4iHE1IB4QqhUCtexIkiEzFWSRF5UhSxxDCDdqNPuit7TUCkS/s1600/LingkarTV.png" group-title="TV Lokal",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_KSTV_Kediri.png" group-title="TV Lokal",Kilisuci TV (Kediri)
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54EgiNMK6evqBFsXtG0TSE4ll5ZOBS4pFXSx5qiPA4urXcp5KSD4AncZtSWPEYX8s6KuEFQFTMgeFfgI_EC_WLvgFFT8fT0YqtuY19z3Yko2hYzEGtEORrq_kPsff9y-bUUA6zAXbbqkme8LJ1gCJ7DEWtsfBhyphenhyphenAP8-sYLLnp3eP5sUrQl0wHuVQqUMM1/s1600/Jogjatvnew.png" group-title="TV Daerah",Jogja TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54EgiNMK6evqBFsXtG0TSE4ll5ZOBS4pFXSx5qiPA4urXcp5KSD4AncZtSWPEYX8s6KuEFQFTMgeFfgI_EC_WLvgFFT8fT0YqtuY19z3Yko2hYzEGtEORrq_kPsff9y-bUUA6zAXbbqkme8LJ1gCJ7DEWtsfBhyphenhyphenAP8-sYLLnp3eP5sUrQl0wHuVQqUMM1/s1600/Jogjatvnew.png" group-title="TV Lokal",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/BETV_Bengkulu.png" group-title="TV Daerah",Bengkulu TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/BETV_Bengkulu.png" group-title="TV Lokal",Bengkulu TV
 http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCo2pHwDGZuH8DolMw5LgSaqcaNh63Ta8Zj6SMxoVMYwiDr5CdJX1ZF6VXYQTjYS0KUhPG675Q4gBZ63X6T80cBDhACX9Hy01hVaIiP2BAOflt-_no0yAAA8Qp-p0hRAxio1WrIOnbbrFDylUujoSB-QbIoynFC8MI0QlrQ41cu3z5ot3m-wlhHnHCFKEB/s1600/Simpang5_TV.png" group-title="TV Daerah",Simpang 5 TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCo2pHwDGZuH8DolMw5LgSaqcaNh63Ta8Zj6SMxoVMYwiDr5CdJX1ZF6VXYQTjYS0KUhPG675Q4gBZ63X6T80cBDhACX9Hy01hVaIiP2BAOflt-_no0yAAA8Qp-p0hRAxio1WrIOnbbrFDylUujoSB-QbIoynFC8MI0QlrQ41cu3z5ot3m-wlhHnHCFKEB/s1600/Simpang5_TV.png" group-title="TV Lokal",Simpang 5 TV
 http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCeZAMUx3BhR94RXEAzWlwgdjI1_vRV5EyS9rHQcSFECISO5tomPbVy2icmZHagxb5ybCjM-Ulu5gkIwl4bJxu_9Z2Q4DCDiKAvzhTeTowYVMMfiq1FtnicTJ47rGmhP_duMps1os25pQ7q9GjB0bWqZnwu4oMTdMSbBBJaE6a4rDW5PHyxaDe45JzHPTu/s1600/Batam_TV.png" group-title="TV Daerah",Batam TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCeZAMUx3BhR94RXEAzWlwgdjI1_vRV5EyS9rHQcSFECISO5tomPbVy2icmZHagxb5ybCjM-Ulu5gkIwl4bJxu_9Z2Q4DCDiKAvzhTeTowYVMMfiq1FtnicTJ47rGmhP_duMps1os25pQ7q9GjB0bWqZnwu4oMTdMSbBBJaE6a4rDW5PHyxaDe45JzHPTu/s1600/Batam_TV.png" group-title="TV Lokal",Batam TV
 http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Celebes_TV_2020.png" group-title="TV Daerah",Celebes TV (Makasar)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Celebes_TV_2020.png" group-title="TV Lokal",Celebes TV (Makasar)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Banten_TV_Baru.png" group-title="TV Daerah",Banten TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Banten_TV_Baru.png" group-title="TV Lokal",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Jawa_Pos_TV_2024.png" group-title="TV Daerah",Jawapos TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Jawa_Pos_TV_2024.png" group-title="TV Lokal",Jawapos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1d/Logo_DMTV.png" group-title="TV Daerah",DMTV (Malang)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1d/Logo_DMTV.png" group-title="TV Lokal",DMTV (Malang)
 https://e.siar.us/live/dmtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/61/RCTV_Cirebon_(2012).png/revision/latest?cb=20210524135124" group-title="TV Daerah",RCTV (Cirebon)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/6/61/RCTV_Cirebon_(2012).png/revision/latest?cb=20210524135124" group-title="TV Lokal",RCTV (Cirebon)
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Balikpapan_TV_2011.png/revision/latest?cb=20181001024159" group-title="TV Daerah",Balikpapan TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Balikpapan_TV_2011.png/revision/latest?cb=20181001024159" group-title="TV Lokal",Balikpapan TV
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/TV_Tabalong_Logo.png/revision/latest?cb=20190203120443" group-title="TV Daerah",Tabalong TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/TV_Tabalong_Logo.png/revision/latest?cb=20190203120443" group-title="TV Lokal",Tabalong TV
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d9/Riau_TV.png" group-title="TV Daerah",Riau TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d9/Riau_TV.png" group-title="TV Lokal",Riau TV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/93/RBTV_Bengkulu.png" group-title="TV Daerah",RBTV (Bengkulu)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/93/RBTV_Bengkulu.png" group-title="TV Lokal",RBTV (Bengkulu)
 http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxGzzCG36HNthm5ktO8fW7Q0ZCsb4BdbG2Nfso4LktiMjoLIquZC54_B7bW0_icR16OgYq8pxf0ijCP0dpJU6hUvcl8v0SkeKG2Ku3ix-1-SFhQkEe1puQxeil81dSnGjqcvv-swwufsyh3txbwoerwguQOjUWWGYTDYQ_ybsOlbPDjUGHteSDNNmETgS/s1600/TATV.png" group-title="TV Daerah",TATV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxGzzCG36HNthm5ktO8fW7Q0ZCsb4BdbG2Nfso4LktiMjoLIquZC54_B7bW0_icR16OgYq8pxf0ijCP0dpJU6hUvcl8v0SkeKG2Ku3ix-1-SFhQkEe1puQxeil81dSnGjqcvv-swwufsyh3txbwoerwguQOjUWWGYTDYQ_ybsOlbPDjUGHteSDNNmETgS/s1600/TATV.png" group-title="TV Lokal",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1e/PONTV.png" group-title="TV Daerah",Pon TV (Pontianak)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1e/PONTV.png" group-title="TV Lokal",Pon TV (Pontianak)
 https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/39/Padang_TV_2007.png/revision/latest?cb=20231115142510" group-title="TV Daerah",Padang TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/3/39/Padang_TV_2007.png/revision/latest?cb=20231115142510" group-title="TV Lokal",Padang TV
 https://aps13.playlist.ttvnw.net/v1/playlist/CqsGhPgj347sQkwmWAMc0QnRxNi2j9xJZ47P1Ht_uTMYpAd-VQUYai40RrIqO_76MZQvlLUUZ9h2VzYkQBhqtGNRDRjAzguK88ZSeONOEldoi75bwxuz4y5Gpaaih6mDFY8Wp8B9iEn6yi6e3qrtc1i_piFOmZddt-Vbmo2rCU9pzXSytpjRgv74wOHUEEdONTPtE8jq-ByjU05xHLH30G0QVar0Bt8vAreCg5xYD15L8VJoFNYAyRIvXz3Kv9hb4gCX2M7n5aCA-ah4rDYGWqOLd2DDuWFxH-cc5PTUhj57SkTShcRlwLYDfYhaUD3k12F1yIZijY5CDC8l7UMcpaA2Ym2LA6Pce8Iy4tVUtFNeUsq67ifef13N68wPTOWYtfB_X4NYefqrduBv7ZkwmYCVzOGKeV-SWoeEZ65-mJ-UFUvTcBE5yrYTbQun1YmbJa9XhK6e0Pje66XcGCJwY54-kGqixnkq9rIjcOjnw38ZzmrsMXgGr4Qccj1yHqN1M3w5scAgG1T1iGhC49MPCbZiJxuxgRQpfWWl3i-63Eu63ZnyZ2ftoi3TxwLGd5-2VhlcKxICB858alwgS0M_el351nfTyTaCky081zff3cnJ7AemZ8FFnHhUIaD6ngUjt1lzierpUd97CQ1ziiElaM07-AS5Mfpp8HLc7G9M48SaBUzkkkVSlZycEFmbo7uOO92WVMCR0M-RvPRKRYzKNKiSKI69RWNBXM7p5x9a0r3YkWBoQr0RdkGGPryk7yMP1MfKjrvXFqdu1N4U64txINzwEwbBxs-9yX6FeGyzLmCusL5JiSHtX18zSXBtudvTm2v9-qqpE2LPb1Zc9W-kza71yBJkdb3BWmw45hc0eX-NjPq-fWcE5apAhwfLxh490mYJhMi-Qco0Xdo7V4XEV67o51Vayu93NU7KeIEBF2Qa1UuioQSH36i-Xc6vvbD9FDTSws5wiHGj3Z6GJRpHKqNG-JrvWl-Y2ImP5dii8u4RCGjqgXNH_n5ojhwd637mr-IENk8V9Wus__XTt2Z0rcivuHOR_UPB6l6vI2pI3CREA5FuCvPKTG3CbbRYkBoM_Lo5veJ4N5KompfIIAEqCXVzLXdlc3QtMjCgDQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Radar_TV.png" group-title="TV Daerah",Radar TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Radar_TV.png" group-title="TV Lokal",Radar TV
 http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj0moV4VbeWenjV0jIlA2N9rHmHMB77i2-F33W1ow5wYJikxjek9_kX1EK7Kh7qz_Xam-Tam2hPEHNLY2n-C7MKPTP9cb_wWnzLcao5lOzkPz4QDVNXWrdhkkwAkYcVW2vtyojht2FkMbfHt6MoBEaQ4j2IKQYM_fcvLYZ1x6EPwcDGxckjeYHUpBtYPS/s1600/Kawanua_TV.png" group-title="TV Daerah",Kawanua TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj0moV4VbeWenjV0jIlA2N9rHmHMB77i2-F33W1ow5wYJikxjek9_kX1EK7Kh7qz_Xam-Tam2hPEHNLY2n-C7MKPTP9cb_wWnzLcao5lOzkPz4QDVNXWrdhkkwAkYcVW2vtyojht2FkMbfHt6MoBEaQ4j2IKQYM_fcvLYZ1x6EPwcDGxckjeYHUpBtYPS/s1600/Kawanua_TV.png" group-title="TV Lokal",Kawanua TV
 https://63b2dc7196c38.streamlock.net/KAWANUATV/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Jambi_TV.png" group-title="TV Daerah",Jambi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Jambi_TV.png" group-title="TV Lokal",Jambi TV
 http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="TV Daerah",SMTV (Sumedang)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="TV Lokal",SMTV (Sumedang)
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/Dayak_TV.jpeg" group-title="TV Daerah",Dayak TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/Dayak_TV.jpeg" group-title="TV Lokal",Dayak TV
 http://122.248.43.138:1935/ch26/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7b/Huma_Betang_TV.png" group-title="TV Daerah",Huma Betang TV (Barito)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7b/Huma_Betang_TV.png" group-title="TV Lokal",Huma Betang TV (Barito)
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://banjartv.com/wp-content/uploads/2025/09/Logobtv.png" group-title="TV Daerah",Banjar TV
+#EXTINF:-1 tvg-logo="https://banjartv.com/wp-content/uploads/2025/09/Logobtv.png" group-title="TV Lokal",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="TV Daerah",Bandung TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="TV Lokal",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHsvpD0m0NWI4reo5I-gtDpH-efX28mimgyi1ju3O3hXos7YaVizhzuivmu7denlaChjXXqz-WRjjWnXueaLEF961DR8CVRhQPxZfRLe_oe258BjA28GHBdx5THsm00ca_tIW1wLF9Y-xmf5m7KCrRKa9BAZhfQe44rdoBFb35s7ILFUNVovl8uYRIa4WE/s1600/Citratv_%28baru%29.png" group-title="TV Daerah",Citra TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHsvpD0m0NWI4reo5I-gtDpH-efX28mimgyi1ju3O3hXos7YaVizhzuivmu7denlaChjXXqz-WRjjWnXueaLEF961DR8CVRhQPxZfRLe_oe258BjA28GHBdx5THsm00ca_tIW1wLF9Y-xmf5m7KCrRKa9BAZhfQe44rdoBFb35s7ILFUNVovl8uYRIa4WE/s1600/Citratv_%28baru%29.png" group-title="TV Lokal",Citra TV
 http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmIcOL1diQXk-JXRYQ708x0k3EBymdXjmk9me-Jqv9LBZcQ3o9TTguG7BjVOBs_YRGVahPCNlr7Rk_s_fJcRVrVmyY32sds-mifDB7n-bitO774LvjqHFV6huTxgpITdTI-OazfpxNCDztEqziPIY5-uIHprOYHzm_yvER69rwugL8y2-RE88d3XQC4Zhz/s1600/AKTV_2025.png" group-title="TV Daerah",AKTV (Cimahi)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmIcOL1diQXk-JXRYQ708x0k3EBymdXjmk9me-Jqv9LBZcQ3o9TTguG7BjVOBs_YRGVahPCNlr7Rk_s_fJcRVrVmyY32sds-mifDB7n-bitO774LvjqHFV6huTxgpITdTI-OazfpxNCDztEqziPIY5-uIHprOYHzm_yvER69rwugL8y2-RE88d3XQC4Zhz/s1600/AKTV_2025.png" group-title="TV Lokal",AKTV (Cimahi)
 https://e.siar.us/live/aktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Arek_TV.png" group-title="TV Daerah",Arek TV (Sidoarjo)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Arek_TV.png" group-title="TV Lokal",Arek TV (Sidoarjo)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/86/DhohoTV.png/320px-DhohoTV.png" group-title="TV Daerah",Doho TV (Kediri)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/86/DhohoTV.png/320px-DhohoTV.png" group-title="TV Lokal",Doho TV (Kediri)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Surabaya_TV_2007.png/revision/latest?cb=20211208110244" group-title="TV Daerah",Surabaya TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Surabaya_TV_2007.png/revision/latest?cb=20211208110244" group-title="TV Lokal",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_Efarina_TV.png" group-title="TV Daerah",Efarina TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_Efarina_TV.png" group-title="TV Lokal",Efarina TV
 https://live.efarinatv.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/BMSTV_2016.png" group-title="TV Daerah",Banyumas TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/29/BMSTV_2016.png" group-title="TV Lokal",Banyumas TV
 https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinBU6R4-J14l7rkSAXKbqf_4J7w56v3iQl3tXal6AZzJaAuSmnXfcaX8VLs4XA_HfdovpCfJpam4YtoWaNcoGuJRddCFM3S4P-BJxDI57nnuigK3KdtX_wK57rsiwpdxyYNYPQ2shbUYGeRvESNYEGhehpk5Cif6vpHr5UpO2HLnLUvQm5zsm-1YWoObfi/s1600/FicomTV.png" group-title="TV Daerah",Ficom Channel
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinBU6R4-J14l7rkSAXKbqf_4J7w56v3iQl3tXal6AZzJaAuSmnXfcaX8VLs4XA_HfdovpCfJpam4YtoWaNcoGuJRddCFM3S4P-BJxDI57nnuigK3KdtX_wK57rsiwpdxyYNYPQ2shbUYGeRvESNYEGhehpk5Cif6vpHr5UpO2HLnLUvQm5zsm-1YWoObfi/s1600/FicomTV.png" group-title="TV Lokal",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="TV Daerah",Radar TV (Tasikmalaya)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="TV Lokal",Radar TV (Tasikmalaya)
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_Salira_TV.png/640px-Logo_Salira_TV.png" group-title="TV Lokal", Salira TV
+https://live.salira.tv/p/3870/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Aceh (720p) [Not 24/7]
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Aceh (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Bali (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Bali (480p)
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Bangka Belitung (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Bangka Belitung (480p)
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Bengkulu (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Bengkulu (480p)
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI DKI Jakarta (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI DKI Jakarta (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Gorontalo (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Gorontalo (480p)
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Jambi (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Jambi (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Jawa Barat (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Jawa Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Jawa Tengah (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Jawa Tengah (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Jawa Timur (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Jawa Timur (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Kalimantan Barat (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Kalimantan Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Kalimantan Selatan (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Kalimantan Selatan (720p)
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Kalimantan Tengah (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Kalimantan Tengah (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Kalimantan Timur (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Kalimantan Timur (720p)
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Lampung (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Lampung (720p)
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Maluku (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Maluku (480p)
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Nusa Tenggara Barat (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Nusa Tenggara Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Nusa Tenggara Timur (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Nusa Tenggara Timur (480p)
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Papua (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Papua (480p)
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Riau (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Riau (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Sulawesi Barat (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sulawesi Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Sulawesi Selatan (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sulawesi Selatan (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Sulawesi Tengah (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sulawesi Tengah (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Sulawesi Tenggara (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sulawesi Tenggara (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Sumatera Barat (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sumatera Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Sumatera Selatan (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sumatera Selatan (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Daerah", TVRI Yogyakarta (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_Salira_TV.png/640px-Logo_Salira_TV.png" group-title="TV Daerah", Salira TV
-https://live.salira.tv/p/3870/hybrid/play.m3u8
 
 
 
@@ -612,6 +613,40 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="Kids",Toon Goggles ID37 (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Kids",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Kids",Toonami Aftermath West (480p)
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Kids",Toonami Aftermath Radio (480p)
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Kids",Toonami Aftermath Movies (540p)
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIm9u3fAxjK-4lD-4i_08BhNJn10Vlzi-3rFb9RdtIGdwXbY499WiCx8oERTImjR_UTjv0qW68EdtCwjNcmrpguT2SerIirB2DPmCltJrWPEIfT0bHad7SYno7WqBxjyMgSWuU-pFJ1_pFTPb8bMnOkhkcvZsdamlyCSYKE07Kn-sX8hsTU9q3XZfSx5H/s1600/Cartoon%20Network.png" group-title="Kids",Cartoon Network
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Kids",Animax 1
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Kids",Animax 2
+http://rr1.dens.tv/h/h144/index10.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Kids",Animax 3
+http://210.210.155.35/dr9445/h/h144/index10.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oORS1KDvNfEri42DZbGxgpg3m315Fwt-_qJ4LEFmF3KtilbO9yopi0BBsYgWy2mrlHucsSVjZaQ3LvmlZjI8-y5zIZY6m6o-o6G9kXmdKdtIGkfEXW0_kIHeMcBAhmkKeNTuD2nleYba1ey_Ata4yrHHF-Tq3jNY0UU8iCvgLSzRpk6vCF27vGp-dyZj/s1600/Aniplus-Asia-PNG.png" group-title="Kids",Ani Plus
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/2560px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="Kids",Spongebob
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
+
+
+
+
+
 
 
 ####### INTERNATIONAL #######
@@ -631,6 +666,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Logo-2007.png" group-title="International",ABC News New York
 https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",ARIRANG (Korea)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/Aljazeera_eng.png" group-title="International",Al Jazeera (English)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/820/447/png-clipart-bbc-news-logo-others-television-text.png" group-title="International",BBC News Live
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
@@ -659,11 +700,14 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-e
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV5zNhec8Uuvxrm9JpQAndm5lqYr3Q9jHzvc1hi_wS7r9h4PddKNpQbNLNiFmeG06SPqTCY3rf74fL0IHPUviLG-g7AA1MIkirXKc070oYgtaPJWZnm4fBUbdU1BtgxLdz6XSVlZtO_8_DftOk2k46QZOiXxQRPOKY9pCHxJ65QLm43O2NSLC8L4vJnWFX/s1600/CBS.png" group-title="International",CBS 24/7 News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8
 
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1J9dcbgiqWW6ut4z0kz0ENd4S3B2RIHN-8hid4Gt-dJdnDmWzlNTHKUlMBAITqkd0Enj1mLkx9hDL_nL4aqz4WoDG9rjW_u-ZP8DqLjgMQVclG9hQJuY3fnFRKGrjOcELHMZSVH-mWMTHxBAHsTpstzvGQlV_oKQLIdmXCS3LVS10xvPx4_B1z3-1Atu/s1600/NBC_News.png" group-title="International",NBC News
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+
 #EXTINF:0 tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" group-title="International",CNBC Live
 https://livetvde.net/cnbc/tracks-v1a1/mono.m3u8?token=e733a6fe73cfe3a0cc7845d57d7fd382884b4588-7dc57e3ce386567feef9ce25b0ecf68f-1758706332-1758695532
 
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1J9dcbgiqWW6ut4z0kz0ENd4S3B2RIHN-8hid4Gt-dJdnDmWzlNTHKUlMBAITqkd0Enj1mLkx9hDL_nL4aqz4WoDG9rjW_u-ZP8DqLjgMQVclG9hQJuY3fnFRKGrjOcELHMZSVH-mWMTHxBAHsTpstzvGQlV_oKQLIdmXCS3LVS10xvPx4_B1z3-1Atu/s1600/NBC_News.png" group-title="International",NBC News
-https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.petergeorgescu.com/wp-content/uploads/2019/10/msnbc-logo-png-1920.png" group-title="International",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/LiveNOW_from_FOX.png" group-title="International",Live Now FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -697,18 +741,6 @@ https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/c
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiufyzPd33M4YZun7Ymdv1dKKYgW_MbDM4sogP4dMTxmGH8tlZliezVtRAbvHh1w2A2q_mKjHHxAWero_Kwsi948VFlL0IgvuLPHYNMTdd3MInsnsjqhLS6tD3R_BiXWORWJzYqZ6LbDaJYvu0ioLY6B_U-6vodBW4dS2DXoG8h8zUABlXBKUSwpSj3ZBYY/s1600/NHK.png" group-title="International",NHK WORLD
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="International",ARIRANG (Korea)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/Aljazeera_eng.png" group-title="International",Al Jazeera (English)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2560px-Logo_tvN.svg.png" group-title="International",tvN Asia
-https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz1SWWcIA98NUZ06tB1uuY6NmFIKrzz7POnTzwLkJwD1GfQ9w9evLFpZ1LS7Cz_EOOigS3tDQFppusHe6UZFU-Y3ixJw9MAfCZ9Mzzqcck5qITQyT_9oUqRj8TPIdzBZuWE9JNDjPR1ff1AB13hnT_yzQ5kiy8BvKAG5IfTLbUpAhaT-BN9HqTuRNQ4g/s1600/tvN%20Movies%20Asia.png" group-title="International",tvN Movies Asia
-https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-A-fe9OaZV-6d12CQa42e0DWfugXPmYObxXvoCKlNEhUPYKdTxdTQnTPoZ_8FwglrHvM5jGYLMnamikXYo4juS49dpz4nwGPr9FghOqQudoC7dRjo8dEwVAGoqK6mN6_WixhNPRKInwzCSoWURh4R9TcIKL0ELhlc-_t2y7RDjsovbdy-_iuJZhnZXaP/s1600/TRT_World_logo.png" group-title="International",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
@@ -746,6 +778,9 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist_w69057261.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/l/o/5/5862.1442339387.png" group-title="International",Al Arabiya
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKQFtmFQNoCYnu8TK1-_t1uIfuu5aNONiHlkkeulO-a8inLH99XHJigB1oeDLTbdUYDs-WTh_nGGM3nmdvPfdMetOt2FsWEqJEeL7vC5NiVQsWyrzAARRFEpzkJvtBjAuB-7M7TSZ5r4imT5nI9cXLdQpzN2REePCr0QBhqGEyHYdJ0rWAx3UwqjEQKI1m/s1600/Dubai%20TV.png" group-title="International",DUBAI International
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b5500000.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdzIS2knWi-z_5ob_oZOBMIG3coLuBB3CJnl2L3HjFox00p8d_IDhFKhri2hxOsC4PmmaA9TA_PNtJP94KoNNnkwMU0Wl_9I-PgYnERhesAG2NsXvTF2KT_5kAmkE4FeCT4NBK8ID1vzh9AIfv5GPkq65RK-ALpYyLuyCxHz-hFqUQcrdm8ES0bZ007nge/s1600/Phoenix_Chinese.png" group-title="International",Phoenix
 http://210.210.155.35/uq2663/h/h157/S4/mnf.m3u8
 
@@ -757,12 +792,6 @@ http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGCnl0D-2Vhk69T2maawZyAPJcTSM40cQr9WqN7Iu6f6yzEg2eHdAx_CmTibaXAOrPY-G9IvEH77dlaiFdesunGrflScmYGP6-aXWoGmqM5S8bhWqxL5qE99rEfLkieQkIr99O2mwQsm0jZWAdmkwinalcMCPH-WKKKP2d2XY7WAmaIHFCinO0Y3uxDU5/s1600/K-drama_logo.png" group-title="International",K Drama
 http://45.126.83.51/qwr9ew/s/s42/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xVOQHqcwKWqzkfgBrdu0GbiraEeOGzL25PUwni9BTqbAVU6V8XEwNOHMMGyjQGjjOcJhMJOytRRuwMfKyjEq_ompMXcgGj5q9F97gJMpi_AYPgxqv4FqdSiFLWPOPNGGfu0VvuMywnkdhlVVhFIA9_pACaxikEvTgGfc8UlPs_r0HJaVTKzqgscBEJiv/s1600/Russia-today-logo.svg.png" group-title="International",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xVOQHqcwKWqzkfgBrdu0GbiraEeOGzL25PUwni9BTqbAVU6V8XEwNOHMMGyjQGjjOcJhMJOytRRuwMfKyjEq_ompMXcgGj5q9F97gJMpi_AYPgxqv4FqdSiFLWPOPNGGfu0VvuMywnkdhlVVhFIA9_pACaxikEvTgGfc8UlPs_r0HJaVTKzqgscBEJiv/s1600/Russia-today-logo.svg.png" group-title="International",RT Documentary
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiei3mWurrHFayz_ubgRUJ5XPJRrbcs2Odd5GYtzDYsRtklULMu49O2lLHWJ7e5tAWkPmy97-RnRhDOi56AhgnT6vLxCfB9UU37mASAbIv6HLHNicRDswxAEbyRbGlXPsjA4cvzWPMeT8S68Q0owIOrpIDI3TQah9-Sl5DA-_ceGSE6DSNcAdY9Er4RKc0b/s1600/RTP.png" group-title="International",RTP Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
@@ -782,14 +811,17 @@ https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="International",CNN Go
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.petergeorgescu.com/wp-content/uploads/2019/10/msnbc-logo-png-1920.png" group-title="International",MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/KTV_logo.svg/2560px-KTV_logo.svg.png" group-title="International",KTV Korea
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w328775573.m3u8
 
 #EXTINF:-1 tvg-logo="https://americasmusicaljourney.com/wp-content/uploads/2017/11/gousa_logo_color.png" group-title="International",GoUSA TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Li5GYyuE8SoJYsEhBsrf
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xVOQHqcwKWqzkfgBrdu0GbiraEeOGzL25PUwni9BTqbAVU6V8XEwNOHMMGyjQGjjOcJhMJOytRRuwMfKyjEq_ompMXcgGj5q9F97gJMpi_AYPgxqv4FqdSiFLWPOPNGGfu0VvuMywnkdhlVVhFIA9_pACaxikEvTgGfc8UlPs_r0HJaVTKzqgscBEJiv/s1600/Russia-today-logo.svg.png" group-title="International",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xVOQHqcwKWqzkfgBrdu0GbiraEeOGzL25PUwni9BTqbAVU6V8XEwNOHMMGyjQGjjOcJhMJOytRRuwMfKyjEq_ompMXcgGj5q9F97gJMpi_AYPgxqv4FqdSiFLWPOPNGGfu0VvuMywnkdhlVVhFIA9_pACaxikEvTgGfc8UlPs_r0HJaVTKzqgscBEJiv/s1600/Russia-today-logo.svg.png" group-title="International",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.uihj.com/wp-content/uploads/2020/04/inwB4O2s_400x400.jpg" group-title="International",UN Web Channel
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
@@ -800,170 +832,9 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
 
 
 
-######## CHANNEL PREMIUM  ########
 
+######## PREMIUM  ########
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Premium",Pluto TV 70s Cinema (684p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="Premium",Pluto TV 80s Rewind (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="Premium",Pluto TV 90120 (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="Premium",Pluto TV 90s Throwback (684p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLo2poZ2rpjliMu1xBm5z8voVXvt509Vopqg&s" group-title="Premium",Pluto TV After School Cartoons (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="Premium",Pluto TV Animals (England) (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Premium",Pluto TV Anime All Ages (720p)
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Premium",Pluto TV Anime All Day (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://bleedingcool.com/wp-content/uploads/2025/05/plutotvmayfive21-2000x1125.jpg" group-title="Premium",Pluto TV Anime All Day (UK) (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5595e43c66ace1652e63c6a2/colorLogoPNG.png" group-title="Premium",Pluto TV Awesomeness TV (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5595e43c66ace1652e63c6a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=194&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="Premium",Pluto TV Baywatch (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d815eb889bca2ce7b746fdd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=142&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Premium",Pluto TV Family Ties (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpnnmC3/kidzz.png" group-title="Premium", Pluto TV Kids
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjQK3p7W/kan.png" group-title="Premium", Pluto TV Kids Animation
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="Premium",Pluto TV Love Stories (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e181520cfa000771ce79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=147&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG.png" group-title="Premium",Pluto TV Mission: Impossible (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTHms3v5/retro.png"group-title="Premium" ,Pluto TV Retro Toons
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Premium",Pluto TV Star Trek (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG.png" group-title="Premium",Pluto TV Suspense (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e281b0b8840007324b55/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e281b0b8840007324b55&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=149&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Premium",Pluto TV Terror (240p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Premium",Pluto TV The Addams Family (240p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d81607ab737153ea3c1c80e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=511&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG.png" group-title="Premium",Pluto TV The Love Boat (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7791b8372da90007fd45e6/colorLogoPNG.png" group-title="Premium",Pluto TV The Price is Right (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG.png" group-title="Premium",Pluto TV Three's Company (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3977e5d773400077de284/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ef3977e5d773400077de284&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=508&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Premium",Pluto TV Thrillers (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e69e08291147bd04a9fd7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=74&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Premium",Pluto TV Travel (240p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59c01b1953680139c6ae9d4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=678&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Premium",Pluto TV True Crime (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812be1c249444e05d09cc50&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=365&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Premium",Pluto TV TV Land Drama (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="Premium",Pluto TV TV Land Sitcoms (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJYv50RH/tween.png" group-title="Premium", Pluto TV Tween
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Premium",Pluto TV Tween (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Premium",Pluto TV Unsolved Mysteries (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e96a0423e067bd6df6901&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=379&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Premium",Pluto TV VEVO 2K (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Premium",Pluto TV VEVO 70's (1080p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvNiQkcAubjmnRoyDVdcARHed2NbnvmFpesO3fw7akyHBFvZHkHt8NMEgYp7aIQprOTOubT5jKv8J9Su09DEz2IRKJWnNvzml6j8d1X_yS-aPlyf8zgsrD1WGDQ1E83TqmVuQUGRrSGOWuKvE0oGhuFWyYsQqYKujjJoieLimpNK22sc_Y2k5nghkAw2lF/s1600/Pluto%20TV%20VEVO%20%2780s.png" group-title="Premium", Pluto TV VEVO 80's (1080p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4860b-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8927ee53-9a67-4b77-b657-50ff6b872c44&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Premium",Pluto TV VEVO 90's (1080p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Premium",Pluto TV VEVO R&B (1080p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="Premium",Pluto TV VH1 I Love Reality (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
-
-#EXTINF:-1 Premiumtvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Premium",Pluto TV Voyager Documentaries (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=589aa03df9ba56a84197a560&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=681&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="Premium",Pluto TV Westerns (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
-
-#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" group-title="Premium",Pluto TV Wild 'N Out (720p)
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Premium",Pluto TV Yo! MTV (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Premium",Pluto TV Yu-Gi-Oh (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Premium",Toonami Aftermath East (480p)
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Premium",Toonami Aftermath West (480p)
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Premium",Toonami Aftermath Radio (480p)
-http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Premium",Toonami Aftermath Movies (540p)
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqs4ftHuqn67jkmE6X2KeWMEv1-73xalyuOn2t5tnR1GmppSiWAU7QolbGGowWn1Qs2rwKw7x4hI5BNa8WBGO1N80_1L0eb9IyLNB-A12_PoqrEW4FLK5whs3FpWIWOJHJUgUGQIO-c9U1EAC8sYNwzC84FM0-OFFVEo9wwMgh9s6UBR1Z0ur33cazSM9P/s1600/CCM_new_Logo.png" group-title="Premium",Celestial Classic Movies
-https://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC87DiriaBNj4n0fhydww146znSkm6TTfOfczzpEByQMc9KWj_ipk-TeIG7Wf22qGleDvJ3j-ZiOX4eouZPsjCCZF1cfl3IzDAsJg2_p0vBNlVI8MHwcGB7QJ3WVyKE1VgZs-5VdGylTMUwu5kCa5iO7UMFPMIY7KDDNc3i2C8ZVBWovLs3iDW8gL2bQew/s1600/Celestial_Movies.png" group-title="Premium",Celestial Movies
-https://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjglResYWOvxYdGLEK7dEV713ykQkhVFt4HydJgYi9DrAXSD2Re_SILJb35iXpkLaSRSXJHToKHpADWEXTcOEqUytUDb5lcJ2LWzcoJ6qORBsw-UJY2AWfKv8rMcbXa9kZPwz_MbgVhZby8pWeBvat8ORipk0h73ZvOh3nyFj9fXA-4acQOupULhja2GHGU/s1600/CinemaWorld.png" group-title="Premium",CinemaWorld
-https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nysm9ecv9RFxOmLcRmaLQrq8iebgpG38W2b1rSSvaEYL-PvAbmgFv4DlZ9Ducr-dUXMH8oh2BwP1QjI8TD5V8hKeMddwJSdh8Dbehc9vgD6HGkaBkj0U69KZAEXl0DWBjucJstIloVW3aIWNnTHNY3oyimtCVEM-LKBS5Wvs5Kx0BuSlDrabJs614qV0/s1600/hits.png" group-title="Premium",HITS
-https://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Premium",HITS Movies
-https://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Premium",KIX
-https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_(2013).svg/revision/latest?cb=20240723011130" group-title="Premium",K-Plus
-https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiub5UJpspMobPPSiXeu153EKOMUQEbmPY_fBziyT7z7qiTDV0SJtGCpw1V26o1O_01FTxd7L-IGpIIvpSLmIrgPZiEXkpFnydJhvTHjXKJrNylkZQOzI-ws2vizoBkwhqz2V1jbzc0-1DxprtorcsZu_eFoNVfeSEJPH-FZ13Colax39PwJmb_MdOuSvF6/s1600/My_Cinema_Logo_kedua.png" group-title="Premium",My Cinema
 https://op-group1-swiftservehd-1.dens.tv/h/h192/01.m3u8
@@ -977,6 +848,30 @@ https://op-group1-swiftservehd-1.dens.tv/h/h194/01.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZFshzsMEeJBdSVvqkW6qJmYUMPBJHigc23vqNzKDkaxM03-XGeyFBZvHmGTT0SWAB7ocEjMH00jm0scjP4Ypf6HBRhgJ5gMefy154Fpte-mkqfg9uYUO3zvtzNJnsFkt6skvsGpSK_qNjB10B5rmV7RYavcS4ooTzovP4IiyIwaHM27KNe4Ok8CV9JUd5/s1600/MY%20CINEMA%20Kidz.png" group-title="Premium",My Kidz 
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2560px-Logo_tvN.svg.png" group-title="Premium",tvN Asia
+https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz1SWWcIA98NUZ06tB1uuY6NmFIKrzz7POnTzwLkJwD1GfQ9w9evLFpZ1LS7Cz_EOOigS3tDQFppusHe6UZFU-Y3ixJw9MAfCZ9Mzzqcck5qITQyT_9oUqRj8TPIdzBZuWE9JNDjPR1ff1AB13hnT_yzQ5kiy8BvKAG5IfTLbUpAhaT-BN9HqTuRNQ4g/s1600/tvN%20Movies%20Asia.png" group-title="Premium",tvN Movies Asia
+https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqs4ftHuqn67jkmE6X2KeWMEv1-73xalyuOn2t5tnR1GmppSiWAU7QolbGGowWn1Qs2rwKw7x4hI5BNa8WBGO1N80_1L0eb9IyLNB-A12_PoqrEW4FLK5whs3FpWIWOJHJUgUGQIO-c9U1EAC8sYNwzC84FM0-OFFVEo9wwMgh9s6UBR1Z0ur33cazSM9P/s1600/CCM_new_Logo.png" group-title="Premium",Celestial Classic Movies
+https://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC87DiriaBNj4n0fhydww146znSkm6TTfOfczzpEByQMc9KWj_ipk-TeIG7Wf22qGleDvJ3j-ZiOX4eouZPsjCCZF1cfl3IzDAsJg2_p0vBNlVI8MHwcGB7QJ3WVyKE1VgZs-5VdGylTMUwu5kCa5iO7UMFPMIY7KDDNc3i2C8ZVBWovLs3iDW8gL2bQew/s1600/Celestial_Movies.png" group-title="Premium",Celestial Movies
+https://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjglResYWOvxYdGLEK7dEV713ykQkhVFt4HydJgYi9DrAXSD2Re_SILJb35iXpkLaSRSXJHToKHpADWEXTcOEqUytUDb5lcJ2LWzcoJ6qORBsw-UJY2AWfKv8rMcbXa9kZPwz_MbgVhZby8pWeBvat8ORipk0h73ZvOh3nyFj9fXA-4acQOupULhja2GHGU/s1600/CinemaWorld.png" group-title="Premium",CinemaWorld
+https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Premium",KIX
+https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8tZNV3tNZc-Z8yC5vDFwJRD-iDbKzfv0EmQkcZZDH2Ux0_leVvoMntZDQs49rRlUCZzqEQIzfSlPR0m5XgMo7yIGknWGuCBpzhmvFTlSVkN_doaP8oLC59Z9aEFlIZwZrVyYleCINeZNfuIFfdtRcuvWitpEchX-q-PXu9flS6Hr8enXY-eXE6gg5T7/s1600/KIX_logo.svg.png" group-title="Premium",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_(2013).svg/revision/latest?cb=20240723011130" group-title="Premium",K-Plus
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPYHnLjHC5zoeWw_H2qGDtJKwnc8Xe5pmCRgHakOflxszEGgqcqHposNJj3xU1eS9HS9HSdin-3lhaEuYEoap0Wbg_XirKR0XfX6JfWTbsgGkvwsZpwIOoTBa7MyFqF4VFc0E2-C2BWFBSh9j7WeMG3lI0gCZXz0xiefNyQkf2iBGsrz1PEGZewpJlPLp/s1600/Rock%20Action.png" group-title="Premium",Rock Action
 https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
 
@@ -986,76 +881,63 @@ https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAWKx4Wf9W4DxKhv25Q_QpBZZdo-efJU6cZDc4j1hOjsmXoYDA5DcaMcoXUF-EP8eeX1AO5b1fMh8BqNozCrKk2MK0RuyPIItBe0zH22tKLaW-O3TnFfl-pH9og1YaWB4J8YlLQVU9hrv_Y_U9uS7HmWZyh4KFLd6w7NHgwDxxF6qqu69_5AbZlM17_dvi/s1600/Thrill_logo.svg.png" group-title="Premium",Thrill
 https://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
 
-
-
-######## CHANNEL TV PREMIUM  ########
-
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png" group-title="Channel TV Premium",WedoTVMovies
-https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee15f42df39a0b90140c07d40fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848cb9599106f224365623709cf215f9a366b7ca8a56379d7c2d7b44298cc986ed712c944e555dfbe6b9d10f9328db9a1a91723ead019b56b96af601c008b7f171a2b8b5db4e444bcaae375a26b0f59f88ee3b37b163c6f885b711758c84721223f264cd1f7156fa9ec71990b172fcd31889b97d2062aefb269f94b6f188dae871982ccefaaef657214a6d1070e137c7a169d53de022dfa47b285a4c7bb98345c1f4b23459594680814acd031e8481f9e9ba0d34da701a28810abe600663dc246d41bf4193f8356ffb4060e10e34f8656fee289fad3ef9d5bc8f6300a0cccb7fa52d85d80bc2e63dba79334b078ce73e53373d17bfd5671d2046d051ebc1cfde621b0cd1ad8194b25037092d125c18b4eeee669e9dd43b1817cc21500a002b14990ac26cd114760c27df1bc0b81b71840b1c7794cd5a5a5f6284cdc3e8edb1f143b071c1cac06341513a64ad23774104b68d8a49ed05110e1039870b7451cf6f3024d192cdf58bbd348ef608ad3c72065cc6ff19520c5c67117af1fe53d05af28122ba94c44fc9e1992f1ff356c406008eefcf65fc9feaad263497ba4726749ed71a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50df57dfde922e2af1c1c419357f56aaaa12b529e2fde11a9db4/158/1280x720_3329040/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/23121758/wedo-big-stories_RED.png" group-title="Channel TV Premium",WedotvBig Stories
-https://amg00735-amg00735c19-denstv-apac-7624.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedobigstories-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe35810d86ef3b40140c07d41fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848caf599a03eb307b3f4818a2847097f407c4b0ff6a368c612934773f819890f15e2c877a192c929bccbb75ed61a6e343ba6733ab12a515fc5ae26aba1998ef4fada8c9b3282b02a5d44b5e29a1e8a5b7a15b59de73e9ae9bba1919a2e306747a9321b25028379ee9ce1a90fc199fa02696a07b1839cde333f1e98980e0be994f9231f5cbfd8e38515a7101038b60f8ec07bc2ecd6897dd1a252e262ec4a152d496e64d396672dcee34b71f16ada9ece9ba3537c7742600a80ab55c017cde0b6f73eb3efc94281ef94c64be3239eb4a0a834df2ab29fbb3e6bf6a51d7d7d23099058b8e03c7cb58d507564c118ce23e56534d7ec99c08675c42d656dbc3d8e8610803f5ca97bcaa3e39172928411884f0e24f8e9ccc5b6c7cae682770642f04820bc46ce0155b0c139370b9cf0d7a91744647839c3b534e51cca6dbe280c6da36d215b6f4fa293f060314d75b0c206feca29449f84a2014136689096557a4175f7fb0e9a38f98907ef19e71a43c6e1111ab9a7b7a0842635c088e9e6cdb5bdfc971d3f9c35fbe89e7767e8c3f9e5b62f4b5db69f6ff84b52665f791501c6985d61a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50da5bdfdeab112af1c1f55f5dae9f1835e943fe5ec4bf2d4c43/104/1920x1080_5288800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19192821/WEDO_SPORTS_ROUND_RED.png" group-title="Channel TV Premium",WedoTVSports
-https://amg00735-amg00735c45-denstv-apac-7616.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedosportsasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abb70f4d8964a5b50140c07d44fa83439fd401b285dc588340d373a2419c91f98d801480e4cf598a6f4ef00d224054bdc210bac759b9d49f7a309d03472c7c74d5d3587ad35efc23624ff1feb1d20d00d0cafb42ab613cba128c4ec641e290690dd583648bd7dcf5434a38b6d05a2b47f2a7c8eb8a60bce543dc70917d0aa2c90f5e0092f34d924e0a2b99fc843e85c81484a222bf79087737ed9e5f9291be82a0e5c31adc6dfdcefa9c32555d232a36c60cf2d43d8069ea71a698477a1c5512f9d315e596c95235554a84ab57c05c4eea8cc5d0894e73e1482f77c42c99570c67c9744b79e626f6d37c4f813405883072aa0c65ce12b2e862a5e7e8e4003aa7d78817ac38a1e65ca08368c35a355706bce53f1f141c0fb7c0524d61298d159e90a08750060febfbc884b0703015361a574cc6a2d079958acf3e0e54a67723737f0418860eb5388d51a961fc7ff675ca5b6466871f96b1cde752c738762f863c/121/1920x1080_5903040/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/28225532/WEDO_AMOR_1.png" group-title="Channel TV Premium",wedotvAmor
-https://amg00735-amg00735c15-denstv-apac-7623.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedoamor-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b50c4cdf6fa4b90140c0294cfa83439fd401b2d6d30f8311d725f817cec0a583da17838caf599a00f2247b3f4818a2876983f407c4b0ff6e3c92632d34773f819894fb402e837a19289299c2bb71e603cbfb4feb080cb2048c569435b731c463c4e547a4dfdcb5277a3dadc0663b5fca8da19aeb0a3dbc6bfed085b7194798e6044749c860dd1f7174fa8fc81b8ad71098a21c89bd7f182bd483409a90c0f585c4b649932bdec2fa8c024e47750111924fa79b60e673b112cac710533a2720969356f9dcb534526b5af4e634b02812ace6d1edb56d2ed86c693d8205e24e1760f16e02168629f78e4e0be34331813b29c60245ea26fbbc3ce7d5b38f6000b2dad750c23599df6dd5e612967e355d70d8984564425c6deffd6f090d23812f89d2daf1481a14e3e5c8c1d5413475487d3d378af2f74f889acf3b1829d4412a5d2e677dfe0dd068e01450102bbb75b9c5327d83073534f6a202073406f5c4bc95f5b1a0218e73dedbc0635d513c60b22315271cbadcea62fe375b6e7b60da730e29bc174a7de880c7e195851ca0f608913972045cc7e5194505574e394af1fc6fd34ef0ac1eb695d959c2fbff622feb07a405008cefdf63f6fe84c95b32cad63d737284ec37d77a3bc614cd59e6b81ce3a546390c2e495ec38d4dc26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea822608862d7c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aec53d2ef5e47fc49643157f3063f0e0431b2ddd049d16eb21944/28/848x480_1686360/index.m3u8?app_bundle=tv.dens.mobileapp&app_name=tv.dens.mobileapp&ifa_type=Android
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jzSARwXGnHHBhXYsD-7JY0yByHAvU8Ltwb4iLuZz0Tu8DQXxPwkgAPql5SGIDFkO-_TEVRYsAq1TJ5lNNA5acAxO1u9DitFUXVJt90PKqcFR6dQuMessCGZpd7LwJ3VIewUIaRNfaU_i04qpWFoDBAFzzq5qiCOj7sjk3wdoTtYHTrTWrcEDHy6edR46/s1600/EGG_Network.png" group-title="Channel TV Premium",EGG
-http://210.210.155.66/h/h22/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jzSARwXGnHHBhXYsD-7JY0yByHAvU8Ltwb4iLuZz0Tu8DQXxPwkgAPql5SGIDFkO-_TEVRYsAq1TJ5lNNA5acAxO1u9DitFUXVJt90PKqcFR6dQuMessCGZpd7LwJ3VIewUIaRNfaU_i04qpWFoDBAFzzq5qiCOj7sjk3wdoTtYHTrTWrcEDHy6edR46/s1600/EGG_Network.png" group-title="Channel TV Premium",eGG NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/22/SpongeBob_SquarePants_logo_by_Nickelodeon.svg/2560px-SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="Channel TV Premium",Spongebob
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIm9u3fAxjK-4lD-4i_08BhNJn10Vlzi-3rFb9RdtIGdwXbY499WiCx8oERTImjR_UTjv0qW68EdtCwjNcmrpguT2SerIirB2DPmCltJrWPEIfT0bHad7SYno7WqBxjyMgSWuU-pFJ1_pFTPb8bMnOkhkcvZsdamlyCSYKE07Kn-sX8hsTU9q3XZfSx5H/s1600/Cartoon%20Network.png" group-title="Channel TV Premium",Cartoon Network
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn8nc3sKlFxjD-4_YP8fOhIFJQZDHwzdQkPfX5aBzL83qFaVIccOeIn1uixlFYZ5xo_RbI9-Cbkr5i9umWtXfR8vLg1sudkzg2QTkbQ4BP_y_laG29hVrzKPhcN3eCXI-i32Y2RFSL_z8NEsnbT9FevQJu1j84ubjlvqj5iiakjlQI9zhyphenhyphenpAiqUepwXo6g/s1600/Fight_Sports.png" group-title="Channel TV Premium",Fight Sport
-http://210.210.155.66/h/h05/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Channel TV Premium",Animax 1
-http://45.126.83.51/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Channel TV Premium",Animax 2
-http://rr1.dens.tv/h/h144/index10.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Channel TV Premium",Animax 3
-http://210.210.155.35/dr9445/h/h144/index10.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oORS1KDvNfEri42DZbGxgpg3m315Fwt-_qJ4LEFmF3KtilbO9yopi0BBsYgWy2mrlHucsSVjZaQ3LvmlZjI8-y5zIZY6m6o-o6G9kXmdKdtIGkfEXW0_kIHeMcBAhmkKeNTuD2nleYba1ey_Ata4yrHHF-Tq3jNY0UU8iCvgLSzRpk6vCF27vGp-dyZj/s1600/Aniplus-Asia-PNG.png" group-title="Channel TV Premium",Ani Plus
-https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjpOBWblqwD2zucWJIgi6VmsS2KpilwksDsE8z9_Keoo33h7Y38nhm_14b0In8YFinm0LjcoE7loSa8dzJo5P9LD68tbyU9SnTurxbJ0s-fGkHn8mL2kVAF-oA1LylQLN2EVTJ4B-FTNKIaG_ZiEq8tPqzTKa4H4STY9Hp2bctwmV0zuPKp9DxwHXlxLpm/s1600/AXN.png" group-title="Channel TV Premium",AXN
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjpOBWblqwD2zucWJIgi6VmsS2KpilwksDsE8z9_Keoo33h7Y38nhm_14b0In8YFinm0LjcoE7loSa8dzJo5P9LD68tbyU9SnTurxbJ0s-fGkHn8mL2kVAF-oA1LylQLN2EVTJ4B-FTNKIaG_ZiEq8tPqzTKa4H4STY9Hp2bctwmV0zuPKp9DxwHXlxLpm/s1600/AXN.png" group-title="Premium",AXN
 http://210.210.155.66/h/h141/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Channel TV Premium",HITS MOVIES 1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nysm9ecv9RFxOmLcRmaLQrq8iebgpG38W2b1rSSvaEYL-PvAbmgFv4DlZ9Ducr-dUXMH8oh2BwP1QjI8TD5V8hKeMddwJSdh8Dbehc9vgD6HGkaBkj0U69KZAEXl0DWBjucJstIloVW3aIWNnTHNY3oyimtCVEM-LKBS5Wvs5Kx0BuSlDrabJs614qV0/s1600/hits.png" group-title="Premium",HITS
+https://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Premium",HITS Movies
+https://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Premium",HITS MOVIES 1
 http://45.126.83.51/uq2663/h/h37/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Channel TV Premium",HITS MOVIES 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Premium",HITS MOVIES 2
 http://210.210.155.66/h/h37/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Channel TV Premium",HITS MOVIES 3
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png" group-title="Premium",HITS MOVIES 3
 http://210.210.155.35/uq2663/h/h37/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6XK8WUGbbmRcBSqzIDdYxC6S_icCizzrVvCG_blGAnzFVWXD2cQsJWJSp9fZ4igOvIKRNIe-2SQEM3A-KwhmJmvSBMcYL5kZY_NBWwuALSHZe7cXGJZKxn97a85ywBnmdkF5KURFMeiVq3TpBPInxRiCyrRqkbY2nNVMl0MeB3UPlJjlVmzrfHJu0Ug7g/s1600/Blue_Ant_Extreme_2018-2021_3D.png" group-title="Channel TV Premium",Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6XK8WUGbbmRcBSqzIDdYxC6S_icCizzrVvCG_blGAnzFVWXD2cQsJWJSp9fZ4igOvIKRNIe-2SQEM3A-KwhmJmvSBMcYL5kZY_NBWwuALSHZe7cXGJZKxn97a85ywBnmdkF5KURFMeiVq3TpBPInxRiCyrRqkbY2nNVMl0MeB3UPlJjlVmzrfHJu0Ug7g/s1600/Blue_Ant_Extreme_2018-2021_3D.png" group-title="Premium",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj5PSDxzWL6Wf2_tGmHw-vpGnDiMiScLBXj1nOThN742PRUyOzueolupsZEoKq2y3_jc9z56NrtUBTFs5biYReVy-zwGGCFaieWBGxwvwBFkkYMNtN-IxMHbuY0j1Ec3w1tG-fu25Uae5BcSUHL0svqoDL4cg-ZvhVzu1UH-WrJLHif5UMybRcHkHr4XJm/s1600/Blue_Ant_Entertainment.png" group-title="Channel TV Premium",Blue Ant Entertainment
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj5PSDxzWL6Wf2_tGmHw-vpGnDiMiScLBXj1nOThN742PRUyOzueolupsZEoKq2y3_jc9z56NrtUBTFs5biYReVy-zwGGCFaieWBGxwvwBFkkYMNtN-IxMHbuY0j1Ec3w1tG-fu25Uae5BcSUHL0svqoDL4cg-ZvhVzu1UH-WrJLHif5UMybRcHkHr4XJm/s1600/Blue_Ant_Entertainment.png" group-title="Premium",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsETfItBHmUjZwrsxqxh3h34CIIiTeNGtlN4sDN4haXUQC6it9OLiJ-hQL2O8LrmR7qzUaaTKG4EVb16Zmkn_cLV4N6nLIgiQpqxsZFFsxNq2VNja1IEWz4dloP7FwQsR85lfwlLHehSwYdiy_VWWTPP-GMeKH14yakJPtpVD8tKqdBS7iZMfMX6Qdv-go/s1600/Gem_TV_logo_2020.png" group-title="Channel TV Premium",GEM
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jzSARwXGnHHBhXYsD-7JY0yByHAvU8Ltwb4iLuZz0Tu8DQXxPwkgAPql5SGIDFkO-_TEVRYsAq1TJ5lNNA5acAxO1u9DitFUXVJt90PKqcFR6dQuMessCGZpd7LwJ3VIewUIaRNfaU_i04qpWFoDBAFzzq5qiCOj7sjk3wdoTtYHTrTWrcEDHy6edR46/s1600/EGG_Network.png" group-title="Premium",EGG
+http://210.210.155.66/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jzSARwXGnHHBhXYsD-7JY0yByHAvU8Ltwb4iLuZz0Tu8DQXxPwkgAPql5SGIDFkO-_TEVRYsAq1TJ5lNNA5acAxO1u9DitFUXVJt90PKqcFR6dQuMessCGZpd7LwJ3VIewUIaRNfaU_i04qpWFoDBAFzzq5qiCOj7sjk3wdoTtYHTrTWrcEDHy6edR46/s1600/EGG_Network.png" group-title="Premium",eGG NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsETfItBHmUjZwrsxqxh3h34CIIiTeNGtlN4sDN4haXUQC6it9OLiJ-hQL2O8LrmR7qzUaaTKG4EVb16Zmkn_cLV4N6nLIgiQpqxsZFFsxNq2VNja1IEWz4dloP7FwQsR85lfwlLHehSwYdiy_VWWTPP-GMeKH14yakJPtpVD8tKqdBS7iZMfMX6Qdv-go/s1600/Gem_TV_logo_2020.png" group-title="Premium",GEM
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja_-tXun6EFJHTrDVigwe_7Nh75aTsgiieuDwkFm5L5YtgdUKAEVRtGDOWxzBQc18a_87wr9hVfwUIdA0qeLJEdI1tT7LpdeudcFflXAa6x5cKoahAm3okPcYp_gyNxiHog9NbghJSBBfKL2NFt3iGvfJ5sKFj5UznINsQ-xQQKxe3789SRueU7zYmsUL_/s1600/Zee_Bioskop_%282025%29.png" group-title="Channel TV Premium",Zee Bioskop
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja_-tXun6EFJHTrDVigwe_7Nh75aTsgiieuDwkFm5L5YtgdUKAEVRtGDOWxzBQc18a_87wr9hVfwUIdA0qeLJEdI1tT7LpdeudcFflXAa6x5cKoahAm3okPcYp_gyNxiHog9NbghJSBBfKL2NFt3iGvfJ5sKFj5UznINsQ-xQQKxe3789SRueU7zYmsUL_/s1600/Zee_Bioskop_%282025%29.png" group-title="Premium",Zee Bioskop
 http://45.126.83.51/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRdObfnhjkDyn453I2GI2zsI_XFqfO4TTf9ToBFkgyrDYbLFKmSxfpVZH_BlqdSVPpamDbsGYUSOEeQCst2MmZzUkCEzvXrb6FqN9cBeQXxPh6fd1w87vEPAbABmu383dvJlvm00v1zqsxxkpBzQHeuLjpyotoMqirXmoTrWYmrxPB3xOjYHc6FtnZDX_t/s1600/Style_TV_HD_2016.png" group-title="Channel TV Premium",Style HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRdObfnhjkDyn453I2GI2zsI_XFqfO4TTf9ToBFkgyrDYbLFKmSxfpVZH_BlqdSVPpamDbsGYUSOEeQCst2MmZzUkCEzvXrb6FqN9cBeQXxPh6fd1w87vEPAbABmu383dvJlvm00v1zqsxxkpBzQHeuLjpyotoMqirXmoTrWYmrxPB3xOjYHc6FtnZDX_t/s1600/Style_TV_HD_2016.png" group-title="Premium",Style HD
 http://210.210.155.35/uq2663/h/h01/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2022/05/14110049/WEDO_MOVIES_ROUND_RED.png" group-title="Premium",WedoTVMovies
+https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee15f42df39a0b90140c07d40fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848cb9599106f224365623709cf215f9a366b7ca8a56379d7c2d7b44298cc986ed712c944e555dfbe6b9d10f9328db9a1a91723ead019b56b96af601c008b7f171a2b8b5db4e444bcaae375a26b0f59f88ee3b37b163c6f885b711758c84721223f264cd1f7156fa9ec71990b172fcd31889b97d2062aefb269f94b6f188dae871982ccefaaef657214a6d1070e137c7a169d53de022dfa47b285a4c7bb98345c1f4b23459594680814acd031e8481f9e9ba0d34da701a28810abe600663dc246d41bf4193f8356ffb4060e10e34f8656fee289fad3ef9d5bc8f6300a0cccb7fa52d85d80bc2e63dba79334b078ce73e53373d17bfd5671d2046d051ebc1cfde621b0cd1ad8194b25037092d125c18b4eeee669e9dd43b1817cc21500a002b14990ac26cd114760c27df1bc0b81b71840b1c7794cd5a5a5f6284cdc3e8edb1f143b071c1cac06341513a64ad23774104b68d8a49ed05110e1039870b7451cf6f3024d192cdf58bbd348ef608ad3c72065cc6ff19520c5c67117af1fe53d05af28122ba94c44fc9e1992f1ff356c406008eefcf65fc9feaad263497ba4726749ed71a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50df57dfde922e2af1c1c419357f56aaaa12b529e2fde11a9db4/158/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/01/23121758/wedo-big-stories_RED.png" group-title="Premium",WedotvBig Stories
+https://amg00735-amg00735c19-denstv-apac-7624.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedobigstories-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe35810d86ef3b40140c07d41fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848caf599a03eb307b3f4818a2847097f407c4b0ff6a368c612934773f819890f15e2c877a192c929bccbb75ed61a6e343ba6733ab12a515fc5ae26aba1998ef4fada8c9b3282b02a5d44b5e29a1e8a5b7a15b59de73e9ae9bba1919a2e306747a9321b25028379ee9ce1a90fc199fa02696a07b1839cde333f1e98980e0be994f9231f5cbfd8e38515a7101038b60f8ec07bc2ecd6897dd1a252e262ec4a152d496e64d396672dcee34b71f16ada9ece9ba3537c7742600a80ab55c017cde0b6f73eb3efc94281ef94c64be3239eb4a0a834df2ab29fbb3e6bf6a51d7d7d23099058b8e03c7cb58d507564c118ce23e56534d7ec99c08675c42d656dbc3d8e8610803f5ca97bcaa3e39172928411884f0e24f8e9ccc5b6c7cae682770642f04820bc46ce0155b0c139370b9cf0d7a91744647839c3b534e51cca6dbe280c6da36d215b6f4fa293f060314d75b0c206feca29449f84a2014136689096557a4175f7fb0e9a38f98907ef19e71a43c6e1111ab9a7b7a0842635c088e9e6cdb5bdfc971d3f9c35fbe89e7767e8c3f9e5b62f4b5db69f6ff84b52665f791501c6985d61a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50da5bdfdeab112af1c1f55f5dae9f1835e943fe5ec4bf2d4c43/104/1920x1080_5288800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/06/19192821/WEDO_SPORTS_ROUND_RED.png" group-title="Premium",WedoTVSports
+https://amg00735-amg00735c45-denstv-apac-7616.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedosportsasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abb70f4d8964a5b50140c07d44fa83439fd401b285dc588340d373a2419c91f98d801480e4cf598a6f4ef00d224054bdc210bac759b9d49f7a309d03472c7c74d5d3587ad35efc23624ff1feb1d20d00d0cafb42ab613cba128c4ec641e290690dd583648bd7dcf5434a38b6d05a2b47f2a7c8eb8a60bce543dc70917d0aa2c90f5e0092f34d924e0a2b99fc843e85c81484a222bf79087737ed9e5f9291be82a0e5c31adc6dfdcefa9c32555d232a36c60cf2d43d8069ea71a698477a1c5512f9d315e596c95235554a84ab57c05c4eea8cc5d0894e73e1482f77c42c99570c67c9744b79e626f6d37c4f813405883072aa0c65ce12b2e862a5e7e8e4003aa7d78817ac38a1e65ca08368c35a355706bce53f1f141c0fb7c0524d61298d159e90a08750060febfbc884b0703015361a574cc6a2d079958acf3e0e54a67723737f0418860eb5388d51a961fc7ff675ca5b6466871f96b1cde752c738762f863c/121/1920x1080_5903040/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/28225532/WEDO_AMOR_1.png" group-title="Premium",wedotvAmor
+https://amg00735-amg00735c15-denstv-apac-7623.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedoamor-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7a9b50c4cdf6fa4b90140c0294cfa83439fd401b2d6d30f8311d725f817cec0a583da17838caf599a00f2247b3f4818a2876983f407c4b0ff6e3c92632d34773f819894fb402e837a19289299c2bb71e603cbfb4feb080cb2048c569435b731c463c4e547a4dfdcb5277a3dadc0663b5fca8da19aeb0a3dbc6bfed085b7194798e6044749c860dd1f7174fa8fc81b8ad71098a21c89bd7f182bd483409a90c0f585c4b649932bdec2fa8c024e47750111924fa79b60e673b112cac710533a2720969356f9dcb534526b5af4e634b02812ace6d1edb56d2ed86c693d8205e24e1760f16e02168629f78e4e0be34331813b29c60245ea26fbbc3ce7d5b38f6000b2dad750c23599df6dd5e612967e355d70d8984564425c6deffd6f090d23812f89d2daf1481a14e3e5c8c1d5413475487d3d378af2f74f889acf3b1829d4412a5d2e677dfe0dd068e01450102bbb75b9c5327d83073534f6a202073406f5c4bc95f5b1a0218e73dedbc0635d513c60b22315271cbadcea62fe375b6e7b60da730e29bc174a7de880c7e195851ca0f608913972045cc7e5194505574e394af1fc6fd34ef0ac1eb695d959c2fbff622feb07a405008cefdf63f6fe84c95b32cad63d737284ec37d77a3bc614cd59e6b81ce3a546390c2e495ec38d4dc26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea822608862d7c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aec53d2ef5e47fc49643157f3063f0e0431b2ddd049d16eb21944/28/848x480_1686360/index.m3u8?app_bundle=tv.dens.mobileapp&app_name=tv.dens.mobileapp&ifa_type=Android
+
+
+
+
+
+
+
 
 ####### FILM TV #######
 
@@ -1076,9 +958,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=l
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/2560px-KBS_World_(2009).svg.png" group-title="Film TV",KBS World
 https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=lite&chname=KBS_World
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKQFtmFQNoCYnu8TK1-_t1uIfuu5aNONiHlkkeulO-a8inLH99XHJigB1oeDLTbdUYDs-WTh_nGGM3nmdvPfdMetOt2FsWEqJEeL7vC5NiVQsWyrzAARRFEpzkJvtBjAuB-7M7TSZ5r4imT5nI9cXLdQpzN2REePCr0QBhqGEyHYdJ0rWAx3UwqjEQKI1m/s1600/Dubai%20TV.png" group-title="Film TV",DUBAI International
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b5500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZcafLQsCMsMGT6hKfVR7gOffrweSNei6QUOW8nBIbEuRdhnyRRFNQCnAEBJruD92z1o2dmEUxsJQedECVPUD63t3vvu0kwIDNDRCfJLy9niPf-CjueQxb3x7BUVaXrqJSlK5e8j5kt9T3favrBo9iQ38Y1TS068EhSznTkXkOrZn-BnytyiMOg7C0UJ_/s1600/Movies_Now_logo.png" group-title="Film TV",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -1107,21 +986,25 @@ https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png" group-title="Film TV",Cinemax
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8tZNV3tNZc-Z8yC5vDFwJRD-iDbKzfv0EmQkcZZDH2Ux0_leVvoMntZDQs49rRlUCZzqEQIzfSlPR0m5XgMo7yIGknWGuCBpzhmvFTlSVkN_doaP8oLC59Z9aEFlIZwZrVyYleCINeZNfuIFfdtRcuvWitpEchX-q-PXu9flS6Hr8enXY-eXE6gg5T7/s1600/KIX_logo.svg.png" group-title="Film TV",KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Wau_nove_logo.png" group-title="Film TV",WAU
 https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
 
 
 
+
 ####### SPORT TV #######
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="TV Olahraga",BeiN Sport Xtra
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="TV Olahraga",Baseball TV
 https://aegis-cloudfront-1.tubi.video/8b2ca3ba-bfff-4792-85b4-f75cc1b90868/playlist_1024x576_062959__335230.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="TV Olahraga",Redbull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/World_Poker_Tour_white_on_black_logo.jpg" group-title="TV Olahraga",World Poker Tour
+https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="TV Olahraga",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1135,11 +1018,9 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b525d07e-cb2a-4b30-946b-2d5b0127ca60/Plex_billiard_horizontal.jpg" group-title="TV Olahraga",Billiard TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/World_Poker_Tour_white_on_black_logo.jpg" group-title="TV Olahraga",World Poker Tour
-https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn8nc3sKlFxjD-4_YP8fOhIFJQZDHwzdQkPfX5aBzL83qFaVIccOeIn1uixlFYZ5xo_RbI9-Cbkr5i9umWtXfR8vLg1sudkzg2QTkbQ4BP_y_laG29hVrzKPhcN3eCXI-i32Y2RFSL_z8NEsnbT9FevQJu1j84ubjlvqj5iiakjlQI9zhyphenhyphenpAiqUepwXo6g/s1600/Fight_Sports.png" group-title="TV Olahraga",Fight Sport
+http://210.210.155.66/h/h05/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="TV Olahraga",BeiN Sport Xtra
-https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
 
 
@@ -1147,226 +1028,136 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
 
 
+######## Pluto  ########
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Pluto",Pluto TV 70s Cinema (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="Pluto",Pluto TV 80s Rewind (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="Pluto",Pluto TV 90120 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="Pluto",Pluto TV 90s Throwback (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLo2poZ2rpjliMu1xBm5z8voVXvt509Vopqg&s" group-title="Pluto",Pluto TV After School Cartoons (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="Pluto",Pluto TV Animals (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Pluto",Pluto TV Anime All Ages (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Pluto",Pluto TV Anime All Day (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://bleedingcool.com/wp-content/uploads/2025/05/plutotvmayfive21-2000x1125.jpg" group-title="Pluto",Pluto TV Anime All Day (UK) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5595e43c66ace1652e63c6a2/colorLogoPNG.png" group-title="Pluto",Pluto TV Awesomeness TV (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5595e43c66ace1652e63c6a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=194&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="Pluto",Pluto TV Baywatch (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d815eb889bca2ce7b746fdd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=142&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Pluto",Pluto TV Family Ties (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCpnnmC3/kidzz.png" group-title="Pluto", Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjQK3p7W/kan.png" group-title="Pluto", Pluto TV Kids Animation
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="Pluto",Pluto TV Love Stories (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e181520cfa000771ce79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=147&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG.png" group-title="Pluto",Pluto TV Mission: Impossible (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fTHms3v5/retro.png"group-title="Pluto" ,Pluto TV Retro Toons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Pluto",Pluto TV Star Trek (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG.png" group-title="Pluto",Pluto TV Suspense (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e281b0b8840007324b55/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e281b0b8840007324b55&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=149&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Pluto",Pluto TV Terror (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Pluto",Pluto TV The Addams Family (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d81607ab737153ea3c1c80e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=511&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG.png" group-title="Pluto",Pluto TV The Love Boat (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7791b8372da90007fd45e6/colorLogoPNG.png" group-title="Pluto",Pluto TV The Price is Right (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG.png" group-title="Pluto",Pluto TV Three's Company (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef3977e5d773400077de284/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ef3977e5d773400077de284&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=508&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Pluto",Pluto TV Thrillers (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e69e08291147bd04a9fd7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=74&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Pluto",Pluto TV Travel (240p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59c01b1953680139c6ae9d4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=678&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Pluto",Pluto TV True Crime (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812be1c249444e05d09cc50&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=365&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Pluto",Pluto TV TV Land Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="Pluto",Pluto TV TV Land Sitcoms (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJYv50RH/tween.png" group-title="Pluto", Pluto TV Tween
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="Pluto",Pluto TV Tween (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Pluto",Pluto TV Unsolved Mysteries (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e96a0423e067bd6df6901&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=379&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Pluto",Pluto TV VEVO 2K (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Pluto",Pluto TV VEVO 70's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvNiQkcAubjmnRoyDVdcARHed2NbnvmFpesO3fw7akyHBFvZHkHt8NMEgYp7aIQprOTOubT5jKv8J9Su09DEz2IRKJWnNvzml6j8d1X_yS-aPlyf8zgsrD1WGDQ1E83TqmVuQUGRrSGOWuKvE0oGhuFWyYsQqYKujjJoieLimpNK22sc_Y2k5nghkAw2lF/s1600/Pluto%20TV%20VEVO%20%2780s.png" group-title="Pluto", Pluto TV VEVO 80's (1080p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4860b-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8927ee53-9a67-4b77-b657-50ff6b872c44&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Pluto",Pluto TV VEVO 90's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Pluto",Pluto TV VEVO R&B (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="Pluto",Pluto TV VH1 I Love Reality (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
 
+#EXTINF:-1 Premiumtvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Pluto",Pluto TV Voyager Documentaries (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=589aa03df9ba56a84197a560&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=681&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="Pluto",Pluto TV Westerns (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" group-title="Pluto",Pluto TV Wild 'N Out (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Pluto",Pluto TV Yo! MTV (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Pluto",Pluto TV Yu-Gi-Oh (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
