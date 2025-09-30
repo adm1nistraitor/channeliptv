@@ -353,85 +353,89 @@ https://live.salira.tv/p/3870/hybrid/play.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Aceh (720p) [Not 24/7]
+
+######TVRI Corps#######
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Aceh (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Bali (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Bali (480p)
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Bangka Belitung (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Bangka Belitung (480p)
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Bengkulu (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Bengkulu (480p)
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI DKI Jakarta (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI DKI Jakarta (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Gorontalo (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Gorontalo (480p)
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Jambi (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Jambi (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Jawa Barat (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Jawa Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Jawa Tengah (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Jawa Tengah (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Jawa Timur (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Jawa Timur (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Kalimantan Barat (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Kalimantan Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Kalimantan Selatan (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Kalimantan Selatan (720p)
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Kalimantan Tengah (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Kalimantan Tengah (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Kalimantan Timur (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Kalimantan Timur (720p)
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Lampung (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Lampung (720p)
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Maluku (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Maluku (480p)
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Nusa Tenggara Barat (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Nusa Tenggara Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Nusa Tenggara Timur (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Nusa Tenggara Timur (480p)
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Papua (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Papua (480p)
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Riau (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Riau (720p) [Not 24/7]
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sulawesi Barat (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Sulawesi Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sulawesi Selatan (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Sulawesi Selatan (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sulawesi Tengah (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Sulawesi Tengah (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sulawesi Tenggara (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Sulawesi Tenggara (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sumatera Barat (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Sumatera Barat (720p)
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Sumatera Selatan (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Sumatera Selatan (480p)
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TV Lokal", TVRI Yogyakarta (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/2560px-TVRILogo2019.svg.png" group-title="TVRI Corps", TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
@@ -1359,6 +1363,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Pluto",Pluto TV Yu-Gi-Oh (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 
 
 
