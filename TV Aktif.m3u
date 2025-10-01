@@ -231,6 +231,9 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w2003386219.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="TV Lokal",PAL TV
 https://v3.siar.us/paltv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="TV Lokal",PAL TV
+https://paltv.siar.us/live/paltv.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d1/Sriwijaya_tv_logo_2006.png/revision/latest?cb=20231217222046" group-title="TV Lokal",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 
@@ -1375,6 +1378,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Pluto",Pluto TV Yu-Gi-Oh (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 
 
 
