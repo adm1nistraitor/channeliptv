@@ -533,7 +533,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="TV Jiran",SelangorTV (Malaysia)
-https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1758701958-6efe83dc48f64b9a8771ddd0da98bc5c-0-e8c276e6a30fe8149a688185c22d9ed6&token=1758701958-6efe83dc48f64b9a8771ddd0da98bc5c-0-e8c276e6a30fe8149a688185c22d9ed6
+https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1759302597-1f1d66d05bf040fe88d56058d6743524-0-f708b5c91b6deb0e0897f5b380222451&token=1759302597-1f1d66d05bf040fe88d56058d6743524-0-f708b5c91b6deb0e0897f5b380222451
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" group-title="TV Jiran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -1375,6 +1375,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Pluto",Pluto TV Yu-Gi-Oh (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 
 
 
