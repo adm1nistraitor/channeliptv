@@ -898,9 +898,6 @@ http://45.126.83.51/qwr9ew/s/s21/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHnMJSau-1J_mtrm2Cj8STASKRo-P_1KvmGRG40BDva_DL-q2wk8iLMvrWhvp08oX2H4qXSe949uqa42jCzHeP556tz9ed95jLhj8be6ErQaX7ZoztPUYuTSDEKuhpTwpGm_byZP5uYI74eanLHYQ-6PFIMQtsRNvuUZrCV5tOHgi7ZLMADY4iEIXYm4Q/s1600/Xing_Kong_China.png" group-title="International",Xing Kong
 http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGCnl0D-2Vhk69T2maawZyAPJcTSM40cQr9WqN7Iu6f6yzEg2eHdAx_CmTibaXAOrPY-G9IvEH77dlaiFdesunGrflScmYGP6-aXWoGmqM5S8bhWqxL5qE99rEfLkieQkIr99O2mwQsm0jZWAdmkwinalcMCPH-WKKKP2d2XY7WAmaIHFCinO0Y3uxDU5/s1600/K-drama_logo.png" group-title="International",K Drama
-http://45.126.83.51/qwr9ew/s/s42/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiei3mWurrHFayz_ubgRUJ5XPJRrbcs2Odd5GYtzDYsRtklULMu49O2lLHWJ7e5tAWkPmy97-RnRhDOi56AhgnT6vLxCfB9UU37mASAbIv6HLHNicRDswxAEbyRbGlXPsjA4cvzWPMeT8S68Q0owIOrpIDI3TQah9-Sl5DA-_ceGSE6DSNcAdY9Er4RKc0b/s1600/RTP.png" group-title="International",RTP Portugal
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
@@ -988,7 +985,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_(2013).svg/revision/latest?cb=20240723011130" group-title="Premium",K+
 https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://archive.org/download/k_20230607/K+.png" group-title="Premium",K+
+#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_(2013).svg/revision/latest?cb=20240723011130" group-title="Premium",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 
@@ -1171,6 +1168,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/k%20movies.png" group-title="Film TV",New K-Movies
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGCnl0D-2Vhk69T2maawZyAPJcTSM40cQr9WqN7Iu6f6yzEg2eHdAx_CmTibaXAOrPY-G9IvEH77dlaiFdesunGrflScmYGP6-aXWoGmqM5S8bhWqxL5qE99rEfLkieQkIr99O2mwQsm0jZWAdmkwinalcMCPH-WKKKP2d2XY7WAmaIHFCinO0Y3uxDU5/s1600/K-drama_logo.png" group-title="Film TV",K Drama
+http://45.126.83.51/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZcafLQsCMsMGT6hKfVR7gOffrweSNei6QUOW8nBIbEuRdhnyRRFNQCnAEBJruD92z1o2dmEUxsJQedECVPUD63t3vvu0kwIDNDRCfJLy9niPf-CjueQxb3x7BUVaXrqJSlK5e8j5kt9T3favrBo9iQ38Y1TS068EhSznTkXkOrZn-BnytyiMOg7C0UJ_/s1600/Movies_Now_logo.png" group-title="Film TV",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -1449,6 +1449,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="SOUTH KOREA",BBS TV 불교
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
 
 
 
