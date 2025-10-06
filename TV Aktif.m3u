@@ -477,6 +477,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be3fbd2f58d7/86556e8bfa3d423e97038d36c040e6fd.png" group-title="Religi",Khazanah TV
 https://cdnjkt913.transvision.co.id:1003/live/chunk/4028c6856f08326c016f557be28131b9/eng/chunk-stream2-58465
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/HadiTV_logo.png/120px-HadiTV_logo.png" group-title="Religi",Hadi TV
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+
 
 
 
@@ -1476,6 +1479,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="SOUTH KOREA",BBS TV 불교
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
 
 
 
