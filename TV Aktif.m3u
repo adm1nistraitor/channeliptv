@@ -1303,6 +1303,9 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="TV Olahraga",Tennis+
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
 
 
 
@@ -1482,6 +1485,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="Lain",BBS TV 불교
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
 
 
 
