@@ -1109,6 +1109,9 @@ https://amg00735-amg00735c15-denstv-apac-7623.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 ####### FILM TV #######
 
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609083708223018_15.png" group-title="Film TV",Haunt TV
+https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Film TV",HBO+ FHD
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
 
@@ -1510,6 +1513,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="Lain",BBS TV 불교
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
 
 
 
