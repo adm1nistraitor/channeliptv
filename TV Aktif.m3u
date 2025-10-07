@@ -183,7 +183,7 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVae2Uh6LgYVv2Ioh0Wbs-S29D8_YG8DFKA3-sZ4CVGTPF1xbFwFJpYbxda1W0EWgT45JZSVhBEingR0299Kjknk6MYm-V6c3MCn8AcGBp5F2QoTpNTrOmzgwefQZjospfR0EtLdXeCtYGypMihOAuFrUmcuajGEN59lS9jpZQFzcdakkw-0Q0bmq8C44b/s1600/MOLA_TV.png" group-title="Indonesia TV",Mola TV
-http://bit.ly/
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/MyTV_Logo.svg/2560px-MyTV_Logo.svg.png" group-title="Indonesia TV",MyTV
 http://210.210.155.35/qwr9ew/s/s46/01.m3u8
@@ -1514,6 +1514,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="Lain",BBS TV 불교
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
 
 
 
