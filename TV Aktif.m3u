@@ -49,6 +49,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png"  group-title="Indonesia TV",Mentari TV
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png"  group-title="Indonesia TV",VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png" group-title="Indonesia TV", BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
@@ -1726,6 +1730,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3    
   
+
 
 
 
