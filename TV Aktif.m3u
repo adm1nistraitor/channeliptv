@@ -159,12 +159,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="Indonesia TV",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="Indonesia TV",Badar TV
-https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="Indonesia TV",MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_(2015).png" group-title="Indonesia TV",MGS TV (Megaswara)
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 
@@ -176,12 +170,6 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/hv
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJxNXvLDHhefBgi1cL1zPEdns1GQuSCDWSRyarXINdYddFpbGInPr1RjSk6k8AgOnTwO0ZHhvbp991qNn8Y7W0gpvBlaDkUfXd7vN8J3GeLkFL_tE48g3FeQLE_eHtGJNJ-B7ZjOWTJmJxpElw_iV7LjP907J5t0f0cS281T9BoQ3HospHy3pbptbQicuq/s1600/IndonesianaTV.png" group-title="Indonesia TV",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b3/Rodja_TV.png" group-title="Indonesia TV",Rodja TV
-https://rodjatv.com/rodjatv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b3/Rodja_TV.png" group-title="Indonesia TV",Rodja TV 2
-https://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest?cb=20220525022727" group-title="Indonesia TV",TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8   
@@ -479,6 +467,18 @@ https://cdnjkt913.transvision.co.id:1003/live/chunk/4028c6856f08326c016f557be281
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/HadiTV_logo.png/120px-HadiTV_logo.png" group-title="Religi",Hadi TV
 https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="Religi",Badar TV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="Religi",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b3/Rodja_TV.png" group-title="Religi",Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b3/Rodja_TV.png" group-title="Religi",Rodja TV 2
+https://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
 
 
@@ -1512,6 +1512,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="Lain",BBS TV 불교
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
 
 
 
