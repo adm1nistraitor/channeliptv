@@ -1003,21 +1003,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h194/01.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZFshzsMEeJBdSVvqkW6qJmYUMPBJHigc23vqNzKDkaxM03-XGeyFBZvHmGTT0SWAB7ocEjMH00jm0scjP4Ypf6HBRhgJ5gMefy154Fpte-mkqfg9uYUO3zvtzNJnsFkt6skvsGpSK_qNjB10B5rmV7RYavcS4ooTzovP4IiyIwaHM27KNe4Ok8CV9JUd5/s1600/MY%20CINEMA%20Kidz.png" group-title="Premium",My Kidz 
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-id="tvN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2560px-Logo_tvN.svg.png" group-title="Premium",tvN Asia (Korea)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2560px-Logo_tvN.svg.png" group-title="Premium",tvN Asia (Korea)
 https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz1SWWcIA98NUZ06tB1uuY6NmFIKrzz7POnTzwLkJwD1GfQ9w9evLFpZ1LS7Cz_EOOigS3tDQFppusHe6UZFU-Y3ixJw9MAfCZ9Mzzqcck5qITQyT_9oUqRj8TPIdzBZuWE9JNDjPR1ff1AB13hnT_yzQ5kiy8BvKAG5IfTLbUpAhaT-BN9HqTuRNQ4g/s1600/tvN%20Movies%20Asia.png" group-title="Premium",tvN Movies Asia (Korea)
-https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
+https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN Movies
 
-#EXTINF:-1 tvg-id="tvNMovies.kr" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Premium",TvN movies HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
-https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
-
-#EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://iili.io/2Ufsla4.png" group-title="Premium",tvN Drama
+#EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_tvN_DRAMA.svg/2560px-Logo_tvN_DRAMA.svg.png" group-title="Premium",tvN Drama
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=SD&apikey=5MY50EII66
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqs4ftHuqn67jkmE6X2KeWMEv1-73xalyuOn2t5tnR1GmppSiWAU7QolbGGowWn1Qs2rwKw7x4hI5BNa8WBGO1N80_1L0eb9IyLNB-A12_PoqrEW4FLK5whs3FpWIWOJHJUgUGQIO-c9U1EAC8sYNwzC84FM0-OFFVEo9wwMgh9s6UBR1Z0ur33cazSM9P/s1600/CCM_new_Logo.png" group-title="Premium",Celestial Classic Movies
@@ -1730,6 +1722,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3    
   
+
 
 
 
