@@ -10,7 +10,8 @@ https://r5.siar.us:1057/andikafm
 https://stream.rcs.revma.com/ugpyzu9n5k3vv
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bens_radio.png/revision/latest?cb=20200209022215", Bens Radio (Jakarta)
 #EXTVLCOPT:network-caching=1000
-https://stream.zeno.fm/047dgsp3v68uv
+#https://stream.zeno.fm/047dgsp3v68uv
+https://streaming.bensradio.com:8522/stream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Cosmopolitan_%28revista%29_logotipo.png", Cosmopolitan (90.4 FM Jakarta)
 #EXTVLCOPT:network-caching=1000
 https://stream.radiojar.com/u7d8heq3bnzuv
