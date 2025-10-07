@@ -169,7 +169,9 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/hvideo-960x480.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJxNXvLDHhefBgi1cL1zPEdns1GQuSCDWSRyarXINdYddFpbGInPr1RjSk6k8AgOnTwO0ZHhvbp991qNn8Y7W0gpvBlaDkUfXd7vN8J3GeLkFL_tE48g3FeQLE_eHtGJNJ-B7ZjOWTJmJxpElw_iV7LjP907J5t0f0cS281T9BoQ3HospHy3pbptbQicuq/s1600/IndonesianaTV.png" group-title="Indonesia TV",Indonesiana TV
-https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest?cb=20220525022727" group-title="Indonesia TV",TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8   
@@ -1512,6 +1514,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="Lain",BBS TV 불교
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
 
 
 
