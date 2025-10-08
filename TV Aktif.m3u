@@ -1481,14 +1481,8 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 ======📖|MUROTTAL AL-QURAN======
    
   
-#EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/nX0APzB.png",-ᴷᴼᴾᴵ ˢᵁˢᵁ-
-https://bit.ly/428RaFW
-  
-#EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/mAqnPC5.png",-ᴳᴿᴼᵁᴾ ᴵᴺᶠᴼ-
-https://bit.ly/GabungGroupDonzTelevisionNew
-
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",001. Alfatihah (Pembukaan)
-https://archive.org/download/MurotalMR/001.mp3
+https://archive.org/download/surah-001-al-fatihah/Surah%20001%20Al-Fatihah.mp4
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",002. Al-Baqarah (Lembu Betina)
 https://archive.org/download/MurotalMR/002.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",003. Ali 'Imran (Keluarga Imran)
@@ -1720,6 +1714,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3    
   
+
 
 
 
