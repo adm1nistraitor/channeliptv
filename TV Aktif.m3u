@@ -1275,7 +1275,7 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="TV Olahraga",Baseball TV
 https://aegis-cloudfront-1.tubi.video/8b2ca3ba-bfff-4792-85b4-f75cc1b90868/playlist_1024x576_062959__335230.ts
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="TV Olahraga",Redbull TV
+#EXTINF:-1 tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="TV Olahraga",Redbull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/World_Poker_Tour_white_on_black_logo.jpg" group-title="TV Olahraga",World Poker Tour
@@ -1714,6 +1714,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3    
   
+
 
 
 
