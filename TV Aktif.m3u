@@ -148,6 +148,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/2560px-MDTV_logo.svg.png"  group-title="Indonesia TV",MDTV
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://home.oxygen.id/assets/logo_oxygen_new_site.png" group-title="Indonesia TV",Oxygen.id TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dtv-indonesia.co.id/storage/dtvi/dtvi-logo-2024-tagline-1.png" group-title="Indonesia TV",dTVi
 https://e.siar.us/live/dtvi.m3u8
 
@@ -188,9 +191,6 @@ http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://sangajitv.co.id/wp-content/uploads/2022/05/logo.png" group-title="Indonesia TV",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-
-#EXTINF:-1 tvg-logo="https://home.oxygen.id/assets/logo_oxygen_new_site.png" group-title="Indonesia TV",Oxygen.id TV
-https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 
 
@@ -1717,6 +1717,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3    
   
+
 
 
 
