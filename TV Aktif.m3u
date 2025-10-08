@@ -77,6 +77,9 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/MetroTV_2000.svg/revision/latest/scale-to-width-down/300?cb=20180224092515"  group-title="Indonesia TV",Metro TV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png"  group-title="Indonesia TV",BN Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest?cb=20200805135934"  group-title="Indonesia TV",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
@@ -1719,6 +1722,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3    
   
+
 
 
 
