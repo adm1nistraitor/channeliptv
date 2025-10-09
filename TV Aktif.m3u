@@ -698,6 +698,11 @@ https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/logo/960x540/camp-spoopy-2021_1920-x-1080_option-5.jpg " group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png" group-title="Kids",FUN PLANET
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="Kids", ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
@@ -732,7 +737,8 @@ http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w158753526_b596000_slAR.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warner_Bros._Television_2023_%28Alt%29.svg/250px-Warner_Bros._Television_2023_%28Alt%29.svg.png" group-title="Kids",Warner Bross TV
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd_video_1_5_35292333.mp4?m=1725696893
+#https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd_video_1_5_35292333.mp4?m=1725696893
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids",Zoo Moo (Samsung)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -792,7 +798,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a0
 https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-tinypop-live-amagi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Pop-up-logo-2024.png/revision/latest?cb=20240711160807" group-title="Kids",Pop Up
-https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-tinypop-live-amagi/playlist.m3u8
+https://narrative-fast-popup-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-amagi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pop_logo_red_it_0.png/250px-Pop_logo_red_it_0.png" group-title="Kids",Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
@@ -1037,11 +1043,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="Premium",KIX
 https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_(2013).svg/revision/latest?cb=20240723011130" group-title="Premium",K+
-https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
-
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_(2013).svg/revision/latest?cb=20240723011130" group-title="Premium",K+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/k-plus.png" group-title="Premium",K+
+#https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPYHnLjHC5zoeWw_H2qGDtJKwnc8Xe5pmCRgHakOflxszEGgqcqHposNJj3xU1eS9HS9HSdin-3lhaEuYEoap0Wbg_XirKR0XfX6JfWTbsgGkvwsZpwIOoTBa7MyFqF4VFc0E2-C2BWFBSh9j7WeMG3lI0gCZXz0xiefNyQkf2iBGsrz1PEGZewpJlPLp/s1600/Rock%20Action.png" group-title="Premium",Rock Action
@@ -1729,6 +1732,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3    
   
+
 
 
 
