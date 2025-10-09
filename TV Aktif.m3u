@@ -997,7 +997,7 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg" group-title="International",Real Wild
 https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546" group-title="International",4K Travel
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsRmZQquMlGVfGpsu6BtaKgKtRbsZzgNyR-lI5MbI6Bc6M8dBS4Ah2QkWqpjTi13KdcdvQQ1N6XE1idCMylifRxY6oWWWkPYaM9Q4XJKezh8KU_RCk0lROSS4Ro-HtGCG3UwBjLZH7IByJYmLIIE-uUzM6x37PKrRdGQXpLIV3UBXtQTKKwb5PVBckZKAr/s1600/4kTravel.png" group-title="International",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.usagm.gov/wp-content/uploads/2022/01/VOALogo_MarkOnly_RGB_FullColor.png" group-title="International",VoA
@@ -1735,6 +1735,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3    
   
+
 
 
 
