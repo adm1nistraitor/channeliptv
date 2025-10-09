@@ -229,10 +229,8 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w2003386219.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="TV Lokal",PAL TV
+#https://paltv.siar.us/live/paltv.m3u8
 https://v3.siar.us/paltv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="TV Lokal",PAL TV
-https://paltv.siar.us/live/paltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/d/d1/Sriwijaya_tv_logo_2006.png/revision/latest?cb=20231217222046" group-title="TV Lokal",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
@@ -1756,6 +1754,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
