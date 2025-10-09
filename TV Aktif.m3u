@@ -1470,7 +1470,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="Pluto",Pluto TV VH1 I Love Reality (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
 
-#EXTINF:-1 Premiumtvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Pluto",Pluto TV Voyager Documentaries (720p)
+#EXTINF:-1 Premiumtvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-v-re2yKx5m1isxdzDhvtCrNETdMDjMR3LW3P3fqbxqw2wWudar2dPmAWSC4bTdf7Zv3lT-E46Bb0BvWGfsupjVbVvFOATWGczSiAnT6H0hg-s1cEVpSDw5d8UOJ6FkKAoWwWbb6OgrQ4gv_nXYkHoRsmqA2Nvbf-BhdFJT4wo4fQfaqwGQF_sMRGbKe9/s1600/Pluto%20Voyager.png" group-title="Pluto",Pluto TV Voyager Documentaries (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=589aa03df9ba56a84197a560&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=681&terminate=false&userId=
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="Pluto",Pluto TV Westerns (720p)
@@ -1735,6 +1735,7 @@ https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3    
   
+
 
 
 
