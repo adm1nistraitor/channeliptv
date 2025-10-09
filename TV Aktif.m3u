@@ -1488,46 +1488,58 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 
 
 
-######## Lain  ########
-
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WzatxMZ.jpeg" group-title="Lain", EBS EN
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/aYDMvJV.png" group-title="Lain", EBS KIDS
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
-
 
 ======📖|MUROTTAL AL-QURAN======
    
   
 #EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",001 Alfatihah (Pembukaan)
-https://archive.org/download/surah-001-al-fatihah/Surah%20001%20Al-Fatihah.mp4
+#https://archive.org/download/MurotalMR/001.mp3
+https://archive.org/download/quran_mp4/QS-001%20Al-Fatihah.mp4
+
 #EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",002 Al-Baqarah (Lembu Betina)
-https://archive.org/download/MurotalMR/002.mp3
+#https://archive.org/download/MurotalMR/002.mp3
+https://archive.org/download/quran_mp4/QS-002%20Al-Baqarah.mp4
+
 #EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",003 Ali 'Imran (Keluarga Imran)
-https://archive.org/download/MurotalMR/003.mp3
+#https://archive.org/download/MurotalMR/003.mp3
+https://archive.org/download/quran_mp4/QS-003%20Ali%20Imran.mp4
+
 #EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",004 An-Nisaa' (Wanita)
-https://archive.org/download/MurotalMR/004.mp3
-#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",005 Al-An'aam (Binatang Ternakan)
-https://archive.org/download/MurotalMR/006.mp3
-#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",006 Al-A'raaf (Tempat Tertinggi)
-https://archive.org/download/MurotalMR/007.mp3
-#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",007 Al-Anfaal (Rampasan Perang)
-https://archive.org/download/MurotalMR/008.mp3
-#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",008 At-Taubah (Pengampunan)
-https://archive.org/download/MurotalMR/009.mp3
-#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",009 Yunus (Nabi Yunus a.s.)
+#https://archive.org/download/MurotalMR/004.mp3
+https://archive.org/download/quran_mp4/QS-004%20An-Nisa.mp4
+
+#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",005 Al-Maa'idah (Hidangan)
+#https://archive.org/download/MurotalMR/005.mp3
+https://archive.org/download/quran_mp4/QS-005%20Al-Maidah.mp4
+
+#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",006 Al-An'aam (Binatang Ternakan)
+#https://archive.org/download/MurotalMR/006.mp3
+https://archive.org/download/quran_mp4/QS-006%20Al-Anam.mp4
+
+#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",007 Al-A'raaf (Tempat Tertinggi)
+#https://archive.org/download/MurotalMR/007.mp3
+https://archive.org/download/quran_mp4/QS-007%20Al-A%E2%80%99raf.mp4
+
+#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",008 Al-Anfaal (Rampasan Perang)
+#https://archive.org/download/MurotalMR/008.mp3
+https://archive.org/download/quran_mp4/QS-008%20Al-Anfal.mp4
+
+#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",009 At-Taubah (Pengampunan)
+#https://archive.org/download/MurotalMR/009.mp3
+https://archive.org/download/quran_mp4/QS-009%20At-Taubah.mp4
+
+#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",010 Yunus (Nabi Yunus A.S.)
 https://archive.org/download/MurotalMR/010.mp3
-#EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",010 Hud (Nabi Hud a.s.)
+
+#EXTINF:-1 group-title="📖|MUROTTAL AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",011 Hud (Nabi Hud A.S.)
 https://archive.org/download/MurotalMR/011.mp3
-#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",011  Yusuf (Nabi Yusuf a.s.)
+
+#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",012  Yusuf (Nabi Yusuf A.S.)
 https://archive.org/download/MurotalMR/012.mp3
-#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",012 Ar-Ra'd (Guruh)
+
+#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",013 Ar-Ra'd (Guruh)
 https://archive.org/download/MurotalMR/013.mp3
-#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",013 Al-Maa'idah (Hidangan)
-https://archive.org/download/MurotalMR/005.mp3
+
 #EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",014 Ibrahim (Nabi Ibrahim a.s.)
 https://archive.org/download/MurotalMR/014.mp3
 #EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",015 Al-Hijr (Kawasan Berbatu)
@@ -1644,7 +1656,7 @@ https://archive.org/download/MurotalMR/069.mp3
 
 #EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",070 Al-Ma'arij (Tempat-tempat Naik)
 https://archive.org/download/MurotalMR/070.mp3
-#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",071 Nuh (Nabi Nuh a.s.)
+#EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",071 Nuh (Nabi Nuh A.S.)
 https://archive.org/download/MurotalMR/071.mp3
 #EXTINF:-1 group-title="📖|AL-QURAN" tvg-logo="https://i.imgur.com/LcK0Xx7.jpg",072 A-Jin (Jin)
 https://archive.org/download/MurotalMR/072.mp3
@@ -1741,6 +1753,7 @@ https://archive.org/download/MurotalMR/114.mp3
   
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://cdn-images.dzcdn.net/images/cover/872d1cfe7566c9b589bce4b46ea80886/0x1900-000000-80-0-0.jpg", Rock Ballads
 https://archive.org/download/rb-1_20251008/RB1.mp4
+
 
 
 
