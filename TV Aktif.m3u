@@ -867,7 +867,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 
 #EXTINF:0 tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" group-title="International",CNBC Live
-https://livetvde.net/cnbc/tracks-v1a1/mono.m3u8?token=e733a6fe73cfe3a0cc7845d57d7fd382884b4588-7dc57e3ce386567feef9ce25b0ecf68f-1758706332-1758695532
+https://livetvde.net/cnbc/tracks-v1a1/mono.m3u8?token=bb4b5e30b486520ef76e2fa156e5ba8c3d5e24d3-f55b1cf1151e8df97b423059e63824b0-1760098805-1760088005
 
 #EXTINF:-1 tvg-logo="https://www.petergeorgescu.com/wp-content/uploads/2019/10/msnbc-logo-png-1920.png" group-title="International",MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
@@ -1757,6 +1757,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
