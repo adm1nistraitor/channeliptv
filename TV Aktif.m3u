@@ -528,7 +528,7 @@ https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/480p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png" group-title="TV Jiran",RTM ASEAN (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.persianity.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/maahtv.jpg" group-title="TV Jiran",MaahTV (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG2SE-X7MaLoBsqzP_9OpJsbC6yJhoz31UEtYO9fd8uEkfpudQ-EZQJmfS0dgBFRexlrX0Mcg8gEXKS1KK_DZUgLVZf9LmERwzIwW5GFVsLqjCQXnH0NSB-qSjvYLuln-G9UmkGTPPT8v_VuXwT9-o3XiUDdFz3BYlRg7NxXtD-kHqgiG0JK-b_13UkWef/s1600/TV%20Maah.png" group-title="TV Jiran",MaahTV (Malaysia)
 https://hls.maahtv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV1-200x112.png" group-title="TV Jiran",TV1 (Malaysia)
@@ -1754,6 +1754,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
