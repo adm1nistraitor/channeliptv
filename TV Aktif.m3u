@@ -499,16 +499,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
 ######NEIGHBOUR######
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="TV Jiran",RTB Aneka (Brunei)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJOZxVB0vG0xvscD93vMKJ7uVTx61Y0ezyOSqgBAc4lCgC1eVO1s938r4r3AZotOFy8ZV-xh8RaB1VvH2EeFaYm1u72MuN-KOdBH55prPs5gDfVA3wey4z0qof0yxJjJX4D71qvxM_A9K_6aho9oj1j9WMV4AwfwvLFRqmIVQLhpKBQlXSnQeUByUUdQ4O/s1600/RTB_Aneka.png" group-title="TV Jiran",RTB Aneka (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/RTB_Sukmaindera.png" group-title="TV Jiran",RTB Sukmaindera (Brunei)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmS_PS5HFb7uK_xcHAwk9Ws2ndQGRQU4NPul_k8C0rOOf5zlXRUGrgnrOVmu9CLurlfW1Sw9YIY8wYg99P29nB7S0ktbW1WWShwx_kEXO-OgxZokm6gTLrtJl8AEqAU76jEAHoymUG_jJckxOxmbG3ZjmokvIJi6Yf8Mq7rksyw_Lfk9E96Xb15lVby3X7/s1600/RTB_Sukmaindera.png" group-title="TV Jiran",RTB Sukmaindera (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtb-images.glueapi.io/300x0/live/GoLiveNew.png" group-title="TV Jiran",RTB Go-Live (Brunei)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJv_Kjx0Chyphenhyphen-8SEoqTbkNXU3yfwgzs9sS1J1HMN79qICHreNPMINcOOL1tGe991-ABBkTgOm1cCaMinosmLzgUde6xkKjTleLej9yxtuyCCY_MgALbQtLmBrHVQOZZF1XttgffQbd-HK8MWG9E5ACDwvfB9B3JrvuyJSOPXxygH8_sn77iC6JreJQPS5Gl/s1600/GoLiveNew.png" group-title="TV Jiran",RTB Go-Live (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Astro_Awani_%282025%29.png/960px-Astro_Awani_%282025%29.png" group-title="TV Jiran",Astro Awani (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-IgCuxLgYmknel_6lO3uZ2EuURJMeFj7yUCNb1wa04Q6Jpg-yF53-8DysG3UqaEQO4zvaNkMeCj5Ed_d7UsCZoqsOfITxiWJAA-WsX1T-G23Sqro8tE90DaOGjgEr7O-yyln3t_1rEaYchrsAPIq9LCeVWHazjqwkmx395KIKrkD9IiRJDpWlurg4vT2S/s1600/Astro_Awani_%282025%29.png" group-title="TV Jiran",Astro Awani (Malaysia)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -516,43 +516,43 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="TV Jiran",Astro Awani (Malaysia)
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-IgCuxLgYmknel_6lO3uZ2EuURJMeFj7yUCNb1wa04Q6Jpg-yF53-8DysG3UqaEQO4zvaNkMeCj5Ed_d7UsCZoqsOfITxiWJAA-WsX1T-G23Sqro8tE90DaOGjgEr7O-yyln3t_1rEaYchrsAPIq9LCeVWHazjqwkmx395KIKrkD9IiRJDpWlurg4vT2S/s1600/Astro_Awani_%282025%29.png" group-title="TV Jiran",Astro Awani (Malaysia)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png" group-title="TV Jiran",Berita RTM (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZWFjcPyQuH54TaMGMvOfrh5hyYYvxElhO_EPr_Lcxge8xR9s0a2yaHNPW9fbfT15tyZA8oxi4XqTf9kSIuguKgSwwkHH36GdxLwSELEhTdM0z4-tYtYDZqtgyUDQHgspdm_fWgXr0MrFkdotV6G69Y9uvplb1kNNU2REqCD7fIO7HU_pU9bs28yEjvXA/s1600/Logo_Berita_RTM.png" group-title="TV Jiran",Berita RTM (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png" group-title="TV Jiran",Berita RTM (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZWFjcPyQuH54TaMGMvOfrh5hyYYvxElhO_EPr_Lcxge8xR9s0a2yaHNPW9fbfT15tyZA8oxi4XqTf9kSIuguKgSwwkHH36GdxLwSELEhTdM0z4-tYtYDZqtgyUDQHgspdm_fWgXr0MrFkdotV6G69Y9uvplb1kNNU2REqCD7fIO7HU_pU9bs28yEjvXA/s1600/Logo_Berita_RTM.png" group-title="TV Jiran",Berita RTM (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png" group-title="TV Jiran",RTM ASEAN (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwBk10LegapZ4nEu5zCYa5ctZi6rSNJLQw3Fivn0MKy6DP73t1splOGEkf409MaIlxXfJCu5bYiXCOUW4D6Sj9QHgtYZNNiOdlt4A9sGYE36XptH6gMT5OvwzXAXj7f3WHYKF6MbVKifA59voC8Dl-AW7YJdyLh5e5wKkiyJtrYuWej99aFnf7HKKAdMk3/s1600/Logo_RTM_Asean_%282024%29.png" group-title="TV Jiran",RTM ASEAN (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/main/Vry6vX/480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/1280px-RTM_Asean_%282024%29.svg.png" group-title="TV Jiran",RTM ASEAN (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwBk10LegapZ4nEu5zCYa5ctZi6rSNJLQw3Fivn0MKy6DP73t1splOGEkf409MaIlxXfJCu5bYiXCOUW4D6Sj9QHgtYZNNiOdlt4A9sGYE36XptH6gMT5OvwzXAXj7f3WHYKF6MbVKifA59voC8Dl-AW7YJdyLh5e5wKkiyJtrYuWej99aFnf7HKKAdMk3/s1600/Logo_RTM_Asean_%282024%29.png" group-title="TV Jiran",RTM ASEAN (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG2SE-X7MaLoBsqzP_9OpJsbC6yJhoz31UEtYO9fd8uEkfpudQ-EZQJmfS0dgBFRexlrX0Mcg8gEXKS1KK_DZUgLVZf9LmERwzIwW5GFVsLqjCQXnH0NSB-qSjvYLuln-G9UmkGTPPT8v_VuXwT9-o3XiUDdFz3BYlRg7NxXtD-kHqgiG0JK-b_13UkWef/s1600/TV%20Maah.png" group-title="TV Jiran",MaahTV (Malaysia)
 https://hls.maahtv.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV1-200x112.png" group-title="TV Jiran",TV1 (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgENB88lccB3MNd-mcVk4pwF-ekCAENL5PigBxVl-0aftWJesWoRMnYKQq9Hg6iecSEzU2lYOk-QxFoldNzKI27MM04WLG0GFaKXAqUevBSJxs2ooJTK8gsjL_W0Wvi00-oh9EDJCxpHXINTvHlAzHyeJE2iL3rk3vNZ4CrTKxgu8-zuQwAvhON-6GMfDm/s1600/Logo_of_TV1_%28Malaysia%29.png" group-title="TV Jiran",TV1 (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="TV Jiran",TV 1 (Malaysia)
+#EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgENB88lccB3MNd-mcVk4pwF-ekCAENL5PigBxVl-0aftWJesWoRMnYKQq9Hg6iecSEzU2lYOk-QxFoldNzKI27MM04WLG0GFaKXAqUevBSJxs2ooJTK8gsjL_W0Wvi00-oh9EDJCxpHXINTvHlAzHyeJE2iL3rk3vNZ4CrTKxgu8-zuQwAvhON-6GMfDm/s1600/Logo_of_TV1_%28Malaysia%29.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="TV Jiran",TV 1 (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://bit.ly/RtmEpg" group-title="TV Jiran",TV2 (Malaysia)
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWS2Z1JiMkVh0Rq-gt_ZWZRP21zQjYwNZ4tjqhMoWxDUGiFj5Q1AyLkbZjkuFqr_Gn5Pfi8s7Z8WuaFKGQDkllF673P8U1IQo9SVoer5e5928JOlGKe1V_8xUG1lAIv18b4P6aCaWHHMgIk3y9dchwZWhyKc64LHzCYg5uen5W3jR7H9Kq_9xljG9Z-lam/s1600/TV2_%28Malaysia%29.png" tvg-url="https://bit.ly/RtmEpg" group-title="TV Jiran",TV2 (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png" group-title="TV Jiran",TV3 (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBEqI-tRAWkzE2MgHPcKldqPh0DoSFJCvsophjXeGX1VVzvqYWPcHRNj34XWCVi_-74h_3S0zPQ6zNrnsF-uQNvA80giSUBtaoOXeBIQoBjfUejZGlIzoVkA01BXD-BWWuRn7WcmQjO3seIHrkwq7azKjxoVp3zuSTlxOX9WXlhsf8_HLo9yhJJenQDJ4C/s1600/TV3_%28Malaysia%29.png" group-title="TV Jiran",TV3 (Malaysia)
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052628
 
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="TV Jiran",TV 6 (Malaysia)
+#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4I0GXyrO7GysAjNORU7-FrDbSZzR7GMcAiJxvhEBHac9KtJtTwgzj5UqG1AzD6pldTKMrFl5q6kEckQbPkgM-pMNpt96SH50a-X1FhA-WJNuDYD97QOOpMyOn-2l9wr4PoDUj3fRDIVeflxHTAIt0iEOQPz2oSzpCxCPFaPXFajMliEtRQPncRZN6tTR/s1600/TV6.png" group-title="TV Jiran",TV 6 (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.selangor.gov.my/selangor/resources/Image/LOGO/SelangorTV.png" group-title="TV Jiran",SelangorTV (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHO2J2BuBfCE44LtqifWLi_JbFi4HuhH6p7CA5gB8tPW71tEJTltH3I1TpfxGm6X2NGk3qnfObWEegmma2qxUwKw74s2_OOLYV04vkabRGcLSA-AIkGMuSL6ljeWdmcfblswTuz4JOnluFRno7L1qswMZKyaqkS_Wt8kWX3KNxxeQts8wT92OqptnCHI8C/s1600/SelangorTV.png" group-title="TV Jiran",SelangorTV (Malaysia)
 https://live.mana2.my/SelangorTv/index.m3u8
 
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" group-title="TV Jiran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey (Malaysia)
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_pYKX_ZCir3RuFu98wDtTVX_qe-5dUcWiwPw9OOt34YSmlpgokIZ1zBOdjFlpmYN02AjDU_Ku8k81-pCLlNQB0EsNKYOgYEtYBz6xQaFvNYCpuLrDhB97Deyd9a1U14sMe5ZAfIp7N79b1w7z1wcEb17IMlr5-yiADBb1b6JLkBQxHwIo6oYHHjuBme1N/s1600/Okey_RTM.png",TV Okey (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -560,54 +560,54 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="TV Jiran",Sukan RTM (Malaysia)
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg03Z8uhQukKqzlio0FnfVyukro_CqjgXByL43229pjqO2Kma_2nzycpubn2_-DZij-qUCmycLzN4tkW5jAEFDSUDvwvwoZxYEpjR40Yv7tZhostfe5T_AdmYuQxfBYR2KegI_Qg0XUXrQsFa9bWjHYsQKH0Dw_DRgbqvJqvXBAmqiJaB-F-PaM_X_gE71W/s1600/SUKANRTM.png" group-title="TV Jiran",Sukan RTM (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png",Travel&Taste (Malaysia) 
+#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsr5MpaSdjK8FenyXs1v0VmOFBPjziVDfdNBSVyV_sYYEoeykRvWFtHzqvDO3gwrQj5FPT0KXYJeu9Ow2rGHBTfwvTK81XfXdROPSB3WFvuowf_0QovBwmQvG7mDnROC6zlHqu7aqbaCuVVyZcxOZg-F0WqDq6FmtDwzMLok57ILE7Jvm_NxW6elfM_NzE/s1600/Sooka_Travel_&_Taste.png",Travel&Taste (Malaysia) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
-#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot (Malaysia)
+#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWoJim1q2bXYb67jAW8ULKseLNNXfVijclxZjMUKWoV3Ru-U-CWW3YASAipPuC7zrs4cmhXN87M8hnJRQPC6y3FKsnC24Zcsa0bHxj57yYy9ESkrlQJYn8fiEswN391HPfYGYQEy0DjxFeemZqOtDpwyHeBKt6Q0Olc1IiasN4PojiZGpZ7yf6yHzFixY-/s1600/Sooka_Drama_Hotpot.png",Drama Hotpot (Malaysia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 
-#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap (Malaysia)
+#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG5ltCSVIuC5J8H11sMskGI7DFDh74_mrCTgRFir0EsWI47ex-KFwBmxtaoRtBvwHjvpvD7rcy4ZQbnj8jV9sb0rZUFTfXEryU_dvqvbrCxsw95H0HKn5wxZEAcoVcvh1QQjmrpt1iCRO9xYxfgXqxRKBUZPhgr-_WO73Cp0qhEn7_25-8Am0xdWtdPkdc/s1600/Sooka_Filem_Mantap.png",Filem Mantap (Malaysia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
-#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sooka_Lawak_Sentral.png/640px-Sooka_Lawak_Sentral.png",Lawak Sentral (Malaysia)
+#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB55ZKz_a7m55BJDvX8bphow8a9pHgdvtxFhUrJHuLmmlOfDSSxXXYhY2TxuFroPKNh3N1LZ2O8WsmqKzO4mCHvmaYTcHm0fRYYhnxSdYonNqpGIAEQNTlyIdODdNwBm8Iq1b4_8vXLbzo7K_4NwwSbl0tdab3WrHp0TD7g2kv8xR2626lN5OnglSVRHY0/s1600/Sooka_Lawak_Sentral.png",Lawak Sentral (Malaysia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
-#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png",Drama Hebat (Malaysia)
+#EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgem1u9sGl7WZ_uAm3u_pJyVa-fzOc8jh59v4dSDM74Z8HjKAC_H4-ucc0aZLrQd36vmCzwt76NL6pZu31fArlLqUZ-3FMWknR9NgUUdStOGYXRMgZKuN4WDAdmavT8sRAOlOi1bclHmg4l8SLmLCZI-jOvu9X0Y4Us1SCGPgE5cArd_mWwwt5gzel8ZLsd/s1600/Sooka_Drama_Hebat.png",Drama Hebat (Malaysia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-#EXTINF:-1 tvg-id="" group-title="TV Jiran" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria! (Malaysia)
+#EXTINF:-1 tvg-id="" group-title="TV Jiran" ch-number="136" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcT1flS9Aez_mILe239TJMfsgh7nAzbh9NybBGZfVnextZ9-ClZMBQIBn0fTvoc1XiIA3bGb2tc93-EvLb2GOnLppLZh7NEaAw1MD_DvSZZYPGPFud8ZbKLQP-7VuiS27rkfbGDliiprbfmbrZDNxlYIZ7n7LAeJOxC7sPcRZMM-3OTecmb6pRmF0w8xU/s1600/OhMyCeria.png",Oh My Ceria! (Malaysia)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="TV Jiran",APETITO (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK-k_x7f_g1Tm4g0R3FQ9x0sI8eqLR3nBiUQyT0Zf4YSFLI-eYcdaYaM_GQrcCLBFCrkk97gSYZfwaFNdDRxe2lH90xKjvQ-TATSfW4IvuzVYzX7NaDF5O52j_gSuQt4AsaC2FHHAL7by6DRWm3clC7feI0uWjT9PHJhipt1YbkS7cYujMJZoqDFz5b07l/s1600/APETITO_CHANNEL.png" group-title="TV Jiran",APETITO (Malaysia)
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="TV Jiran",AURA (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDxC8ufbp0DK46kAmmKhZMyp2Bp6Sxzrtax5DgDA8TiEur1DbQInQXH_QBWEBAvbvFE1OUQOedQVTDVu8yybi8UyYJnDoUro_PHzxB-xLQsDtRdXjJFo56BijcIPrXgrAk9S9NVaTXJEUZytV3ZPWvm6H00f3N80uoudnkpbd7XR_UNJwuPVZkZrHebmQc/s1600/AURA_CHANNEL.png" group-title="TV Jiran",AURA (Malaysia)
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="TV Jiran",FITRAH (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRza7FfUR01Qbpv1BXnF8asZVqH10IkvqDDZ8sVnJ7eWb_LhxtbodZ2xBkjkxYBeDaKgSElwuMYTu0erOksF-ec9UABL_XefpZhGRtuzaYE_x3JAc58lg0_UH3KYETT3gDCehbX40p5zqVctCNK0Wj_Czgt5vY6OOyUdkY-sPMK-gUk7pPa6qt9oD2nhbb/s1600/FITRAH_CHANNEL.png" group-title="TV Jiran",FITRAH (Malaysia)
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="TV Jiran",JR. (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjefxJqZIszalU7CZi3ZRcbMgFMA3-IGzVmY8-gvqBa_SaBYz9FH-cl3_s5R-6DE2KlBZmOr38gy2HZ-IHi8QOo7XEfr31Wlew_aJzVpq2zhvyJuLNkoYvmqeCBuMCFT814iZZFYrN7cb08dMJA-_iYA6v7F4CxsNtNTbjFOJe-itYmoj3Npt5HVI1Ypd8n/s1600/JR_CHANNEL.png" group-title="TV Jiran",JR. (Malaysia)
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="TV Jiran",LEAD (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQChVr99BOFokeQulUKvAGl6cH4tU7J1xvonYJ_CIlcue8hjWvh1Q8jACBMJ9y4Q1v5OwyU_qC7sa6GJQKcPGI6fvH0OvQKCGYAVvhRdneFALW9yM2nIBNkkqB0OgRPnD3-Yr4Kh949JTEXq4zEEZFhlTJRCJQ2mIIQzbMDm6Ie7TdHeCpXtro_Uwe95Ax/s1600/LEAD_CHANNEL.png" group-title="TV Jiran",LEAD (Malaysia)
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="TV Jiran",ROLL (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpyu6cYHCXZUdQu5Ms6-wMEI5zPIaPtsoonTQBIlYaln9FFHrkwDWsf3nLKn_g3JttlBpwgKnR0I2E5mbJ3eNu3alsLM78PpE_jHAEVHEezBg6GI6pvWSABLufIKv49mike9mnVpJOCoBPmbetYg6L9JHkRujBtNFWUIvBA4T2F3LqLgBZMcxLTdMWLum/s1600/ROLL_CHANNEL.png" group-title="TV Jiran",ROLL (Malaysia)
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="TV Jiran",SNAP (Malaysia)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxO5_X0jF4Eenc7P0WHIh0SLVRfj5DHvKHbIVsEotVcxTevruTQnuX45uzNG_cOfb38zbXeYmFloYFfqmI2gx4GIiG0fNKRGQErdKKBOhP8qEHVT6ac2nDLu3Ve8qCgjCNaBtrx1mACdKv7njG8LnCV4Gjdxro4-fTmdZkjviScHkRrwlo0NdCNEQXhYN/s1600/SNAP_CHANNEL.png" group-title="TV Jiran",SNAP (Malaysia)
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 
@@ -1961,6 +1961,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
