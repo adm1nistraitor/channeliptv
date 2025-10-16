@@ -618,8 +618,11 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 ######MUSIC######
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnIUxUOvUSkkDs8PcRIpaYxm5poMf3BKJ_wqj0XQqrXH-yfFABzHa8n8DkFrWeWtQMNTXiQaE4CPey6tP6tw6PNhyM5IJv-Vi7ixRrdyS6ZiRefqCPthP2Ycua_DeMpTa8fYYjAhK-C-_dXawLcpLiTbiJnhItXhKo5ANTfOr3xpea4uIEB71UgB-ulyOd/s1600/CARAC1_logo_2023.svg.png" group-title="Music",RougeTV (Carac1)
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjcF1KIqlDQDmenEuYTTQI2lUV1Li7xeDdB-9vGJj06wHylGlMzCVo6JkEaplPuXe2PFb6j4KBIoSFaH4JFr1yn5krq2Mj0yBoO16Ptlsk6u4gNF3LeGAwetNvs2FDhWL6obn8gIhMMIY7FBqHQ-_cX75egXoDaSDO0BQwUJlHQU77e6mXrC3Z_0inGGg4/s1600/2560px-Kronehit_Logo2018_Nachtblau_rgb.svg.png" group-title="Music",Krone Hit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7lw2KgLyaq0yt6qcIKBKeoUW23931PhNa2Y41e_p3Bw2P-iAOCF5vBSP_DB_xDJYEgyG1WbtslYNz-_1JFgMnHabKU6pV5-cJ7ox-mqyyNqhMakJKlWdd-E-Sr7E1IhRLigYFxKGSGaj1o4IE221mmPIA6UqT2cCCjp5lpQPCM94dLdC9S6NKioqAXxv/s1600/1.png" group-title="Music",1 MUSIC
+http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUKtWNBv2p8cKwEhgyAapeVs5ZX3h46U1RbWPs73YovtgNyd4tO56UZ_k1n37WAeuE6VfBEGKIoFok2vOjgJsN1meyR_deq23FRDid_SRb0-g7O2-cjr3gKiFWtQxBNqAEp1Ip4Mr1C2Q8RLlrSZHcOIel8CjnokH2nkhQflfLf_TZqQjPGitMR4JThIbd/s1600/NOW_70s_2022_logo.png" group-title="Music",Now 70's
 https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
@@ -635,12 +638,6 @@ https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRIb4fSyD4iaYhICgFPEeDZKBoNcsoUzMIoxtjHDir8zOPUQREoiAi7xbnIO-6gv-YNgqf77O-t4x9Isua6ZXDo3Z9EzDiKFjc_kC3Gd-BqaIlCphez6KFWcZLPRWCksw5Pl1e0H-d9-XGzLL1wvSXeBgcTj5IANgOaMPpORjAp5qMkh41Jo3_vQ5IXf0l/s1600/NOW_Rock.png" group-title="Music",Now Rock
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjcF1KIqlDQDmenEuYTTQI2lUV1Li7xeDdB-9vGJj06wHylGlMzCVo6JkEaplPuXe2PFb6j4KBIoSFaH4JFr1yn5krq2Mj0yBoO16Ptlsk6u4gNF3LeGAwetNvs2FDhWL6obn8gIhMMIY7FBqHQ-_cX75egXoDaSDO0BQwUJlHQU77e6mXrC3Z_0inGGg4/s1600/2560px-Kronehit_Logo2018_Nachtblau_rgb.svg.png" group-title="Music",Krone Hit
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7lw2KgLyaq0yt6qcIKBKeoUW23931PhNa2Y41e_p3Bw2P-iAOCF5vBSP_DB_xDJYEgyG1WbtslYNz-_1JFgMnHabKU6pV5-cJ7ox-mqyyNqhMakJKlWdd-E-Sr7E1IhRLigYFxKGSGaj1o4IE221mmPIA6UqT2cCCjp5lpQPCM94dLdC9S6NKioqAXxv/s1600/1.png" group-title="Music",1 MUSIC
-http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="Music",MTV Live
 http://190.102.246.93:9005/play/a01p
@@ -662,6 +659,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8SKZgDcgGbnJuXWsDBrHChXDDtDS2-hlqIjPNmoOXXnaY9j08MKikq8kO2xBlDUL2CDGW5GEC4U3P0qMqMjvhT7U3fE4lUG8JsaiebTuI7JcfhYUmfDF3C-4wBGZTZpwGRfO0780e26ykE-Kh-9VCv7EXAX4qC01lxvMEsFwL4Hv59nKKnp9q4HgtDKCP/s1600/MTV_Classic_2021.pn" group-title="Music",Pluto MTV classic
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnIUxUOvUSkkDs8PcRIpaYxm5poMf3BKJ_wqj0XQqrXH-yfFABzHa8n8DkFrWeWtQMNTXiQaE4CPey6tP6tw6PNhyM5IJv-Vi7ixRrdyS6ZiRefqCPthP2Ycua_DeMpTa8fYYjAhK-C-_dXawLcpLiTbiJnhItXhKo5ANTfOr3xpea4uIEB71UgB-ulyOd/s1600/CARAC1_logo_2023.svg.png" group-title="Music",RougeTV (Carac1)
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzbnLeO1ltIOtebiUpTgxurKg2a-Us9HItJl5oizqppOSNrXb-_8oY_azlCgOrSLjaQt1QIyVvetsHj9hW27XiFH4kE9rufebFXoNvhwt3m5Mj74xT8sJHE4juHL5Og8U0nyX_CCPtCJh8dOLq8P4OhuYDa6L7mORnuZnqYMCLgEU2OLe3qeK_smSgF8a1/s1600/Retro_Music_TV_logo.png" group-title="Music",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -1957,6 +1957,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
