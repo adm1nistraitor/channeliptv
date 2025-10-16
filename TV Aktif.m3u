@@ -690,6 +690,68 @@ https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIaSa99ugC241fkMb97acV0d_5giCRl8C5Sho4ulQWGUeZnaR2cf0UuVpURUxoKkk1A3lMMe2kjRSx_-GwT8QCcwlOZfDqWKpXhv5TLXqieAPoyu8AdpARmfFAIUBHs6X2YC4ADel1cRKIxqYPGAwSUV4AQd0AgDOTu3ik1qQ7QzLttRD8YDcH-fo4w2wB/s1600/VevoPop.png" group-title="Music",Vevo Pop
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20241112T001904SQUARE.png" group-title="Music", Vevo Retro Rock
+https://jmp2.uk/sam-USBD3000145P.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetalTV.png" group-title="Music", MetalTV
+https://wahyu1ptv.pages.dev/MetalTV.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwOtCHMfQRz1O-0aokh2OoJI02yrXY5Gq-w&s", NEW KPOP
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0apztKifh384hR-Rz4HGXC_7xi6cUqTPuA&s", DANCE TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KpopTV.png" group-title="Music", K-PopTV
+https://wahyu1ptv.pages.dev/kPopTV.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KPopTvPlay.png" group-title="Music",K-PopTvPlay
+https://wahyu1ptv.pages.dev/KPopTvPlay.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/K-ContentsVoyage.png" group-title="Music", K-ContentsVoyage
+https://wahyu1ptv.pages.dev/K-ContentsVoyage.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/kPopCV.png" group-title="Music",K-PopShowChampion
+https://wahyu1ptv.pages.dev/kPopCV.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/kPopCjENM.png" group-title="Music", K-PopByCjENM
+https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7NcEh8p4tABtq9Vc5824eoIy3IFsmuX4Y9A&s", 24H K-POP TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://live.24hrkpop.com/hls/3/stream.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/95/LogoBahanaFMJKT.png/250px-LogoBahanaFMJKT.png",BAHANA RADIO MUSIC
+https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Logo_MIC_Channel.png", MIC TV
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Logo_Maleo_Channel.png", MALEO TV
+#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWF5iy7pz8qWStADdt3lRs1bQb465KYE7Yg&s", IMTV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP3CAq9eTM4HTtcwK61iCVQU4-nKEy5HwkdA&s",POP MUSIC
+#EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqDgISmgY9Nx1XWHO567adwvD0rbZWE-mOYw&s" group-title="Music", SPIRIT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="Music",Music TV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+
 
 
 
@@ -1008,6 +1070,19 @@ https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="International",Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="International",Discovery Channel 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/cdn.broadbandtvnews.com/wp-content/uploads/2024/07/01110300/Adventure-Earth.jpg?resize=350%2C200&ssl=1" group-title="International",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1985,6 +2060,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
