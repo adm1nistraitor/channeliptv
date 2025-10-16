@@ -765,16 +765,16 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqSzSrqKxH1FJb-_GUpqLAYF4-TxsxpjW8a9m-MRSDprWC4wdefnVNQ6M3dsvQ2w8f7AYw-DRwLGe_KqSfHq4q2ir0qmsi8eD4r0c0JDfeSQe8Gr_ZkR2VfVdet1SND-ISwP3TWexeKkt5mUa3mNVgaNuC_x1i2pC067f8FKufzSJTcaMNXg9vN5JpCgDk/s1600/Toon%20Goggles.png" group-title="Kids",Toon Goggles ID37 (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Kids",Toonami Aftermath East (480p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYjI9b28l7tpwoji6QtKhgpxTJNPYtDKtbZTAlVkdt9XetxzJw3CcrMKrScRrSdzgrDX7zLvnL8H4U5VZGddroJVrxGY890yHDaV_bOejo2Zaw8-oOZIOLLoZZ_-VLXRfVCdvS5guQb7EZmWED1FW1XEz4fz8hrxMpZRtzd97jeuhVhVBmlPdpsoWjacD/s1600/Toonami_aftermath_logo.png" group-title="Kids",Toonami Aftermath East (480p)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Kids",Toonami Aftermath West (480p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYjI9b28l7tpwoji6QtKhgpxTJNPYtDKtbZTAlVkdt9XetxzJw3CcrMKrScRrSdzgrDX7zLvnL8H4U5VZGddroJVrxGY890yHDaV_bOejo2Zaw8-oOZIOLLoZZ_-VLXRfVCdvS5guQb7EZmWED1FW1XEz4fz8hrxMpZRtzd97jeuhVhVBmlPdpsoWjacD/s1600/Toonami_aftermath_logo.png" group-title="Kids",Toonami Aftermath West (480p)
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Kids",Toonami Aftermath Radio (480p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYjI9b28l7tpwoji6QtKhgpxTJNPYtDKtbZTAlVkdt9XetxzJw3CcrMKrScRrSdzgrDX7zLvnL8H4U5VZGddroJVrxGY890yHDaV_bOejo2Zaw8-oOZIOLLoZZ_-VLXRfVCdvS5guQb7EZmWED1FW1XEz4fz8hrxMpZRtzd97jeuhVhVBmlPdpsoWjacD/s1600/Toonami_aftermath_logo.png" group-title="Kids",Toonami Aftermath Radio (480p)
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Toonami_2022_Logo.png" group-title="Kids",Toonami Aftermath Movies (540p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYjI9b28l7tpwoji6QtKhgpxTJNPYtDKtbZTAlVkdt9XetxzJw3CcrMKrScRrSdzgrDX7zLvnL8H4U5VZGddroJVrxGY890yHDaV_bOejo2Zaw8-oOZIOLLoZZ_-VLXRfVCdvS5guQb7EZmWED1FW1XEz4fz8hrxMpZRtzd97jeuhVhVBmlPdpsoWjacD/s1600/Toonami_aftermath_logo.png" group-title="Kids",Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIm9u3fAxjK-4lD-4i_08BhNJn10Vlzi-3rFb9RdtIGdwXbY499WiCx8oERTImjR_UTjv0qW68EdtCwjNcmrpguT2SerIirB2DPmCltJrWPEIfT0bHad7SYno7WqBxjyMgSWuU-pFJ1_pFTPb8bMnOkhkcvZsdamlyCSYKE07Kn-sX8hsTU9q3XZfSx5H/s1600/Cartoon%20Network.png" group-title="Kids",Cartoon Network
@@ -1957,6 +1957,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
