@@ -842,7 +842,7 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIm9u3fAxjK-4lD-4i_08BhNJn10Vlzi-3rFb9RdtIGdwXbY499WiCx8oERTImjR_UTjv0qW68EdtCwjNcmrpguT2SerIirB2DPmCltJrWPEIfT0bHad7SYno7WqBxjyMgSWuU-pFJ1_pFTPb8bMnOkhkcvZsdamlyCSYKE07Kn-sX8hsTU9q3XZfSx5H/s1600/Cartoon%20Network.png" group-title="Kids",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTkCqWmuGhM885nbpI1CIiFbWmhCtkIpbxg&s" group-title="Kids",DREAMWORKS
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9t2MeAlGHWZZ5OFUeFJ1C-d9pPCeZ1uUMYrTRQ-gQgHVb4atZ0aNaxdEeRKtzQ7JU5eMwcbI5ljmivXqKdDYbVD5wTwZKSquqvFGFgJvQA-n5ZwtvMhpMLRNKix1H4ieFINixa4powa7njyp51dVy-5TN8gFtdfVaxDN_fwOQOIcYTbDHVBGQOiDDL-68/s1600/Dreamworks.jpg" group-title="Kids",DREAMWORKS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
@@ -2060,6 +2060,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
