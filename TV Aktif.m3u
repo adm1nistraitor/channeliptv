@@ -1452,19 +1452,19 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b0009
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="Pluto",Pluto TV Unsolved Mysteries (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e96a0423e067bd6df6901&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=379&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Pluto",Pluto TV VEVO 2K (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtvB9faon2RlKJPCcpeFxc5H-xnn65Px3sVqtS4nkfeaRA0s4nAaOhgzttT7R7iQC9hIqcxdtaEguFbH_VCcsiGv4McQGiwc_pNkUo8YoI0s3DaTQ-qisiAbqBfgD3X-m6O4CVmJnzEWZL2Y5Q2NqUTIL202QY__uh2vbJ0F9Mfu95y6uFaFdHuZZnwH1p/s1600/Pluto%20TV%20VEVO%202K.png" group-title="Pluto",Pluto TV VEVO 2K (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Pluto",Pluto TV VEVO 70's (1080p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr_Wqc0gvI8S33tE4AHjO9O735wnE1YqRKyMOxUPczLP_rpnwgA-FqqO1nBbNGAa_53QVC1YADrGrPDDnEjSVmDsbs_F_qhrLSNJ87FYAcM2YmBdLhoWr_AAlP_Hh-YH-F49qUYsJq8x6A-mnIX5D5VaoM0DqKFHNIptvKcVVGOusIkpEZUKoyPGCJjEVs/s1600/Pluto%20TV%20VEVO%2070%27s.png" group-title="Pluto",Pluto TV VEVO 70's (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvNiQkcAubjmnRoyDVdcARHed2NbnvmFpesO3fw7akyHBFvZHkHt8NMEgYp7aIQprOTOubT5jKv8J9Su09DEz2IRKJWnNvzml6j8d1X_yS-aPlyf8zgsrD1WGDQ1E83TqmVuQUGRrSGOWuKvE0oGhuFWyYsQqYKujjJoieLimpNK22sc_Y2k5nghkAw2lF/s1600/Pluto%20TV%20VEVO%20%2780s.png" group-title="Pluto", Pluto TV VEVO 80's (1080p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5zgZknTZ8uyX1iiRULbA_2qiFN_ZrYb5dAu0HTo2JyHJgt4-krcQR0YqSR7uzgsJZ21WSEauYxhzukOmWkXNaePaQDR0byxJKLLHkAenoYmJW0Bc4WfZkptFKL0lO7I8vecmkNmBpuB-9Xc-BGe411Bo42iclH8nyXwjJoVFpm8vfnGY88bkfjCFnyw1d/s1600/Pluto%20TV%20VEVO%20%2780s.png" group-title="Pluto", Pluto TV VEVO 80's (1080p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4860b-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8927ee53-9a67-4b77-b657-50ff6b872c44&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Pluto",Pluto TV VEVO 90's (1080p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpYm4mFm7iwSQ6pthn-_xbFGm1KnE0uCw5FQLoBCjvikKfyRkYElACnOG7FYcxBOzYMtaj60Xlsxndy1rv8rcFE5p70Ba593SmTxjGkxnZuN6t4O0xYhyphenhyphenRlfcxkceSBddr7mQ5EI8WqAEZ5_ZVN2DlRYf9TfHcN2ewi2fQI4aAfqplbqp_n0Sst0ysmeC6/s1600/Pluto%20TV%20VEVO%2090%27s.pn" group-title="Pluto",Pluto TV VEVO 90's (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Pluto",Pluto TV VEVO R&B (1080p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggkrEsSXp-IYVSAlCaTvd_H2kDjUTLfDQSk40u-h-4zjUHMR54sgWRa6LeoEnnA5ZMRYBBZn1ml_HN0aSdjkvgkFPpzAZ7pJS-UmP6Gj0pRib2j9kZ83W5KOgNEDXnUA540f9PT1fA-wcD3Lvmtesnl_xkNNE7exD-MZ6u3K2omRDU7aNbbfUKdOuZHPvc/s1600/Pluto%20TV%20VEVO%20R&amp;B.png" group-title="Pluto",Pluto TV VEVO R&B (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="Pluto",Pluto TV VH1 I Love Reality (720p)
@@ -1957,6 +1957,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
