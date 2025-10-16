@@ -766,6 +766,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgJvwfXWW2Gfwk-8wXIWGkHctklHu18N5ooeRaWal4WvgQJev__B1qUV5OBHQQG34Ke4PFJbZvLoBPAA_Esy_iun2PlC6XYm7339kcf37zC1d7ygcLiylFqEkl3FtiXSHyAzUNFosyTNZQQQgwPfuKFvoa9awU_vjREeP9MqY9Xh-DdhyhpmBdDdKMiLa/s1600/Cartoon_Classics.png" group-title="Kids", Cartoon Classics TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png" group-title="Kids", NICKELODEON
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
@@ -874,6 +877,12 @@ https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhywuPF6OwPRlT2gw7NoDDVFNtxOLl-9hzzwxtiPTNpRSLM4AnAPSXZm_MG9sebU00EKcxbv0XbF4CQosRkrjrESLwqkvSayEYcHZw_XV6e-8IRYpG_EgCO-lZXGnnB1lvGtcP2O6TJielARrG_YMmGEga2Uddyhtp_nnawrancwbrKRdu7uY9PIDWgv1jK/s1600/BabySharkTV.png" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG3d_8i3ZucVq0vN5HC9ocgUop3hF8kOYVABX5WGJy52yGRnlZFsRu6i4yJ708JcRUWz8r0dQF6bti6z0qwh9XIfx3wMOHwGHO0b1m724PiKF6QqdZIhvq5igK02gJ8X1BKcPFD7G7aQ6NWz9m5OVt1AP-mkdLk8wP_CZg_QinkZcpsEyDgVxII0fBlbMO/s1600/Tom&Jerry.png" group-title="Kids",Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPoELlmyiACWO3yxHhPjZ5eyhFS9jMZiAaXLAhqA70ZglTo6CxTLJS-RxlnqlfLdUAeSeWB_IvqROu-SfkNM0s_Ieofb-BDWnzRrUfdNgwNU4JUMBIfDuuEQIWRZkdZ07lznOuwVEE76ueCtlor_n3ZjLJ9Y37xOSbRAcSC6ndkyrlgcwJd4XOtFCOQsb/s1600/BabyFirstTV_Logo_2019.png" group-title="Kids",Baby First TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
 
 
@@ -1397,14 +1406,23 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="TV Olahraga",Baseball TV
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJhOTViNzg2Mi0wMmUwLTRjNmYtOWUyOS0zZjZjNzQyYTEzZDYiLCJleHAiOjE3NjAzMTk3ODMsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6bWxiMi1SUjBOQ0oiLCJ1c2VyX2lkIjowfQ.N36-9uUa0pjBfHUDxvUSqxPZe60za4kX75AEVCRLlnGdwOLlDilmFjlUyt3CYfFqlqT5zMunWhR3nJ7C6xQgqg&tb.sid=d241e21c-891d-4fef-babb-f009dc9c572b&ap-fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS85NGVmMDIyZS01OWFkLTQ4NmEtODFiYi1mODE3NjEzZTNkZjEvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKaE9UVmlOemcyTWkwd01tVXdMVFJqTm1ZdE9XVXlPUzB6Wmpaak56UXlZVEV6WkRZaUxDSmxlSEFpT2pFM05qQXpNVGszT0RNc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NNmFIUjBjSE02THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5ODRZakpqWVROaVlTMWlabVptTFRRM09USXRPRFZpTkMxbU56VmpZekZpT1RBNE5qZ3ZjR3hoZVd4cGMzUXViVE4xT0NJc0luVnpaWEpmYVdRaU9qQjkuQjV2c2M4djRwZG5sVTcxTWpuSGowVE54WHYzVEpVT3k5amt6MFdXVWJtZVVMRG1xMDBFd2t3QTlqTl9XYVZNcHg1RTRFVlBzbHBnWjJMNlM1cUg1VFEmdGIuc2lkPTZlY2NjODQ5LTNhNjEtNDZlNy04NWNmLTZkOTg4OGI5NjVjYQ&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=613765&content_type=mp4&device_id=a95b7862-02e0-4c6f-9e29-3f6c742a13d6&language=en&now_pos=0&pub_id=48adc00351a349678d624ddb788c11ce&vpaid_enabled=false&origin=search&platform=WEB&ap.pt=2&ap.furl=0
 
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/12/wide-world-of-sports-logo.png" group-title="TV Olahraga",Cricket Gold TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgwRdKwodFM7AOrSikqWQiypt6p43jNJ99a4NFgUAD7X7UWFNd3bq-3dRvfkAFhRtN4XxSuYeDIpoKbeZJVyoJ-l-tzS_2BKUkNGU3IP0C5TUlXJLAE6dd0_emxwsJp0zs1r2wCC_j5pXJmkI12XoBMOGZ1_T99Dyuq5kKpvpN9BuR3yIfx1_ZeK1AJeO/s1600/9Sports.jpg" group-title="TV Olahraga",Cricket Gold TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Fhx47RvJvdxKTEYnb6u2
 
 #EXTINF:-1 tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="TV Olahraga",Redbull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg090CRO_Bnjb4snCQ1Br5Rr2ZO3IVWSPSGJibMllsXwZZbGvtY8Z_98pMStvry5rK1eTtrxfzD7ioV_D5Mr22j_vH889ijuIxUWBPbzHNdNgvYLcAiWuGe9wnluPUNPCpkPeOAMkPoQC9Y6LgcugYQha6-yhgBp6_l5-YVtgTIkBuP9SLJD_KWIiyL1cvO/s1600/NHL_Network_2009.png" group-title="TV Olahraga",NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqNkauAdA79lBsGseQJ3bmVPIQW7zLmS3ge7hsW_wcNI4RWTLtK0WZp-eFhQqBo4DXuRrXp0FD42apdy1H4UtAhTI9_t7lMxuiNDIcp8AyI8IeehqKTwsmgDkaXNOgJcfRi4Gs0cHPYvCw81iorWhwgf4dDqvvy3DRRXRozudTezUtrlie_NmRlk4nUbQH/s1600/UFC.png" group-title="TV Olahraga",NFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/World_Poker_Tour_white_on_black_logo.jpg" group-title="TV Olahraga",World Poker Tour
 https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFuRl2augi5tUosnoem3YI697nuLqTgaCvTW9AUrRjO_-59Pe4IupS9YdPgPMTGOgSM1z4dAVGgFmr3rI6ToAP5ITEHjnJWoTdniz1SnphnIL_wnj8CZ2tX5Tnw2bcimBrduGjt3-qVBcrxv86gybUP_Dj1uPbw7T567zcVOLM-h-iM8bYohYnghN-Y-28/s1600/WFT.jpg" group-title="TV Olahraga",World Fishing Network
+http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/Logo_Dallas_Cowboys_Cheerleaders.png" group-title="TV Olahraga",Dallas Cowboy Cheerleaders
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2061,6 +2079,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
