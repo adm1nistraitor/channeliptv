@@ -704,9 +704,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="Kids", ABC Kids
-https://c.mjh.nz/abc-kids.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Kids", NICKELODEON
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
@@ -753,6 +750,9 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0XcC57N/PBSKids.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="Kids", ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4S7H24J/ins.png" group-title="Kids" ,Inspector Gadget
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -780,13 +780,9 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIm9u3fAxjK-4lD-4i_08BhNJn10Vlzi-3rFb9RdtIGdwXbY499WiCx8oERTImjR_UTjv0qW68EdtCwjNcmrpguT2SerIirB2DPmCltJrWPEIfT0bHad7SYno7WqBxjyMgSWuU-pFJ1_pFTPb8bMnOkhkcvZsdamlyCSYKE07Kn-sX8hsTU9q3XZfSx5H/s1600/Cartoon%20Network.png" group-title="Kids",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Kids",Animax 1
-http://45.126.83.51/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Kids",Animax 2
-http://rr1.dens.tv/h/h144/index10.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Kids",Animax 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Kids",Animax
+#http://45.126.83.51/dr9445/h/h144/01.m3u8
+#http://rr1.dens.tv/h/h144/index10.m3u8
 http://210.210.155.35/dr9445/h/h144/index10.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2oORS1KDvNfEri42DZbGxgpg3m315Fwt-_qJ4LEFmF3KtilbO9yopi0BBsYgWy2mrlHucsSVjZaQ3LvmlZjI8-y5zIZY6m6o-o6G9kXmdKdtIGkfEXW0_kIHeMcBAhmkKeNTuD2nleYba1ey_Ata4yrHHF-Tq3jNY0UU8iCvgLSzRpk6vCF27vGp-dyZj/s1600/Aniplus-Asia-PNG.png" group-title="Kids",Ani Plus
@@ -1961,6 +1957,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
