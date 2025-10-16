@@ -728,7 +728,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnnr8b1I_WFWHL-0QD2UiK2RfRc0upRmAcGsuORZSWSlNajNTVpT_6IbrJIw4I9Ue3lPhsIKy7RbMcJkTopwEKx4Q1ras47y0PC4gvLkJBOOBzNr3HrFBeeGOEB_4tTm9RurDen7cmoz1ifjilANwloj3dBDJDB0iBdN0BpsqbhrlgSfTUOJzDNFJ9MMoY/s1600/Peppa%20Pig%20TV.png" group-title="Kids",Pluto Nickelodeon Peppa Pig TV (720p) [Not 24/7]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLkWb5yoq9OWfWGtKFWNISURxnm3rGZF4hN2xg1lGk0dZTv4NQFCp8YEr-ZGRz3ttZzyO9k0gz_wBYEkuahxmd97oq4_TZbznQqhJbPyIPeP7zn0vZaNuhwVHRGJxwtcKnb_tj2xm7CBHPM0k-wJrN5wkZvBHageTHXyGU2W1CJ91VYb9o_qCwXkMqMOC/s1600/Toonmax_TV.png" group-title="Kids",Toon Max
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKGudoI0pK2HRK1E967uAQhcTMx-JoboCmK9X6a7Phyphenhypheni2AR5vZBHTv0AOF8IAn7Va0YYJRmGIds1Kb1vCJCcWCemsiv9R2CY1molLzqUTz_cBykdTb-KK5cI06tzFo_R0EWvreE25XP0YOXnXHkf55ZkA2R65cQVP9nvsSTAD962GMcXlazRhJm1A2kp9m/s1600/Toon%20Goggles.png" group-title="Kids",Toon Max
 http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFt6XWtQsUpawbDAX98h-YGF9N94PiEbu4JKjxPqTpbGZZ1ERg6ovQfkcJ_vz-UwAtC7EdPB-Ak9YMkqOItKhD7jKa7dU6EG48BCB_npDkwJywmdcK8Nfyyw9-UFfy8l6rSV4iVaQclj9v2NWS2vycvzZI2ngHq6zsN40tW2iboG-IJxSi33-5ppVjLh1J/s1600/Spacetoon_logo.png" group-title="Kids",Spacetoon (Dubai)
@@ -1957,6 +1957,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
