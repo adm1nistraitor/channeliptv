@@ -1402,6 +1402,9 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="TV Olahraga",BeiN Sport Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilltTmO3twqKXQjLx3XHhvjPLlOr1GYnZ-ys7N067UBCoVgoT_X4PQ_SMlaIqd3cj7c8CHlMg2-OklNh-Qbk3XAyotYV3ygs3zaVA3dJbZDbwI5UmiYqvO9K0LhN3Uwe-usyhByxQOYwQI-s5jee84WX_lNwQVz8krHlAIvmaW1jzy6CCUuI30b5xmGQcp/s1600/ESPN_wordmark.png" group-title="TV Olahraga",ESPN
+https://espn-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/2560px-Major_League_Baseball_logo.svg.png" group-title="TV Olahraga",Baseball TV
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJhOTViNzg2Mi0wMmUwLTRjNmYtOWUyOS0zZjZjNzQyYTEzZDYiLCJleHAiOjE3NjAzMTk3ODMsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6bWxiMi1SUjBOQ0oiLCJ1c2VyX2lkIjowfQ.N36-9uUa0pjBfHUDxvUSqxPZe60za4kX75AEVCRLlnGdwOLlDilmFjlUyt3CYfFqlqT5zMunWhR3nJ7C6xQgqg&tb.sid=d241e21c-891d-4fef-babb-f009dc9c572b&ap-fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS85NGVmMDIyZS01OWFkLTQ4NmEtODFiYi1mODE3NjEzZTNkZjEvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKaE9UVmlOemcyTWkwd01tVXdMVFJqTm1ZdE9XVXlPUzB6Wmpaak56UXlZVEV6WkRZaUxDSmxlSEFpT2pFM05qQXpNVGszT0RNc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NNmFIUjBjSE02THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5ODRZakpqWVROaVlTMWlabVptTFRRM09USXRPRFZpTkMxbU56VmpZekZpT1RBNE5qZ3ZjR3hoZVd4cGMzUXViVE4xT0NJc0luVnpaWEpmYVdRaU9qQjkuQjV2c2M4djRwZG5sVTcxTWpuSGowVE54WHYzVEpVT3k5amt6MFdXVWJtZVVMRG1xMDBFd2t3QTlqTl9XYVZNcHg1RTRFVlBzbHBnWjJMNlM1cUg1VFEmdGIuc2lkPTZlY2NjODQ5LTNhNjEtNDZlNy04NWNmLTZkOTg4OGI5NjVjYQ&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=613765&content_type=mp4&device_id=a95b7862-02e0-4c6f-9e29-3f6c742a13d6&language=en&now_pos=0&pub_id=48adc00351a349678d624ddb788c11ce&vpaid_enabled=false&origin=search&platform=WEB&ap.pt=2&ap.furl=0
 
@@ -2078,6 +2081,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
