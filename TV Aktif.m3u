@@ -1228,53 +1228,53 @@ https://amg00735-amg00735c15-denstv-apac-7623.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 ####### FILM TV #######
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609083708223018_15.png" group-title="Film TV",Haunt TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvgqpjCFvlZTCJmi_MQgd9cmYoddQP1Cwz61ynZivvHLvHkEC4N0vd7tzjR2VGGrP152QSZMiEKZ2jwxU90cWYC8ix9LpATNHHTfdxEgAZx7b9gTAscjf0Zp4zqVp3TDgzLW8xhtM-XMhKo7sX7ELvDjXraWWk2OeqCT4utDJBjlqT202BYSFzN3pkBX9/s1600/HauntTV.png" group-title="Film TV",Haunt TV
 https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Film TV",HBO+ FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/tAB9753SDI.png" group-title="Film TV",HBO 2 FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/cnB4307w.jpg" group-title="Film TV",HBO XTREME FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Film TV", HBO+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ckiFO4mO-oZnvaGR2rXOGXgyGo8u-ERN2lpIIlP5oA4aVUYATVfQM2iKCi08TV34CO6D_n4iWbqQTOR95dyTPKLDkzC32OpOOWEyT_58WWE0ivN0ZwU3cTVkezS4kvLym-c0vh_Q03K6hy4cVJ18QGgocacuu0VQePMnTy1natprQh2vskkDJBe8Dqt_/s1600/HBO+%20Black.png" group-title="Film TV", HBO+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/tAB9753SDI.png" group-title="Film TV", HBO 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ckiFO4mO-oZnvaGR2rXOGXgyGo8u-ERN2lpIIlP5oA4aVUYATVfQM2iKCi08TV34CO6D_n4iWbqQTOR95dyTPKLDkzC32OpOOWEyT_58WWE0ivN0ZwU3cTVkezS4kvLym-c0vh_Q03K6hy4cVJ18QGgocacuu0VQePMnTy1natprQh2vskkDJBe8Dqt_/s1600/HBO+%20Black.png" group-title="Film TV",HBO+ FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="Film TV", HBO 2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
 
-#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-logo="https://i.imgur.com/Y6164V7.png" group-title="Film TV", HBO POP
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="Film TV",HBO 2 FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/cnB4307w.jpg" group-title="Film TV",HBO XTREME
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3zEd9brm-MfnXb0aHI5gYoMdPXAO9FYsQrmsqQK4NISncRFAx6ThE-AYMA99itnyvE5KjaGnUMSLDNBCV_VU4bDutef9_8rNBlOrR4DRL9q0KsOm5lnayhr3s7e-aXVXetEg66TSTAGpqho6kQDEtXGfb-8nsbLYU67lBOaIyGy9m0qsFIuKKvvNTYJ/s1600/HBO%20Extreme.jpg" group-title="Film TV",HBO XTREME
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 
-#EXTINF:-1 group-title="Film TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO 🇺🇸
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3zEd9brm-MfnXb0aHI5gYoMdPXAO9FYsQrmsqQK4NISncRFAx6ThE-AYMA99itnyvE5KjaGnUMSLDNBCV_VU4bDutef9_8rNBlOrR4DRL9q0KsOm5lnayhr3s7e-aXVXetEg66TSTAGpqho6kQDEtXGfb-8nsbLYU67lBOaIyGy9m0qsFIuKKvvNTYJ/s1600/HBO%20Extreme.jpg" group-title="Film TV",HBO XTREME FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
+
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1rx0cvAM_4coq9Kg8tfEGEanDd5VOj_97GzDAO0oWT9WJcmAcXrNPVCVQtOWcD6tedQl8ywa5gzCkyMV0fCUdvpJNH2PtnPUFIfFhD8ezXcTiuPOCdWikaOswEtWhEw46Zol58J3nz56kQo1V-DGk6GTRBxwRC4_eW3FbULqYeJUJZlbTn2e72yivS6Qc/s1600/HBO%20Pop1.png" group-title="Film TV", HBO POP
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
+
+#EXTINF:-1 group-title="Film TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAhz0roNm93t8EuLNbG_03JWrLkzFKBO4mWggYd0w8j71qdtY9beKcVySr8mGelZMpf1hfq0Mfm3cPoiF46hhT-oZ9J0kIo-9gDo7JzsUPoSFVEubIx2N6w0koiAxWW8q3pdLidLBuqfKNvMw3lFJgQwnFfKnV0NFmBiZLFe3Ls0rznYlCgU5PcXBiq4mp/s1600/HBO%20US.png",HBO 🇺🇸
 http://212.102.60.231/HBO/index.m3u8
 
-#EXTINF:-1 group-title="Film TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO Fams 🇺🇸
+#EXTINF:-1 group-title="Film TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xYyLaPDvgSbd_7cryiYvxrE2GIj430teIkGOJOgdMDK90C6AnKExEzU34Pz6kj4l98GhrpE__541njClZEXiI49eAuOkm1sGLOTZx7cj5gjogIrXUtOrKvLlbxOhJblU-80UWSCtXlbeVIjBDlEZNlpmZGCgQCOElPl7xdqFpXVGl4v5WbWsCd5k5wS4/s1600/HBO_Family.png",HBO Fams 🇺🇸
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Film TV",HBO
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ILTqqZrv6FJcAbpLpgJ6xN83ywF3wxA8C-a4DqcPmbne3i4FEMENmAMi3_cBkt5RgFeZ_vcXe_neVabjKsY0MGqczpU3Q_M3f9Bb9VKrRfQZU0dUQyZOWc78fvvjFyuwsxhThkvG99kcqOtIa3APwFl_cVcGCsZ1_1sDkihMXhMM4_8AiVfJKXTWgalH/s1600/HBO_v1.png" group-title="Film TV",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -1283,7 +1283,7 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://dl.dropboxusercontent.com/scl/fi/sbw7rk9t36fcv6zz1eltf/HBONEW.m3u8?rlkey=pb1ves3ot5funxgexdmxtoa3g&st=vruhuh1l
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="Film TV",HBO Hits
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiybBraEuXONWMtCtJSC4ZKWW5rgMqxR-sroICAZ1GKbEcav5xCGndtT9enkt47ar7MUXqE0q2GEmIyZGOQ5p6p6iDXPpHhvV4N4xXMcJ-3m9rOnphe4GaaMF0WNQUPo4g_q4TFuu0uY474faE0CPS1VdxQQtUIf2jMC1092IBBzYRtkdqJTzXR7_wAoi_m/s1600/HBO%20Hits.jpg" group-title="Film TV",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -1292,7 +1292,7 @@ https://dl.dropboxusercontent.com/scl/fi/sbw7rk9t36fcv6zz1eltf/HBONEW.m3u8?rlkey
 #EXTVLCOPT--http-reconnect=true
 https://dl.dropboxusercontent.com/scl/fi/mrhqmp2glr0z9fjrues9r/HBO_HITS.m3u8?rlkey=ea4y7k38ddra7dvyjwav2f5w7
 
-#EXTINF:-1 group-title="Film TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO Signature
+#EXTINF:-1 group-title="Film TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF_q8w6BXOTKRRJ9VZik8_8VIqt7YYl8C_fPSlx5p-sKOP6939Nm76V4xXoWkpPidZ3vHQPKKr5bjKCCaxgWG3k7GWgRQmaegqTpsQA8W4inSuWoMtZSN_Q-dGxJA_ZdUSSGo9w7AJYPXpxbH1_hDQMaqQv_z8S0AkuVJFhIiTCHBn8qY8gXAhBDtfcyTV/s1600/HBO_Signature_Asia.png", HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -1301,7 +1301,7 @@ https://dl.dropboxusercontent.com/scl/fi/mrhqmp2glr0z9fjrues9r/HBO_HITS.m3u8?rlk
 #EXTVLCOPT--http-reconnect=true
 https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlkey=0wpw3lr2cnqygy5f5rvsad8eq
 
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="Film TV",HBO Family
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xYyLaPDvgSbd_7cryiYvxrE2GIj430teIkGOJOgdMDK90C6AnKExEzU34Pz6kj4l98GhrpE__541njClZEXiI49eAuOkm1sGLOTZx7cj5gjogIrXUtOrKvLlbxOhJblU-80UWSCtXlbeVIjBDlEZNlpmZGCgQCOElPl7xdqFpXVGl4v5WbWsCd5k5wS4/s1600/HBO_Family.png" group-title="Film TV",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -1310,19 +1310,34 @@ https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlke
 #EXTVLCOPT--http-reconnect=true
 https://dl.dropboxusercontent.com/scl/fi/in4900m4mvd6vocrthhaw/HBO_FAM.m3u8?rlkey=ib8qky6h6oyj8x6d616l5elow
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png" group-title="Film TV",TWD Universe | Vizio (AMC)
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK0SLC0DF7_YTyVNyxhUHSiZ53zCgfpx-l7LZTD_cVt6ExuKn0nZoGB4_MqL4Qvis2k8yGUw2ER6WFOXEAv_uvTqBut-6-JTj3qChea0FlbslrlwAmJlj6W8DK8YRS_hWyde1ukgnYAXIkMOUcRLj3TgLmfhiKkzTO-F-472Tp0KSLN0KFNDzO5-Be-qT_/s1600/HBO_logo.png" group-title="Film TV",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU2jOZP-sBB6yAbvjjTET_Sgw6MNyQzXsJ4ukRKS_FcgmxNh1YczhoMu_fiCGmZ6akJiwyvVxE1yq0vd7sVSmWXpsIVmBLDSrvihpnGgm8064PHh7N7jCPFLp_DqSaLydlXRXNrwzgc10qkBTJXct0t-O0PZNcakK3JLwoonWIa8onzkY8c0WuCqNsPIu/s1600/HBO_Signature.png" group-title="Film TV",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SdhrqZap7k__gUaKy5_l3NaGYdE9RhyphenhyphenOizOZ52Fzp7zfMwBhSu0uXbjVvW6Ykz2NPtph9rTCu9zKguoBgh1Ui1VdrPYR7gWkONdYe9CqnO6nbIBpNXY9tAjcT7uv197tl1N-RsamcBrLGDkZNmqvlr71hJZYrUgYA2-meTBOe7JiPByBAbPWns_CMVrk/s1600/HBO_Family_logo.png" group-title="Film TV",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyqmEc3h6l17pnO4jXSbERLFaXOWx8Xw600kReGoWlSVt9Pdqe4Zrl6KLR_yXgn4cxZVscCTv8QgleZVxyAySsl1rMGpIB23hzuDRJjo8GVVorBLiyRjthBWOwMvjrQ4C61sqKcbAEaUBFpPW-9yiffUHoUbY8zfVvJl2OIvUXwJTstfcyTyH81lsKCD10/s1600/HBOHits-ASIA.png" group-title="Film TV",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMC80G1E9Gxtdj5a2JeS0IIVn2blOHRIaY-T-TvVx5g0OyoQ4HcuvPf-vTTI-oPLqmMlcFFSqXrbq5GeGokYq_CAKhz7EeW4WZ-xEJikPoUPrgQC7qjcla1OUeN8UVsqTwZgFM0KZPkkNJB9ILQWCuZ0tQ6ZMHjG7Mhw844YiUml38UML0nRADs82pl5DD/s1600/HBORed.png" group-title="Film TV",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvgqpjCFvlZTCJmi_MQgd9cmYoddQP1Cwz61ynZivvHLvHkEC4N0vd7tzjR2VGGrP152QSZMiEKZ2jwxU90cWYC8ix9LpATNHHTfdxEgAZx7b9gTAscjf0Zp4zqVp3TDgzLW8xhtM-XMhKo7sX7ELvDjXraWWk2OeqCT4utDJBjlqT202BYSFzN3pkBX9/s1600/HauntTV.png" group-title="Film TV",TWD Universe | Vizio (AMC)
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0zIyvSA-aEGR1lT5ATzh1BU9GVWenK_hkPQb-IipW1Tt6mF6DmISYjoNJv6lu7amFQzuJkbEN-D1OCU6gGA-3nacwIZGHZWbaZKAK0ENWf9CQ1_uwzobfWlDzBpMwblyGGbG20whsRWaCtaFTrw7QDbGSCSQOqB958Gs7hes25LUkdKnaWqfXrw0DvbUc/s1600/moviesforfree.png" group-title="Film TV",Movies4Free
 https://movies4free-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/8a139e52871857.591f538e8281e.png" group-title="Film TV",Ion
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuWSQA_hNBBX_RuYSeCfO_T1-VtFHjNzp9dpZV1UFf33E498a50OdrGfjiEq8OWLrILriibG3ZHk05FneIMyNqhqrvuGeVVcIWH8Hm19TpUUkAscLgDEXSOb_z8PfoPPeESCUGvgrhgJcMuh7S6pFwR0BoKQleXAUd-qjzfqiZPg16-mV4D5eULi52Neq/s1600/ion.png" group-title="Film TV",Ion
 https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Miramax_Television.png/revision/latest?cb=20121215093325" group-title="Film TV",Miramax
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0KYdGQipv4FIWFxKMv8I_-Jc0KGAtAQ3axQSHnxTIpjgRVBlwcsPTEAdH5GIGwJN1ZC-OQ-udQmxcFFEk-tvqKAyhqYzDzmRaV3BdUMx3UAQkdDL_30Rv0fdKkKz6Esh-WUmR9ZofB96H9g8F946atoNEi0y2aDrPPEuuvUgEjeSE6Xbjtok07Ouv_GMB/s1600/Miramax_Television.png" group-title="Film TV",Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png" group-title="Film TV",MovieSphere
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhExAuWaXDPXjBKq1yhnpav7RFLUhHcCvANtt5L7nMnJd4qxozEcUwnudEpbW9EqA94LVlsT2Dnr_58DfTTTUsDanAnSilcS8jLnYjLnDnB-QhZrIfXQtyCU3560VYG-EcUFxgyVUld1Jv-B-0l9sP194sSv0aGgc5YFBKgEbh5XC6gxWrYLFMXitfWMihn/s1600/moviesphere-large-logo.png" group-title="Film TV",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwNQorINLvagGWxEIeFcyOuxwJ4jdUvwLm7FVx0VlMmRllkm8WbRRMBzvClFiUEUGk-EGNw_9Bb0IZco__zstn24tZTd0LAAuf75bjD-SrDWTWp4LDmlvohdHBGshnfKcVaQm4eU4MLzZ6pa5vcVZKziDEhBk_vVjn2kc7i8EgqpcVKzpShObLYV5tcjX2/s1600/KBSKorea.png" group-title="Film TV",KBS Korea
@@ -1342,10 +1357,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/KTV_logo.svg/2560px-KTV_logo.svg.png" group-title="Film TV",KTV Korea
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2kgEMvN3CVJJTrwhFXB6mJky4sh_rPyXtw8ZKB7UzNJHjdILR6_58WL4z1iy0geZJjYtXdzFy96EhoegPStJrgdC6QaWodQeGP_EsV0wZtoKvfW3WZNJE_815T5LZA2FyrZeWu007pODbXtdCSfnkK81J28deKYnUjZnv4m73kB6wO8MTvlK6r29bAFGK/s1600/KTV_logo1.png" group-title="Film TV",KTV Korea
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w328775573.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/k%20movies.png" group-title="Film TV",New K-Movies
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-67ENX3Md_-N4wko4IQGeCC72Ca6YAiXyvdL9ryJbtlOPmoLxBmk2MiqFrmQBP6nQyT4QbeRrZYbtBfMwBI4fFdiKViG-VSyPgKe9O2p-ocOVVyz_JpuJZdPyCn6Byll77nURnbsudThy3AAfgj4-OCFjy5-kccFixF1pXCOiE3DICDms-14_8jq9WVsY/s1600/k%20movies.png" group-title="Film TV",New K-Movies
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGCnl0D-2Vhk69T2maawZyAPJcTSM40cQr9WqN7Iu6f6yzEg2eHdAx_CmTibaXAOrPY-G9IvEH77dlaiFdesunGrflScmYGP6-aXWoGmqM5S8bhWqxL5qE99rEfLkieQkIr99O2mwQsm0jZWAdmkwinalcMCPH-WKKKP2d2XY7WAmaIHFCinO0Y3uxDU5/s1600/K-drama_logo.png" group-title="Film TV",K Drama
@@ -1360,21 +1375,6 @@ http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfR_c-CnT5ggK8uQCw57bxERJ2thSUHo3CxRD7su250vqQqXoh55Xir6mK-9LnQmMnGzzdX2ahxI7IZMpXlY3P2s48K93tsElSQUKfm2BLQM8H0J6-v3ukxpyp6EKpAbd4zi9XJYQGHdk3VJ-pWfJA6Y0NFksPOrsd_SV037KzIzNG9FrDG8UbPOnZmta/s1600/Logo_oneTV_DE_2016.png" group-title="Film TV",One TV
 http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
 
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK0SLC0DF7_YTyVNyxhUHSiZ53zCgfpx-l7LZTD_cVt6ExuKn0nZoGB4_MqL4Qvis2k8yGUw2ER6WFOXEAv_uvTqBut-6-JTj3qChea0FlbslrlwAmJlj6W8DK8YRS_hWyde1ukgnYAXIkMOUcRLj3TgLmfhiKkzTO-F-472Tp0KSLN0KFNDzO5-Be-qT_/s1600/HBO_logo.png" group-title="Film TV",HBO
-https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU2jOZP-sBB6yAbvjjTET_Sgw6MNyQzXsJ4ukRKS_FcgmxNh1YczhoMu_fiCGmZ6akJiwyvVxE1yq0vd7sVSmWXpsIVmBLDSrvihpnGgm8064PHh7N7jCPFLp_DqSaLydlXRXNrwzgc10qkBTJXct0t-O0PZNcakK3JLwoonWIa8onzkY8c0WuCqNsPIu/s1600/HBO_Signature.png" group-title="Film TV",HBO Signature
-https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SdhrqZap7k__gUaKy5_l3NaGYdE9RhyphenhyphenOizOZ52Fzp7zfMwBhSu0uXbjVvW6Ykz2NPtph9rTCu9zKguoBgh1Ui1VdrPYR7gWkONdYe9CqnO6nbIBpNXY9tAjcT7uv197tl1N-RsamcBrLGDkZNmqvlr71hJZYrUgYA2-meTBOe7JiPByBAbPWns_CMVrk/s1600/HBO_Family_logo.png" group-title="Film TV",HBO Family
-https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyqmEc3h6l17pnO4jXSbERLFaXOWx8Xw600kReGoWlSVt9Pdqe4Zrl6KLR_yXgn4cxZVscCTv8QgleZVxyAySsl1rMGpIB23hzuDRJjo8GVVorBLiyRjthBWOwMvjrQ4C61sqKcbAEaUBFpPW-9yiffUHoUbY8zfVvJl2OIvUXwJTstfcyTyH81lsKCD10/s1600/HBOHits-ASIA.png" group-title="Film TV",HBO Hits
-https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMC80G1E9Gxtdj5a2JeS0IIVn2blOHRIaY-T-TvVx5g0OyoQ4HcuvPf-vTTI-oPLqmMlcFFSqXrbq5GeGokYq_CAKhz7EeW4WZ-xEJikPoUPrgQC7qjcla1OUeN8UVsqTwZgFM0KZPkkNJB9ILQWCuZ0tQ6ZMHjG7Mhw844YiUml38UML0nRADs82pl5DD/s1600/HBORed.png" group-title="Film TV",Red By HBO
-https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
-
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png" group-title="Film TV",Cinemax
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
@@ -1387,10 +1387,10 @@ https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://dl.dropboxusercontent.com/scl/fi/j5865bib5wy1i72ppk2hx/cinemax.m3u8?rlkey=qkzwmgpv6lhf8ccuplf39c21n
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Wau_nove_logo.png" group-title="Film TV",WAU
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg12orkkSZvtubJGv43XyXi5mqRvMYCCmiV1dBqbR4NGBrLZ_YoTQat1hF4zPRpdBcmXZaKnt0rwUk79-gA2fEj7SUCRXGWIxZ_ksW3WQNsgzKkU8VIRPCwJLbIZxBP-aNLsSiRdmW9oSgMC3pks6hXMiWLyj26S4zraszMfA4nkq-THnbx_2eSE6wvg6XV/s1600/Wau_nove_logo.png" group-title="Film TV",WAU
 https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
 
-#EXTINF:-1 tvg-logo="https://pqatv.com/wp-content/uploads/2019/10/strapline-01.jpg"  group-title="Film TV",Discover Film
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsYKcXsSdgz5iCoA2Y_4VWmsN4C3gWWtTg4NN9YeJlXGgcYFn6a77I_wWcTGFCvPmStyo0_mJZBQHYf7vS7AXFZF7cK_JARE4i00W7-rCObibRCwcJhDYWjH3LDG-i9L5TX8ZYXDe_xpYUPQ5Gw8tXzdtg5foVsBDRe2Gati_t-XRvBvmKzyURd0jANjij/s1600/strapline-01.jpg"  group-title="Film TV",Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 
@@ -2078,6 +2078,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
