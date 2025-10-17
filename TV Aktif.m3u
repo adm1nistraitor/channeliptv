@@ -898,6 +898,9 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_0nqu1bM0uPVrONARSLXcd0nZyiL0g1dA6Dyotiu5Oiv72rp_lkIqkZW6Vg-gCHYqlD13K06i-vGENDXeJljX4zTkmecmQbuFehx9r5coVKRPxpfYki-C4CyM54nFN4VaCuWHEYrSBuL1nBZxfkWqqgfytc3yUpOqTcvCzBGVdHPKnwbHaI9YaMxVhXx/s1600/ABC_News_%28Australia%29_logo.png" group-title="International",ABC News
 https://c.mjh.nz/abc-news.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvgdjtJX8aDklpXVAwykP-YP_fa05c5NKCqPrE0PsJ-7lobHpgd98dw0GQbmr5WNY0rWDGKqHqrOGNNq2Xuewy0IH0Dsp_DmXyAvhp_p36aQblY5Mjpe2Ph93ln5v4fe7DjuCuMxDa1JkThikXjgAeZ5KFqHd3eSZ7dUvfPZE8o2DM_7wWVoxuZjKg3jx3/s1600/ABC_Entertains_logo.png" group-title="International",ABC Entertainment
+https://c.mjh.nz/abc-me.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPHyXZeydOigwL1swynlwyKTT67bQNDnDmep9gtW0V6igwxYK4Ylg5qiKerQZts4-heyTMGQHJPYm84nK6PYXeJTgic4O-j3fTz-FMsM3iKXvuE-k2VRzDuqGu-0E_0PgGneKMO3eX-Kxcq9mg9YZloPr1g_J7ieP9wN1BQ3bZBuRIB8ypB1MT3xHBU58C/s1600/ABC-News-Logo-2007.png" group-title="International",ABC News Live
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
 
@@ -1224,9 +1227,6 @@ https://amg00735-amg00735c15-denstv-apac-7623.playouts.now.amagi.tv/ts-eu-w1-n2/
 
 
 ####### FILM TV #######
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/ABC_ME_logo.svg/2009px-ABC_ME_logo.svg.png" group-title="Film TV",ABC Entertainment
-https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609083708223018_15.png" group-title="Film TV",Haunt TV
 https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
@@ -2078,6 +2078,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
