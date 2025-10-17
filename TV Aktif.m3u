@@ -1415,7 +1415,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamip
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg090CRO_Bnjb4snCQ1Br5Rr2ZO3IVWSPSGJibMllsXwZZbGvtY8Z_98pMStvry5rK1eTtrxfzD7ioV_D5Mr22j_vH889ijuIxUWBPbzHNdNgvYLcAiWuGe9wnluPUNPCpkPeOAMkPoQC9Y6LgcugYQha6-yhgBp6_l5-YVtgTIkBuP9SLJD_KWIiyL1cvO/s1600/NHL_Network_2009.png" group-title="TV Olahraga",NHL
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqNkauAdA79lBsGseQJ3bmVPIQW7zLmS3ge7hsW_wcNI4RWTLtK0WZp-eFhQqBo4DXuRrXp0FD42apdy1H4UtAhTI9_t7lMxuiNDIcp8AyI8IeehqKTwsmgDkaXNOgJcfRi4Gs0cHPYvCw81iorWhwgf4dDqvvy3DRRXRozudTezUtrlie_NmRlk4nUbQH/s1600/UFC.png" group-title="TV Olahraga",NFC
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqNkauAdA79lBsGseQJ3bmVPIQW7zLmS3ge7hsW_wcNI4RWTLtK0WZp-eFhQqBo4DXuRrXp0FD42apdy1H4UtAhTI9_t7lMxuiNDIcp8AyI8IeehqKTwsmgDkaXNOgJcfRi4Gs0cHPYvCw81iorWhwgf4dDqvvy3DRRXRozudTezUtrlie_NmRlk4nUbQH/s1600/UFC.png" group-title="TV Olahraga",UFC
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/World_Poker_Tour_white_on_black_logo.jpg" group-title="TV Olahraga",World Poker Tour
@@ -2079,6 +2079,7 @@ https://archive.org/download/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="Musik Playlist" tvg-logo="https://thumbs.dreamstime.com/b/cart-template-196928013.jpg", In Song She Says
 https://archive.org/download/ISSSx/ISSSx.mp4
+
 
 
 
