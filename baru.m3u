@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:1174,MNC TV (R+)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -116,11 +117,9 @@ http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 #EXTINF:0,=============================================================
 #EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/=============================================================
 
-#EXTINF:0,===========================KIDS==============================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================KIDS==============================
+
+===========================KIDS==============================
 #EXTINF:0, ABC KIDS
 #EXTVLCOPT:network-caching=1000
 https://c.mjh.nz/abc-kids.m3u8
@@ -353,9 +352,8 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 
-#EXTINF:0,=========================================== RELIGI ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20RELIGI%20===========================================
+=========================================== RELIGI ===========================================
+
 #EXTINF:0,MUSLIM TV (V+)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:network-caching=1000
@@ -416,9 +414,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/1000/manifest.mpd
 
 
-#EXTINF:0,=========================================== ENTERTAINMENT ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20ENTERTAINMENT%20===========================================
+=========================================== ENTERTAINMENT ===========================================
+
 #EXTINF:0,CITRA DRAMA
 #EXTVLCOPT:network-caching=1000
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
@@ -621,9 +618,8 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/mas
 #EXTVLCOPT:network-caching=1000
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd
 
-#EXTINF:0,=========================================== KNOWLEDGE ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20KNOWLEDGE%20===========================================
+=========================================== KNOWLEDGE ===========================================
+
 #EXTINF:0, AMC BREAK 
 #EXTVLCOPT:network-caching=1000
 https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
@@ -787,9 +783,8 @@ https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
 
-#EXTINF:0,=========================================== LIFESTYLE ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20LIFESTYLE%20===========================================
+=========================================== LIFESTYLE ===========================================
+
 #EXTINF:0, AFN
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:network-caching=1000
@@ -854,9 +849,8 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mhdtv.co.in/jio/stream.m3u8?id=2757
 
-#EXTINF:0,=========================================== NEWS ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20NEWS%20===========================================
+=========================================== NEWS ===========================================
+
 #EXTINF:0,Liputan 6
 #EXTVLCOPT:network-caching=1000
 https://kister.net/mpl/yt2m3u8?w=@liputan6_news
@@ -968,9 +962,8 @@ https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
 
-#EXTINF:0,=========================================== MOVIES ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20MOVIES%20===========================================
+=========================================== MOVIES ===========================================
+
 #EXTINF:0,HBO (CUBMU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -1372,9 +1365,8 @@ https://mhdtv.co.in/jio/stream.m3u8?id=185
 #EXTVLCOPT:network-caching=1000
 https://mhdtv.co.in/jio/stream.m3u8?id=1349
 
-#EXTINF:0,======================================================================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/======================================================================================
+======================================================================================
+
 #EXTINF:0,FX*
 #EXTVLCOPT:http-user-agent=Lavf/57.71.100
 #EXTVLCOPT:network-caching=1000
@@ -1424,12 +1416,11 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528%20
 #EXTVLCOPT:network-caching=1000
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 
-#EXTINF:0,=========================================== HBO GROUP ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20HBO%20GROUP%20===========================================
+=========================================== HBO GROUP ===========================================
+
 #EXTINF:0, Cinemax (MAX)
 #EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/======================================================================================
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 #EXTINF:0,HBO (Sg)
 #EXTVLCOPT:network-caching=1000
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
@@ -1445,9 +1436,7 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #EXTINF:0,Cinemax (Sg)
 #EXTVLCOPT:network-caching=1000
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
-#EXTINF:0,======================================================================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/======================================================================================
+
 #EXTINF:0,HBO (Thi)
 #EXTVLCOPT:network-caching=1000
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
@@ -1463,9 +1452,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
 #EXTINF:0,CINEMAX (Thi)
 #EXTVLCOPT:network-caching=1000
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
-#EXTINF:0,======================================================================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/======================================================================================
+
 #EXTINF:0,HBO 2
 #EXTVLCOPT:network-caching=1000
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_2A/HBO_2.mpd
@@ -1488,9 +1475,8 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2
 #EXTVLCOPT:network-caching=1000
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 
-#EXTINF:0,=========================================== MUSIC ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20MUSIC%20===========================================
+=========================================== MUSIC ===========================================
+
 #EXTINF:0,MIC TV
 #EXTVLCOPT:network-caching=1000
 https://v2.siar.us/mic/live/playlist.m3u8
@@ -1625,9 +1611,8 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:0,=========================================== SPORTS ID ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20SPORTS%20ID%20===========================================
+=========================================== SPORTS ID ===========================================
+
 #EXTINF:0,USEE Sports 1 (Max)
 #EXTVLCOPT:network-caching=1000
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
@@ -1732,9 +1717,8 @@ https://epg.pw/stream/1e0fcfc4f18549722a9231c62a97daeb28dc0347372af159f9aa06cf1c
 #EXTVLCOPT:network-caching=1000
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
-#EXTINF:0,=========================================== INTERNATIONAL TV ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20INTERNATIONAL%20TV%20===========================================
+=========================================== INTERNATIONAL TV ===========================================
+
 #EXTINF:0,Arirang World (V+)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:network-caching=1000
@@ -1795,9 +1779,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 #EXTVLCOPT:network-caching=1000
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
-#EXTINF:0,```````` WORLD TV ````````
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/%60%60%60%60%60%60%60%60%20WORLD%20TV%20%60%60%60%60%60%60%60%60
+```````` WORLD TV ````````
 #EXTINF:0, RTB ANEKA 
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
@@ -2418,9 +2400,8 @@ https://cors-proxy.pulsesoftware.com/https://cdn09jtedge.indihometv.com/dvr/139/
 #EXTVLCOPT:network-caching=1000
 https://cors-proxy.pulsesoftware.com/https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
-#EXTINF:0,===========================AstroGo=======================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================AstroGo=======================
+===========================AstroGo=======================
+
 #EXTINF:0,TV 1
 #EXTVLCOPT:network-caching=1000
 http://abcnew.site:8880/12mmk180105/81462658/1734
@@ -2847,9 +2828,9 @@ http://abcnew.site:8880/12mmk180105/81462658/71148
 #EXTINF:0,Awesome TV
 #EXTVLCOPT:network-caching=1000
 http://abcnew.site:8880/12mmk180105/81462658/71149
-#EXTINF:0,=========================================== Malaysia ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20Malaysia%20===========================================
+
+=========================================== Malaysia ===========================================
+
 #EXTINF:0,8TV
 #EXTVLCOPT:network-caching=1000
 http://iptvtree.net:8080/F14995/a84c0963/171968
@@ -2995,9 +2976,7 @@ http://iptvtree.net:8080/F14995/a84c0963/157550
 #EXTVLCOPT:network-caching=1000
 http://iptvtree.net:8080/F14995/a84c0963/285308
 
-#EXTINF:0,=========================================== INDIA ===========================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20INDIA%20===========================================
+=========================================== INDIA ===========================================
 #EXTINF:0,DILLAGI
 #EXTVLCOPT:network-caching=1000
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/507859
@@ -3427,9 +3406,8 @@ https://livegeoroueu.akamaized.net/28072023/smil:bbo1.smil/chunklist_b928000.m3u
 #EXTVLCOPT:network-caching=1000
 https://livegeoroueu.akamaized.net/120723/smil:bboclassic1.smil/chunklist_b896000.m3u8?hdntl=exp=1714245378~acl=!*/120723/smil:bboclassic1.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=a832635eff1389c21ca81259a819c8c125b187d9556659c42f60b909fb694ade
 
-#EXTINF:0,====================== INDIA 2 ===============================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/======================%20INDIA%202%20===============================
+====================== INDIA 2 ===============================
+
 #EXTINF:0,ZEE ACTION
 #EXTVLCOPT:network-caching=1000
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55217.m3u8
@@ -3626,9 +3604,8 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/55221.m3u8
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/ghoziiptv/iptv/main/=====================================================
 
-#EXTINF:0,=============RADIO INDONESIA=============
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/=============RADIO%20INDONESIA=============
+=============RADIO INDONESIA=============
+
 #EXTINF:0,SUARA SONETA
 #EXTVLCOPT:network-caching=1000
 http://bit.ly/478oXj1
@@ -3741,9 +3718,8 @@ https://live.nagaswarafm.com/nagaswaradance/stream
 #EXTVLCOPT:network-caching=1000
 https://live.nagaswarafm.com/nagaswarapop/stream
 
-#EXTINF:0,==============RADIO INDIA==================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/==============RADIO%20INDIA==================
+==============RADIO INDIA==================
+
 #EXTINF:0,KUMAR SANU RADIO
 #EXTVLCOPT:network-caching=1000
 https://stream-157.zeno.fm/70nen96vgs8uv?zs=Vb_b-oZLT8uhQCi9JJgqCg
@@ -3867,12 +3843,9 @@ https://liveaneviadev.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-#EXTINF:0,========================================================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/========================================================================
-#EXTINF:0,=========================================== MOLA ==============================================================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/===========================================%20MOLA%20==============================================================================
+
+=========================================== MOLA ==============================================================================
+
 #EXTINF:0,MOLA 1
 #EXTVLCOPT:network-caching=1000
 https://live.mocdn.tv/out/v1/571aaae022fa4cda8edce93bfad5cc27/manifest_L1.mpd
@@ -3906,13 +3879,10 @@ https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 #EXTINF:0,MOLA 11
 #EXTVLCOPT:network-caching=1000
 https://live.mocdn.tv/out/v1/94dfdc818b124449bfcce06c2e6dde8d/manifest_L1.mpd
-#EXTINF:0,========================================================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/========================================================================
 
-#EXTINF:0,============================   BASKET  =======================================================================================================================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/============================%20%20%20BASKET%20%20=======================================================================================================================================
+
+============================   BASKET  =======================================================================================================================================
+
 #EXTINF:0,NBA TV HD 
 #EXTVLCOPT:network-caching=1000
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/13222
@@ -3963,9 +3933,8 @@ https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport2/manif
 #EXTVLCOPT:network-caching=1000
 https://cors-proxy.pulsesoftware.com/https://ctrl.laotv.la/live/TrueSport3/manifest.mpd
 
-#EXTINF:0,````AFC CUP`````````
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/%60%60%60%60AFC%20CUP%60%60%60%60%60%60%60%60%60
+````AFC CUP`````````
+
 #EXTINF:0, AFC CUP INFO 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
@@ -3988,9 +3957,8 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #EXTVLCOPT:network-caching=1000
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:0,```````` WC QF ````````
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/%60%60%60%60%60%60%60%60%20WC%20QF%20%60%60%60%60%60%60%60%60
+```````` WC QF ````````
+
 #EXTINF:0, World Cup 26
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
@@ -4082,9 +4050,7 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtyuwqa/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:0,```````` F1 ````````
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/%60%60%60%60%60%60%60%60%20F1%20%60%60%60%60%60%60%60%60
+```````` F1 ````````
 #EXTINF:0, 3-6 MEI MIAMI GRAND PRIX 2024
 #EXTVLCOPT:network-caching=1000
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
@@ -4136,9 +4102,8 @@ https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPN2HD/dash_fk/index.mpd
 #EXTVLCOPT:network-caching=1000
 https://1279247418.rsc.cdn77.org/bpk-tv/QFENP2/dash/manifest.mpd
 
-#EXTINF:0,```````` FORMULA GLEDEK ````````
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/%60%60%60%60%60%60%60%60%20FORMULA%20GLEDEK%20%60%60%60%60%60%60%60%60
+```````` FORMULA GLEDEK ````````
+
 #EXTINF:0, 10-12 MEI BERLIN Round E-PRIX
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
@@ -4197,9 +4162,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTVLCOPT:network-caching=1000
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:0,```````` MotoGP ````````
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/%60%60%60%60%60%60%60%60%20MotoGP%20%60%60%60%60%60%60%60%60
+```````` MotoGP ````````
+
 #EXTINF:0, 10-12 MEI Grand Prix of FRANCE
 #EXTVLCOPT:network-caching=1000
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
@@ -4233,9 +4197,8 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d7664
 #EXTVLCOPT:network-caching=1000
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
-#EXTINF:0,```````` WSBK ````````
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/%60%60%60%60%60%60%60%60%20WSBK%20%60%60%60%60%60%60%60%60
+```````` WSBK ````````
+
 #EXTINF:0, 14-16 JUN ITALIA Round
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #EXTVLCOPT:network-caching=1000
@@ -4267,9 +4230,8 @@ http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
 
-#EXTINF:0,```````` SPORTS ````````
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/%60%60%60%60%60%60%60%60%20SPORTS%20%60%60%60%60%60%60%60%60
+```````` SPORTS ````````
+
 #EXTINF:0, 3BB SPORTS 1 
 #EXTVLCOPT:network-caching=1000
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
@@ -5535,4 +5497,5 @@ https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_0
 #EXTINF:0, ZIGGO SPORT VOETBAL 
 #EXTVLCOPT:network-caching=1000
 https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
+
 
