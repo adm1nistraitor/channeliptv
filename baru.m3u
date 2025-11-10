@@ -116,6 +116,24 @@ http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
+#EXTINF:0, INDOSIAR 1
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+#EXTINF:0, INDOSIAR 2
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+#EXTINF:0, INDOSIAR 3
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
+#EXTINF:0,Sportstars 3 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://liveaneviadev.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:0,Sportstars 4 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 
 ===========================KIDS==============================
 #EXTINF:0, ABC KIDS
@@ -3821,27 +3839,6 @@ https://stream-145.zeno.fm/a2gyqzwpwfeuv?zs=GdbNYyTZRdmkNTo2Lbaaag
 #EXTVLCOPT:network-caching=1000
 https://stream-161.zeno.fm/rm4i9pdex3cuv?zs=1BVXHzShQN-Cb4uDRHIdWA
 
-#EXTINF:0,==================================================================================================================================================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ghoziiptv/iptv/main/==================================================================================================================================================================
-#EXTINF:0, INDOSIAR 1
-#EXTVLCOPT:network-caching=1000
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:0, INDOSIAR 2
-#EXTVLCOPT:network-caching=1000
-http://iptvtree.net:8080/c4596f70/c3848d92/162138
-#EXTINF:0, INDOSIAR 3
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
-#EXTINF:0,Sportstars 3 HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
-https://liveaneviadev.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#EXTINF:0,Sportstars 4 HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
-https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
 =========================================== MOLA ==============================================================================
 
 #EXTINF:0,MOLA 1
@@ -5495,6 +5492,7 @@ https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_0
 #EXTINF:0, ZIGGO SPORT VOETBAL 
 #EXTVLCOPT:network-caching=1000
 https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
+
 
 
 
