@@ -154,7 +154,8 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #https://flv.intechmedia.net/live/ch62.m3u8
 #http://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
-https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+#https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCA3ts7Pw3bpw1u6Jl1N_FS0NW8BbsAezVk-Uid90ng4f5tvyCNovvxPxOe_tjFYNitWQFvLIjf1ltdzg2QY-_xkPG13RBjW0rRGoRRT9kgVyf6nbHlygRvx1Mq-A0JZ_h9dR_B6L0KD9kXOUxh9DrornMpU4Dk7MNbAtof4nVrGUaHMRia1djj6BPgoh4/s1600/Moji_blue.png"  group-title="Indonesia TV",Moji TV
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -2167,6 +2168,7 @@ https://archive.org/download/vidvy/Rukun%20Iman.mp4
   
 #EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910
 https://archive.org/download/oi-1910/oi-1910_vbr.m3u
+
 
 
 
