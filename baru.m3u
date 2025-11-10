@@ -115,8 +115,6 @@ http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 #EXTINF:0,Radar TV
 #EXTVLCOPT:network-caching=1000
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
-#EXTINF:0,=============================================================
-#EXTVLCOPT:network-caching=1000
 
 
 ===========================KIDS==============================
@@ -5497,5 +5495,6 @@ https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_0
 #EXTINF:0, ZIGGO SPORT VOETBAL 
 #EXTVLCOPT:network-caching=1000
 https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
+
 
 
