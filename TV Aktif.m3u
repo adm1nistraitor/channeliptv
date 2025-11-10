@@ -202,8 +202,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuk1ykVZTfeSYD4abyCvzyWooATLb6bS0XhMw8GkVzhlwEvS6-uk5jrLAbOKBszONWXt4vqctIjNjBSI8h8bodyq6Im4m5vzRP_bJY3UzxpHBaqIg2vhIsP0b51rtEl5UuRnXHMkYaFrlQj6sti0-II6TekRcQJuiG1TZKGhAPw0eW8gcwLShDjDYkeKYu/s1600/MyTV_Logo.png" group-title="Indonesia TV",MyTV
 http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjZOXlWwiHpxwKPVjc1vHHTfxWXSerL4IrAO54jnZXNtTBmjDAxHdShmWiOJtrIsDKrnSt5UfHfUNyIM02JCEVD54pr3kTpWa9P1V-mBAjrjEw_hvy5Sb-HbP3_fjZ3K5Y2huTddsOwhiw1CuAhX48RLA6317_B1YnwwFbJfL7ks9kn3AvKP9dH-Cb1gz/s1600/sangaji_logo.png" group-title="Indonesia TV",Sangaji TV
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 
 
@@ -246,6 +244,9 @@ http://122.248.43.138:1935/jpm/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDo-mwZ0utQZaTT57nKdmdOqaDNaqsu5FRW5OI5_Ge8GIhh6Zz4RxGJEFbUI_bL0cGh2v5atNmQpviJ1am65WcJG_BWaCQss7M2z6fCzG6_XTIsTZHn8ogF0mgMbZ9SYA9bEfHVnoQuqs-DIgmKQUOTvl2HFPLCD1KBBGQ7bzQCoc4txrq7R3jYUD18xqt/s1600/BaliTV_2014.png" group-title="TV Lokal",Bali TV
 https://d3vd9lfkzbru3h.cloudfront.net/6a3270a3204336d38045_balitvnaradha_314764063209_1758022489/chunked/4.ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjZOXlWwiHpxwKPVjc1vHHTfxWXSerL4IrAO54jnZXNtTBmjDAxHdShmWiOJtrIsDKrnSt5UfHfUNyIM02JCEVD54pr3kTpWa9P1V-mBAjrjEw_hvy5Sb-HbP3_fjZ3K5Y2huTddsOwhiw1CuAhX48RLA6317_B1YnwwFbJfL7ks9kn3AvKP9dH-Cb1gz/s1600/sangaji_logo.png" group-title="TV Lokal",Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnnBjEpryz5OwmmqN4Y3rWKo-n4X2P48MgM6fE2_H7b71tr2UiXqzSRt5WQ_O0_jy79apSgGraHyQ2KNdxC4hjnSutSzqQ8sK5Vq_6zJ7ALGW18O_gHgVRpIdiE6q-0p6GBPWcJhBOc4kwkuCE6o_woRo_f3SwTP2vuHA0N-tzor0u-NMPpQ1tz8iHvyTO/s1600/JTV_%28Indonesian_TV_channel%29_2022.png" group-title="TV Lokal",JTV Surabaya
 https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/chunklist_w1234382599.m3u8
@@ -2169,6 +2170,7 @@ https://archive.org/download/vidvy/Rukun%20Iman.mp4
   
 #EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910
 https://archive.org/download/oi-1910/oi-1910_vbr.m3u
+
 
 
 
