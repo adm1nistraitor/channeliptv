@@ -1086,6 +1086,9 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 #KODIPROP:inputstream.adaptive.license_key=b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5
 https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9NZoEzCuaTJmJM2q9ePBcfkB8xxotFqTEfdMLJH4wDpkMyACwJOGLtUZigo3Tst9DA9iojk1XmBbeMIPtwBkE4eQbik680VH37eCXuM_vZFC8ud9q1iEzNe4cQOCy3A070gQluBwMxILhKocRqLGHRBq3HfeSuU-BOu9hkL0fnN2mrfDlfi8bHQzJ75i/s1600/NatGeo.png" group-title="International", National Geographic East
+https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kAjQ5o3jxEsaoZa0TIAtZukdA1N9mzGfrOi4T1g24-Qu5aOkdtzBf0wvcvLSfM7_HE1jEn7DGFdmhf7v8ZOm8JyHiSGSz2vW9ACUlBgzdyrORJrNuKG1cfPWTefVgojrPYtAPq-V5z4rqGgr6cK-Ujkk7C14eFLzdV3tRs8bUIHUDCu2N7M6k8Sw8RyI/s1600/Nat_Geo_Wild_Logo_2006.png" group-title="International", National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -1094,6 +1097,9 @@ https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kAjQ5o3jxEsaoZa0TIAtZukdA1N9mzGfrOi4T1g24-Qu5aOkdtzBf0wvcvLSfM7_HE1jEn7DGFdmhf7v8ZOm8JyHiSGSz2vW9ACUlBgzdyrORJrNuKG1cfPWTefVgojrPYtAPq-V5z4rqGgr6cK-Ujkk7C14eFLzdV3tRs8bUIHUDCu2N7M6k8Sw8RyI/s1600/Nat_Geo_Wild_Logo_2006.png" group-title="International", National Geographic Wild East
+https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAS1u6nVBsxCUyL78kPiPptuiqxWRo32NHb84MWiArH0wcph6PCT1q8kMBTgc-zLThVxtPH20dPgj3ThFFA0nwZwVTYEy0SKB_GDHR6kNQG4Exvx8iQGClT_b4YIz8WXGFgXyS5-KI4F4_gm7dIxawxgGCPjOQ4Oom5MeN6Hr3tpxEZV8au2r6ovDgMQ7r/s1600/animal-planet-logo.png" group-title="International",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2196,6 +2202,7 @@ https://archive.org/download/vidvy/Rukun%20Iman.mp4
   
 #EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910
 https://archive.org/download/oi-1910/oi-1910_vbr.m3u
+
 
 
 
