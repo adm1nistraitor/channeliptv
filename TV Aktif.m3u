@@ -213,7 +213,7 @@ http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7ad0QAhk74MAS2fx9bS_X_aKBS5Pw2zP1DKc_wsqpO4sYwZmhhuWS4vSv7kAwPTOp1y4AaBOIlpOeGbUie7rTbM5pzhPSBQ3zQtxIFzhTFksArZHwk3yc0j5Yc9ca0Az8JpX2diBcZg4YGu7P83Mchqztpn4zcU12GxQpOvuiY77I3y-txmI4IP1ayOHK/s1600/Logo_Jak_TV_%282018%29.png" group-title="TV Lokal",JAKTV
-http://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcmPzQFtwg8GDAC01kv__etzWDqewkOFWGpkmgr4iwChKhU6qyYM5eflp6Daw73iqNKUK6Ms46CUT6WB6fVk3gBXaCmIF4H-P-ysJmrEubpx5dlZo-rhw54SU7NSkTVsdkSn1Fz256cM78eRo-FlIRHKobvg_glwX8L7_f32nww_t8QVfBqVB4Hl4rrw40/s1600/Logo_Tegar_TV_Lmpng.png" group-title="TV Lokal",TEGAR TV Lampung
 https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
@@ -2171,6 +2171,7 @@ https://archive.org/download/vidvy/Rukun%20Iman.mp4
   
 #EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910
 https://archive.org/download/oi-1910/oi-1910_vbr.m3u
+
 
 
 
