@@ -954,7 +954,8 @@ https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 https://fl31.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOA3vSOIkccliYpb3cSI-y5ICvZ9zlfUU3gk770S3YdC37DIqLmeTMU_EOVsvWpq1eSR1IZ0wfGtjKZIiYnh-nzzTeG2IkwQNLPrGGdqNlF1W4dhlmpubmS4Hz43QFuScnbr2Tktho4E7eGuvS2rEqIQdffPPFhyphenhyphen7i59c6-dytmefFmQ_PJ2rnBcSZpwjO/s1600/msnbc-logo-png-1920.png" group-title="International",MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
+#http://41.205.93.154/MSNBC/index.m3u8
+https://fl31.moveonjoy.com/MSNBC/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgln_-h5XifQk0K3mmBHW03mgTWaIf10-YSuL7yA431nFX_-6w4oUHgEBdiYJ1Z4-UdP6obvhIIdtK350LzhbrOAyaBRav66Uh8OUTehyphenhyphenD3aOmdc6wM29mpLcbObioyQktxgghv1TaeFWMJGRMF0di39OcGHvc0G6Ktmmrpadp7SH1ozoHwE0IooEvOOHWM/s1600/LiveNOW_from_FOX.png" group-title="International",Live Now FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -2195,6 +2196,7 @@ https://archive.org/download/vidvy/Rukun%20Iman.mp4
   
 #EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910
 https://archive.org/download/oi-1910/oi-1910_vbr.m3u
+
 
 
 
