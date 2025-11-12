@@ -129,7 +129,7 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png" group-title="Indonesia TV",ANTV
 #https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/file/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGEL0dyouQhF53cyfYb8qQPp8Z8wvwBSW_Qoj1l0RB439njLI7gHY2UiiWzPfhyphenhyphenuLVWeSrPG0uIchicpeffLbEjL1lGkBgHerPmPffn9FUuOxxnN3sQFRDEJZWDJlRVJZdNY6tIElaWXI2eLzVkfrk4iFeR6L7IjzFfWihENTv6L2Fh5FJKzpJhE73bIv/s1600/TvOne_2023.png" group-title="Indonesia TV",TVOne
 #https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
@@ -2202,6 +2202,7 @@ https://archive.org/download/vidvy/Rukun%20Iman.mp4
   
 #EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910
 https://archive.org/download/oi-1910/oi-1910_vbr.m3u
+
 
 
 
