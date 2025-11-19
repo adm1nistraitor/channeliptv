@@ -10,7 +10,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1,ANTV
 https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=_KGwyL2VO6R_wsemgjKw5Q&exp=1728582759&encp=Dnk8vvaQxKZ158A8UzuRKQ&expp=1728593259
 #EXTINF:-1, ANTV HD
-https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/antv/manifest.mpd
 #EXTINF:-1,AllPlay Ent TV 
 https://streaming.indihometv.com/atm/hlsv3/useeprime/playlist.m3u8?enc=0ieltO0RhN_3LzKuf31fTQ&exp=1728582894&encp=u_dacfjJYS7flsiq5bV5sQ&expp=1728593394
 #EXTINF:-1,AllPlay Ent TV 
@@ -121,5 +121,17 @@ https://streaming.indihometv.com/atm/hlsv3/zbioskop/playlist.m3u8?enc=TheCu5fYef
 https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 #EXTINF:-1,iNews TV 
 https://streaming.indihometv.com/atm/hlsv3/inews/playlist.m3u8?enc=md_GHQ2hGgDPn5lXTNVv1A&exp=1728582949&encp=twVm4IEDrkZpc98EHK081g&expp=1728593449
-#EXTINF:-1,iNews TV 
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1,RCTI 
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:-1,MNC TV
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#EXTINF:-1,MNC
+https://cdn10jtedge.indihometv.com/atm/DASH/mnc/manifest.mpd
+#EXTINF:-1,GlobalTV 
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#EXTINF:-1,Global
+https://cdn10jtedge.indihometv.com/atm/DASH/global/manifest.mpd
+#EXTINF:-1,IDXChannel
+https://cdn10jtedge.indihometv.com/atm/DASH/idxchannel/manifest.mpd
+#EXTINF:-1,IDX
+https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
