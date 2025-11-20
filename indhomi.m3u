@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ANTV HD
-https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/antv/manifest.mpd
 #EXTINF:-1, Antara TV 
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1,AllPlay Ent TV 
@@ -15,6 +15,8 @@ https://cdn10jtedge.indihometv.com/joss/DASH/daaitv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1,Indonesiana TV
 https://cdn10jtedge.indihometv.com/atm/DASH/indonesianatv/manifest.mpd
+#EXTINF:-1,Indonesiana
+https://cdn10jtedge.indihometv.com/atm/DASH/indonesiana/manifest.mpd
 #EXTINF:-1,Indosiar
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1,JTV
@@ -25,8 +27,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 #EXTINF:-1,Kompas TV
 https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-#EXTINF:-1,Maxstream TV
+#EXTINF:-1,Maxstream
 https://cdn10jtedge.indihometv.com/joss/DASH/maxstream/manifest.mpd
+#EXTINF:-1,Maxstream TV
+https://cdn10jtedge.indihometv.com/joss/DASH/maxstreamtv/manifest.mpd
 #EXTINF:-1,Metro TV
 https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 #EXTINF:-1,Nusantara TV
@@ -65,4 +69,5 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mnc/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1,IDX
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+
 
