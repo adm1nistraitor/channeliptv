@@ -1,0 +1,797 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" refresh="3600"
+
+                         ***   TV INDO   ***
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/52vWM56/Transtv-malik.gif" group-title="TV INDO", TRANS TV
+https://cdngb196.indihometv.com/atm/DASH/transtv/manifest.mpd
+#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
+#https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/TransTV.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/yXNS6KH/Trans7-malik-L.gif" group-title="TV INDO", TRANS 7
+https://cdngb196.indihometv.com/atm/DASH/trans7/manifest.mpd
+#https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/Trans7.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/qF9LG7G/Indosiar-malik.gif" group-title="TV INDO", INDOSIAR
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ZMG5YYZ/SCTV-malik.gif" group-title="TV INDO", SCTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/931.ts
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/Kw2Snsq/RCTI-malik.gif" group-title="TV INDO", RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd 
+
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ZzG71xWV/Gtv-boi-malik.gif" group-title="TV INDO", GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
+#https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/9Hd8JzPd/MNCTv-boi-malik.gif" group-title="TV INDO", MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
+
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/2ZG3Z5y/INews-malik.png" group-title="TV INDO", INEWS
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/iNews.m3u8
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ThQyYqc/Moji-malik.png" group-title="TV INDO", MOJI
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/Kcrb8D6s/MDTV-boi-malik.png" group-title="TV INDO", MDTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/NetTV.m3u8
+ 
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/Bn5cjL9/Rajawali-Televisi-malik.png" group-title="TV INDO", RTV
+https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37.ts
+#https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/T23SmXh/ANTV-malik.gif" group-title="TV INDO", ANTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/Sn8dhqH/TVone-malik.png" group-title="TV INDO", TVONE
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/zTtfn7Fv/Metro-TV-boi-malik.png" group-title="TV INDO", METRO TV
+https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/MetroTV.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/S3JXQx8/Kompas-malik.gif" group-title="TV INDO", KOMPAS TV
+https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/KompasTV.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/JvWsYLQ/TVRI-malik.png" group-title="TV INDO", TVRI
+https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/TVRI.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pQKQTgz/Nusantara-TV-malik.png" group-title="TV INDO", NUSANTARA TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vg9xNm3/FLIK-malik.png" group-title="TV INDO", FLIK
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/29592.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Bc4ZrQW/IMC-malik.png" group-title="TV INDO", IMC
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/35484.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/6ZDfMpK/Bioskop-ID-malik.png" group-title="TV INDO", BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/908.ts
+#https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+
+#EXTINF:-1 group-title="TV INDO"  tvg-logo="https://i.ibb.co.com/Zdd3LSh/Maxstream-malik.png", MAXSTREAM
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/55jb2vf/Dunia-Lain-malik.png" group-title="TV INDO", DUNIA LAIN
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/910.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/P4dCY72/Insert-malik.png" group-title="TV INDO", INSERT
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
+#https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjpZRWq/All-Play-malik.png" group-title="TV INDO", ALL PLAY
+https://cdn09jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="TV INDO", Oxygen TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="TV INDO", RRI NET
+https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
+http://iptvid.my.id/hmm/rrinet.m3u8
+
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="TV INDO", TV EDUKASI
+https://cdn09jtedge.indihometv.com/dvr/139/tvedukasi/manifest.mpd
+http://iptvid.my.id/hmm/tvedukasi.m3u8 
+
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="TV INDO", BALI TV
+https://cdn09jtedge.indihometv.com/dvr/139/balitv/manifest.mpd
+http://iptvid.my.id/hmm/balitv.m3u8
+
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" group-title="TV INDO", JAK TV
+https://cdn09jtedge.indihometv.com/dvr/139/jaktv/manifest.mpd
+http://iptvid.my.id/hmm/jaktv.m3u8
+
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_jtv_small1.png?v=2.0.0.13" group-title="TV INDO", JTV
+http://103.156.71.22:8000/play/a07i/index.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/jtv/manifest.mpd
+http://iptvid.my.id/hmm/jtv.m3u8
+
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" group-title="TV INDO", DAAI TV
+https://cdn09jtedge.indihometv.com/dvr/139/daaitv/manifest.mpd
+http://iptvid.my.id/hmm/daaitv.m3u8
+
+EXTINF: -1 tvg-logo="https://images.useetv.com/logo_idx_small.png" group-title="TV INDO", IDX
+https://cdn09jtedge.indihometv.com/dvr/139/idx/manifest.mpd
+
+EXTINF: -1 tvg-logo="https://images.useetv.com/logo_atv_small.png" group-title="TV INDO", ATV
+https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
+http://iptvid.my.id/hmm/atv.m3u8
+https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+
+
+
+                                        *** NEWS ***
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/mScTqZw/CNN-id-malik.png" group-title="NEWS", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/44.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/zFQQ5Gt/CNBC-malik.png" group-title="NEWS", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/RbhpGdV/BTV-malik.png" group-title="NEWS", BTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=BTV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yQwcJc0/ANtara-malik.png" group-title="NEWS", ANTARA
+https://cdn12jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/drShtK4/Magnatv-malik.gif" group-title="NEWS", MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png" group-title="NEWS", SINDO NEWS
+https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/mncnews/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/134/mncnews/index.m3u8
+#http://iptvid.my.id/hmm/mncnews.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/QC4nLSZ/SEa-Today-malik.png" group-title="NEWS", SEA TODAY
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
+#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/36730.m3u8
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/SeaToday.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mGWJ1y8/AL-Jazeera-malik.png" group-title="NEWS", ALJAZEERA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/K0SBqY5/VOA-malik.png" group-title="NEWS", VOA
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DPqKJrG1/Bloomberg-Boi.png" group-title="NEWS", BLOOMBERG 
+https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+#https://streaming.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="NEWS", CCTV4
+https://streaming.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+#https://cdn11jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+#http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS", DW
+https://cdn11jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/dw/manifest.mpd
+#http://iptvid.my.id/hmm/dwtv.m3u8
+#http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/997KnfsS/France-24-Boi.png" group-title="NEWS", FRANCE 24
+https://cdn11jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/france24/manifest.mpd
+#http://iptvid.my.id/hmm/france24.m3u8
+#http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6r8Sctj/NHK-WORLD-boi.png" group-title="NEWS", NHK WORLD JAPAN
+https://cdn11jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/nhk/manifest.mpd
+#http://iptvid.my.id/hmm/nhkw.m3u8
+#http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+
+                            ***    PREMIUM CHANNEL    ***
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vL1P7Rg/HBO-malik.png" group-title="PREMIUM CHANNEL", HBO
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/NntHRzr/HBO-Family-malik.png" group-title="PREMIUM CHANNEL", HBO FAMILY
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/R4N2VpR/HBO-Hits-malik.png" group-title="PREMIUM CHANNEL", HBO HITS
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/3y48Fk7/HBO-Signature-malik.png" group-title="PREMIUM CHANNEL", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
+
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co.com/Kyn4nwW/Cinemax-malik.png" group-title="PREMIUM CHANNEL", CINEMAX
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8mwyLnW/Galaxy-malik.png" group-title="PREMIUM CHANNEL", GALAXY
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/29604.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VVVM3qd/Galaxy-Premium-malik.png" group-title="PREMIUM CHANNEL", GALAXY PREMIUM
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/29603.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XLtFT7N/Rock-Entertaiment-malik.webp" group-title="PREMIUM CHANNEL", ROCK ENTERTAINMENT
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9p0WLw4/Rock-Action-malik.png" group-title="PREMIUM CHANNEL", ROCK ACTION
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
+https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
+
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="PREMIUM CHANNEL", PARAMOUNT
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Rb9hdR6/Warner-Bros-malik.png" group-title="PREMIUM CHANNEL", WARNER 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1533.m3u8
+
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TvH3dvR/AXN-malik.png" group-title="PREMIUM CHANNEL", AXN
+https://cdngb196.indihometv.com/atm/DASH/axn/manifest.mpd
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/AXN.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nsVRHFzb/Studio-Universal.png" group-title="PREMIUM CHANNEL", STUDIO UNIVERSAL
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GshHFvk/Hits-Now-malik.png" group-title="PREMIUM CHANNEL", HITS NOW
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7ST598/Hit-Movies-malik.png" group-title="PREMIUM CHANNEL", HITS MOVIES
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/957.ts
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/HitsMovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JxM8Kb/HIts-malik.png" group-title="PREMIUM CHANNEL", HITS
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/94.ts
+#https://raw.githubusercontent.com/arisdwr/pl/main/s/Hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0mPNtMN/My-Cinema-malik.png" group-title="PREMIUM CHANNEL",MY CINEMA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/860Kx3W/MFC-malik.png" group-title="PREMIUM CHANNEL",MY FAMILY CHANNEL
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6Z8ZT0x/MCA-malik.png" group-title="PREMIUM CHANNEL",MY CINEMA ASIA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JwrRDDkB/ORIGINALS-boi-malik.png" group-title="PREMIUM CHANNEL", ORIGINALS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7d5JHdpm/CINEEDGE-Boi-Malik.png" group-title="PREMIUM CHANNEL", CINEEDGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bM63B5hc/SUPPERRIX-boi-malik.png" group-title="PREMIUM CHANNEL", SUPERRIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LDP57dL5/UNIQUES-boi-malik.png" group-title="PREMIUM CHANNEL", UNIQUES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GHLbM3z/Cinema-World-malik.png" group-title="PREMIUM CHANNEL", CINEMAWORLD
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
+
+#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEBW50xPjLV_f2qxi2IVloE
+#https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Yp75rJL/Celestial-Movies-malik.png" group-title="PREMIUM CHANNEL", CELESTIAL MOVIES
+http://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nq7ffs8Q/Boi-Malik-CCM.png" group-title="PREMIUM CHANNEL", CELESTIAL CLASSIC MOVIES
+http://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GRGzdbW/TVN-Movies-malik.png" group-title="PREMIUM CHANNEL", TVN MOVIES
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
+##http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/927.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vzLcDjs/TVN-malik.png" group-title="PREMIUM CHANNEL", TVN
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
+##http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1bWYTgw/KIX-malik.png" group-title="PREMIUM CHANNEL", KIX
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+##https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ncTMmHD/K-malik.png" group-title="PREMIUM CHANNEL", K-Plus
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="PREMIUM CHANNEL", GEM
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B3TxvS1/ONE-malik.png" group-title="PREMIUM CHANNEL", ONE 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/19.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wp5qmdmt/Iflix-boi.png" group-title="PREMIUM CHANNEL", IFLIX HORROR
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dEo8SDdS2NbzVDZ6f9tcKx2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/r2hHGwbk/Astro-Boi.png" group-title="PREMIUM CHANNEL", ASTRO BOO
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37457.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Dbp311c/Thrill-malik.png" group-title="PREMIUM CHANNEL", THRILL 
+https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
+#https://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill-avc1_1200000=4-mp4a_96000=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tBtYsSJ/Zee-Bioskop-malik.png" group-title="PREMIUM CHANNEL", ZEE BIOSKOP
+https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0YCg04S/TV5-Monde-malik.png" group-title="PREMIUM CHANNEL", TV5 MONDE
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h312/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_ASIE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qj8RDb8/Lifetime-malik.png" group-title="PREMIUM CHANNEL", LIFETIME
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/866.m3u8
+#https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/lifetime/manifest.mpd
+#http://iptvid.my.id/hmm/lifetime.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="PREMIUM CHANNEL" tvg-url="" tvg-logo="https://i.ibb.co.com/7ks9mXP/Sony-Pix-malik.png", SONY PIX
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5410&deviceMac=00:1A:79:17:BF:CE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sWx67jQ/STAR-Movies-malik.png" group-title="PREMIUM CHANNEL", STAR MOVIES
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3178&deviceMac=00:1A:79:42:01:5D&redir=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mbkWgpT/Star-Movies-Select-malik.png" group-title="PREMIUM CHANNEL", STAR MOVIES SELECT
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=3178&deviceMac=00:1A:79:42:01:5D
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ySRp2Kf/Flix-malik.png" group-title="PREMIUM CHANNEL", &FLIX
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=5410&deviceMac=00:1A:79:17:BF:CE
+
+
+                        ***   KIDS   ***
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fCHspq6/Mentari-TV-malik.png" group-title="KIDS", MENTARI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png", VTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=vtv  
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cwSw5ZL/HOREE-malik.png" group-title="KIDS", HOREE
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6vjsTrg/Fun-Planet-malik.png" group-title="KIDS", FUN PLANET
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/c35ZghD/Nusantara-malik.png" group-title="KIDS", DUNIA ANAK 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/y85dxg5/MKidz-malik.png" group-title="KIDS", MY KIDZ
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W4TsrtS1/BUDDY-STAR-boi-malik.png" group-title="KIDS", BUDDY STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tJPf1yM/Animax-malik.png" group-title="KIDS", ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
+#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dGF5SsZ/Aniplus-malik.png" group-title="KIDS", ANIPLUS
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z1fjZQy/Dreamworks-malik.png" group-title="KIDS", DREAMWORKS
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157610
+#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/dreamworks/index.m3u8?c
+#http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088912
+#https://cdn09jtedge.indihometv.com/dvr/139/drmwrk/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pXTphj4/CARTOON-NETWORK-malik.png" group-title="KIDS", CARTOON NETWORK
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157593
+#https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/848rLGhQ/Cartoonito.png" group-title="KIDS", CARTOONITO
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/305.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JdZ5HvT/Nick-Jr-malik.png" group-title="KIDS", NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165107
+#https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MHYLYP/Nickelodeon-malik.png" group-title="KIDS", NICKELODEON
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162510
+#https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
+#https://cdn09jtedge.indihometv.com/dvr/139/nickelodeon/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cm1PSGg/Disney-Channel-malik.png" group-title="KIDS", DISNEY CHANNEL
+http://38.96.178.201:80/live/Disney/index.m3u8
+#http://212.102.60.231/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2303
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bgDWYJt/Disney-XD-malik.png" group-title="KIDS", DISNEY XD
+http://212.102.60.231/DISNEY_XD/tracks-v1a1/mono.m3u8
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6395
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HG7ChpJ/Disney-Jr-malik.png" group-title="KIDS", DISNEY JUNIOR
+http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8608
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="KIDS", ZOO MOO
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+http://tvn.x10.mx/1/master-8.m3u8?dl=1
+http://tvlive.my.id:25461/mat/mat/68
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fkv81SGp/Boomerang-boi-malik.png" group-title="KIDS", BOOMERANG
+http://supersonictv.live:8080/live/144264/661943/21791.ts
+https://cdn09jtedge.indihometv.com/dvr/139/boomerang/manifest.mpd
+http://iptvid.my.id/hmm/boomerang.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yFhnpc1s/Da-Vinci-Learning-boi-malik.png" group-title="KIDS", DA VINCI
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/36729.m3u8
+#https://cdn09jtedge.indihometv.com/dvr/139/davinci/manifest.mpd
+#http://iptvid.my.id/hmm/davinci.m3u8
+
+EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/137-1376977_duck-tv-duck-tv.png" group-title="KIDS",Duck TV 
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/476248/screenshots/1466065/lego_1.gif" group-title="KIDS",Lego Channel 
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/moonbug-kids-logo-D454044A25-seeklogo.com.png" group-title="KIDS",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-21042R13Z50-L.jpg" group-title="KIDS",Happy Kids Jr
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/01/logo-happykids.png" group-title="KIDS",Happy Kids 
+https://happykids-vizio.amagi.tv/playlist.m3u8
+
+EXTINF:-1 tvg-id="egg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.13" group-title="KIDS", EGG TV 
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+
+
+***KNOWLEDGE***
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9yPNF9/Discovery-Channel-malik.png" group-title="KNOWLEDGE", DISCOVERY CHANNEL
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157597
+#https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+#https://cdn12jtedge.indihometv.com/atm/DASH/discovery/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="KNOWLEDGE", DISCOVERY ASIA
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37391.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3kWfxPS/Animal-Planet-malik.png" group-title="KNOWLEDGE", ANIMAL PLANET
+http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37394.ts
+#http://iptv12k.com:35461/654321/123456/2064
+#https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VvTtqCz/History-malik.png" group-title="KNOWLEDGE", HISTORY
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/718.ts
+#https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6bq9jQ8/Crime-Invest-malik.png" group-title="KNOWLEDGE", CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37430.m3u8
+#http://suprino.xyz:80/PMF3J9X/BV7HG8H/584521
+#https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9YdhVhR/HGTV-malik.png" group-title="KNOWLEDGE", HGTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/537.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/hgtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VSbWwfs/AFN-malik.png" group-title="KNOWLEDGE", AFN
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/807.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298503
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37412.ts
+#https://cdn09jtedge.indihometv.com/joss/133/afc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jhmNNNr/TLC-malik.png" group-title="KNOWLEDGE", TLC
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/352.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/tlc/index.m3u8
+
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eatgo_small1.png?v=2.0.0.13" group-title="KNOWLEDGE", EAT&GO
+https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Sm6rhBz/Indonesiana-malik.png" group-title="KNOWLEDGE", INDONESIANA
+https://tvstreamcast.com/indonesiana.m3u8
+http://iptvid.my.id/hmm/indonesiana.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xfXCVz9/CGTN-Documentary-malik.png" group-title="KNOWLEDGE", CGTN DOCUMENTARY
+https://cdn11jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tPvDshs/DMAX-boi-malik.png" group-title="KNOWLEDGE", DMAX
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37417.m3u8
+
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/dQrRf84/Teshstorm-malik.png" group-title="KNOWLEDGE", TECHSTORM
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/455.ts
+https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8
+
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="KNOWLEDGE",LINGUA
+https://cdn09jtedge.indihometv.com/dvr/139/lingua/manifest.mpd
+http://iptvid.my.id/hmm/lingua.m3u8
+
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
+https://kusnadipepenk.github.io/ntn/natgeo.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/natgeo/manifest.mpd
+http://iptvid.my.id/hmm/natgeo.m3u8
+
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NAT GEO PEOPLE
+http://180.211.90.134:8000/play/a09e
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NAT GEO WILD
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/wild.m3u8
+https://cdn09jtedge.indihometv.com/dvr/139/natgeowild/manifest.mpd
+http://iptvid.my.id/hmm/ngwild.m3u8
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/fT434nvF/Logo-Biznet-Adventure.png" group-title="KNOWLEDGE", ADVENTURE 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
+http://tvlive.my.id:25461/mat/mat/364
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png" group-title="KNOWLEDGE", BBC EARTH SONY
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/171979
+
+                            *****   MUSIC   *****
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Bf2131N/MUSIC-Indo-malik.png" group-title="MUSIC", MUSIK INDONESIA
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fw16Vf8/Music-TV-malik.png" group-title="MUSIC", MUSIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/Music-HD/sa_dash/Music-HD.mpd
+#https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Lgpbw6/MTV-malik.png" group-title="MUSIC", MTV LIVE
+https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+#http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/9110.m3u8
+#https://av-ch-cdn.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DRVQ4x9/MTV-90s-malik.png" group-title="MUSIC", MTV 90s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
+#http://suprino.xyz:80/PMF3J9X/BV7HG8H/830531
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JzGKdMW/Prambors-malik.png" group-title="MUSIC", PRAMBORS
+https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1lRbGMf.png" group-title="MUSIC", POP MUSIK
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJA7M8R.png" group-title="MUSIC", MALEO
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MGRfrtn/Dens-Showbiz-malik.png" group-title="MUSIC", DENS SHOWBIZ
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HrhYb22/MIC-malik.png" group-title="MUSIC", MUSIC INFORMATION CHANNEL
+https://v2.siar.us/mic/live/playlist.m3u8
+
+
+                                        ***   RELIGI   ***
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/37yDt0F/Alquran-Kareem-malik.png" group-title="RELIGI", ALQURAN KAREEM
+http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QYxL142/Assunah-Anabawi.png" group-title="RELIGI", ASSUNAH ANABAWI
+https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+#http://210.210.155.37/x6bnqe/s/s27/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H2v0C2N/Rodja-malik.png" group-title="RELIGI", RODJA TV
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N2MvdfL/MQTV-malik.webp" group-title="RELIGI", MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SrMkQYY/MUI-malik.png" group-title="RELIGI", MUI TV
+https://mui.siar.us/mui/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RYfy8Pn/Mta-TV-malik.png" group-title="RELIGI", MTATV
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SB9s17w/TV9-malik.png" group-title="RELIGI", TV9
+https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JHFFvsJ/Tawaf-malik.pngg" group-title="RELIGI", TAWAF TV
+https://cdngb196.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dM57dfT/Tv-Mu-malik.png" group-title="RELIGI", MUHAMMADIYAH TV
+https://e.siar.us/live/tvmu.m3u8
+
+EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13" group-title="RELIGI", U CHANNEL
+https://cdn09jtedge.indihometv.com/dvr/139/uchannel/manifest.mpd
+
+
+                                     ***   SPORTS  ***
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/NVBXtSK/SPOTV-malik.png" group-title="SPORTS", SPOTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/728.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/bzJZnmW/SPOTV2-malik.png" group-title="SPORTS", SPOTV 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/729.ts
+#https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="SPORTS", FITE SPORT HD
+https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/cYs9mb6/Fight-Sports-malik.png" group-title="SPORTS", FIGHT SPORTS
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h05/01.m3u8
+#http://suprino.xyz:80/PMF3J9X/BV7HG8H/830543
+#https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS", UNIFI SPORTS
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11-1080FHD.mpd
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/JQb63YR/Impact-Wrestling-malik.png" group-title="SPORTS", IMPACT! WRESTLING
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/PZyKsy6/WWE-malik.png" group-title="SPORTS", WWE
+http://Supersonictv.live:8080/live/006779/439866/22185.ts
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/hYwBVyD/NBA-malik.png" group-title="SPORTS", NBA
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/3099.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ZHkKJ8y/Bein-sports-1-malik.png" group-title="SPORTS", BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37432.m3u8
+#https://mantul.biz.id:443/inetwork/gayanet12/7
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/TDyBxCB/Bein-sports-3-malik.png" group-title="SPORTS", BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/48099.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/TDyBxCB/Bein-sports-3-malik.png" group-title="SPORTS", BEIN SPORTS 3
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/37433.m3u8
+#https://mantul.biz.id:443/inetwork/gayanet12/8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/2M1L417/Horizon-Sports-malik.png" group-title="SPORTS", HORISON SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/46366.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/8cvBGQ6/Soccer-Channel-malik.png", SOCCER CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=115
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd-avc1_2499968=7.m3u8
+
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
+https://cdn09jtedge.indihometv.com/dvr/139/useetl1/manifest.mpd
+http://iptvid.my.id/hmm/useetl1.m3u8 
+
+EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
+https://cdn09jtedge.indihometv.com/dvr/139/useetl2/manifest.mpd
+http://iptvid.my.id/hmm/useetl2.m3u8
+
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37432.ts
+
