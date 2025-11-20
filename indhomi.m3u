@@ -70,4 +70,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1,IDX
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
+#EXTINF:-1,Animal Planet
+https://cdn10jtedge.indihometv.com/atm/DASH/animalplanet/manifest.mpd
+
+
 
