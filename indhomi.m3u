@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, ANTV HD
 https://cdn10jtedge.indihometv.com/atm/DASH/antv/manifest.mpd
+#EXTINF:-1, ANTV
+https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 #EXTINF:-1, Antara TV 
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1,AllPlay Ent TV 
@@ -86,5 +88,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 #EXTINF:-1,Discovery Asia dassdvr194
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
 
 
