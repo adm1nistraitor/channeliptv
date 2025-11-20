@@ -70,8 +70,18 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1,IDX
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
-#EXTINF:-1,Animal Planet
+#EXTINF:-1,Animal Planet atmDASH
 https://cdn10jtedge.indihometv.com/atm/DASH/animalplanet/manifest.mpd
+#EXTINF:-1,Animal Planet dassdvr134
+https://cdn08jtedge.indihometv.com/dassdvr/134/animalplanet/manifest.mpd
+#EXTINF:-1,Animal Planet dassdvr133
+https://cdn08jtedge.indihometv.com/dassdvr/133/animalplanet/manifest.mpd
+#EXTINF:-1,Animal Planet dassdvr194
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
+#EXTINF:-1,Cinema World
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
+#EXTINF:-1,Discovery Asia dassdvr194
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
