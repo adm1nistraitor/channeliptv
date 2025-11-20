@@ -35,8 +35,10 @@ https://cdn10jtedge.indihometv.com/joss/DASH/maxstreamtv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 #EXTINF:-1,Nusantara TV
 https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-#EXTINF:-1,RRI NET TV 
-https://cdn10jtedge.indihometv.com/atm/DASH/RRI_NET_HD/manifest.mpd
+#EXTINF:-1,RRI NET cdn10
+https://cdn10jtedge.indihometv.com/atm/DASH/rrinet/manifest.mpd
+#EXTINF:-1,RRI NET cdn09
+https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 #EXTINF:-1,Rajawali TV
 https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 #EXTINF:-1,SCTV
@@ -84,4 +86,5 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 #EXTINF:-1,Discovery Asia dassdvr194
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
 
