@@ -1278,10 +1278,6 @@ http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFt6XWtQsUpawbDAX98h-YGF9N94PiEbu4JKjxPqTpbGZZ1ERg6ovQfkcJ_vz-UwAtC7EdPB-Ak9YMkqOItKhD7jKa7dU6EG48BCB_npDkwJywmdcK8Nfyyw9-UFfy8l6rSV4iVaQclj9v2NWS2vycvzZI2ngHq6zsN40tW2iboG-IJxSi33-5ppVjLh1J/s1600/Spacetoon_logo.png" group-title="Kids",Spacetoon (Dubai)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w158753526_b596000_slAR.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPST8fRg9QY5oDd1IOZ2yLAercd10licPKWM1IoiD8dMJzduZ-c-04bMCTHCqTbrJwInim7HgMLZ9dCyxXypiQ66DkejCS7NliUoDGMwhlFahrvpYAzn_3ljHGnZXOc1HcMOBgWMrr8fiNBaLD3hQltAdDheOOPxzlIKsuk2KfKCgqsnAaCv1rzhOiNiZ/s1600/Warner_Bros._Television_2023_%28Alt%29.png" group-title="Kids",Warner Bross TV
-#https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd_video_1_5_35292333.mp4?m=1725696893
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDeKPTQ4Xmku4-RmcvNJMA-8wZDy34K8Otj8HrXH2yuVUSbHalKw_1eBZiA81Ga-EgLDy_6-IY70Jp3GNZ7rU35auXxPVn0CkASNGfqiWI8OZvA3PCukuSU0CWr1lLKmtSaymG6yUAX1sHrx9klfMOHZL5kqpXMUPpCRA7DAqHBiSK4c1gOyCdzZwZCWx8/s1600/Zoo%20moo.png" group-title="Kids",Zoo Moo (Samsung)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
@@ -1837,6 +1833,10 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMC80G1E9Gxtdj5a2JeS0IIVn2blOHRIaY-T-TvVx5g0OyoQ4HcuvPf-vTTI-oPLqmMlcFFSqXrbq5GeGokYq_CAKhz7EeW4WZ-xEJikPoUPrgQC7qjcla1OUeN8UVsqTwZgFM0KZPkkNJB9ILQWCuZ0tQ6ZMHjG7Mhw844YiUml38UML0nRADs82pl5DD/s1600/HBORed.png" group-title="Film TV",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPST8fRg9QY5oDd1IOZ2yLAercd10licPKWM1IoiD8dMJzduZ-c-04bMCTHCqTbrJwInim7HgMLZ9dCyxXypiQ66DkejCS7NliUoDGMwhlFahrvpYAzn_3ljHGnZXOc1HcMOBgWMrr8fiNBaLD3hQltAdDheOOPxzlIKsuk2KfKCgqsnAaCv1rzhOiNiZ/s1600/Warner_Bros._Television_2023_%28Alt%29.png" group-title="Film TV",Warner Bross TV
+#https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd_video_1_5_35292333.mp4?m=1725696893
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvgqpjCFvlZTCJmi_MQgd9cmYoddQP1Cwz61ynZivvHLvHkEC4N0vd7tzjR2VGGrP152QSZMiEKZ2jwxU90cWYC8ix9LpATNHHTfdxEgAZx7b9gTAscjf0Zp4zqVp3TDgzLW8xhtM-XMhKo7sX7ELvDjXraWWk2OeqCT4utDJBjlqT202BYSFzN3pkBX9/s1600/HauntTV.png" group-title="Film TV",TWD Universe | Vizio (AMC)
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
 
@@ -2341,6 +2341,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
