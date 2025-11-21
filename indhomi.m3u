@@ -59,16 +59,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1,ZBioskop
 https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
-#EXTINF:-1,iNewsTV 
-https://cdn10jtedge.indihometv.com/atm/DASH/inewstv/manifest.mpd
 #EXTINF:-1,iNews 
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1,RCTI 
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1,MNC TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1,MNC
-https://cdn10jtedge.indihometv.com/atm/DASH/mnc/manifest.mpd
 #EXTINF:-1,GlobalTV 
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1,IDX
@@ -88,6 +84,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 #EXTINF:-1,Discovery Asia dassdvr194
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
 
 
 
