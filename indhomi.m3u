@@ -27,7 +27,7 @@ https://cdn10jtedge.indihometv.com/joss/DASH/maxstream/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 #EXTINF:-1,Nusantara TV
 https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-#EXTINF:-1,RRI NET cdn10
+#EXTINF:-1,RRI NET
 https://cdn10jtedge.indihometv.com/atm/DASH/rri_net/manifest.mpd
 #EXTINF:-1,Rajawali TV
 https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
@@ -58,17 +58,44 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1,IDX
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
-#EXTINF:-1,Animal Planet atmDASH
+#EXTINF:-1,Animal Planet
 https://cdn10jtedge.indihometv.com/atm/DASH/animalplanet/manifest.mpd
-
 #EXTINF:-1,Cinema World
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemaworld/manifest.mpd
-
-#EXTINF:-1,Discovery Asia dassdvr194
+#EXTINF:-1,Discovery Asia
 https://cdn10jtedge.indihometv.com/atm/DASH/discoveryasia/manifest.mpd
-
 #EXTINF:-1,Dunia Anak
 https://cdn10jtedge.indihometv.com/atm/DASH/duniaanak/manifest.mpd
+
+#EXTINF:-1,Bioskop Indonesia
+https://cdn10jtedge.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd
+#EXTINF:-1,Flik
+https://cdn10jtedge.indihometv.com/atm/DASH/flik/manifest.mpd
+#EXTINF:-1,IMC
+https://cdn10jtedge.indihometv.com/atm/DASH/imc/manifest.mpd
+#EXTINF:-1,Dunia Lain
+https://cdn10jtedge.indihometv.com/atm/DASH/dunialain/manifest.mpd
+#EXTINF:-1,Insert
+https://cdn10jtedge.indihometv.com/atm/DASH/insert/manifest.mpd
+#EXTINF:-1,TV Edukasi
+https://cdn10jtedge.indihometv.com/atm/DASH/tvedukasi/manifest.mpd
+#EXTINF:-1,ATV
+https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+#EXTINF:-1,RRI Net
+https://cdn10jtedge.indihometv.com/atm/DASH/rrinet/manifest.mpd
+#EXTINF:-1,Maxstream
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstream/manifest.mpd
+#EXTINF:-1,SEA Today
+https://cdn10jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
+#EXTINF:-1,Davinci
+https://cdn10jtedge.indihometv.com/atm/DASH/davinci/manifest.mpd
+#EXTINF:-1,CCTV 4
+https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+#EXTINF:-1,CCTV 1
+https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_1/manifest.mpd
+#EXTINF:-1,Chineese Drama
+https://cdn10jtedge.indihometv.com/atm/DASH/chinesedrama/manifest.mpd
+
 
 
 
