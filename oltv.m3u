@@ -1244,6 +1244,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png" group-title="Kids", BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYV259KLBMlCzZC8rJZSbFG8YNpGS7n_9NjYzlzGPjhyphenhyphend8E0f4TM23ZofwE66J559xh9H2oRw8pqG-vPjrkCrgAX_ooubwhZT1R66fDvPnkB3RHu0yti4vKjGcVbpyXcJvwbci3DFtF-GQoy3-qZyxs875UoJzZCewMi5JiEmFa7VrmKosGP_4lAs2DJ0h/s1600/dunia_anak.png" group-title="Kids", DUNIA ANAK
+https://cdn10jtedge.indihometv.com/atm/DASH/duniaanak/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgJvwfXWW2Gfwk-8wXIWGkHctklHu18N5ooeRaWal4WvgQJev__B1qUV5OBHQQG34Ke4PFJbZvLoBPAA_Esy_iun2PlC6XYm7339kcf37zC1d7ygcLiylFqEkl3FtiXSHyAzUNFosyTNZQQQgwPfuKFvoa9awU_vjREeP9MqY9Xh-DdhyhpmBdDdKMiLa/s1600/Cartoon_Classics.png" group-title="Kids", Cartoon Classics TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 
@@ -2349,6 +2352,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
