@@ -1247,6 +1247,12 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYV259KLBMlCzZC8rJZSbFG8YNpGS7n_9NjYzlzGPjhyphenhyphend8E0f4TM23ZofwE66J559xh9H2oRw8pqG-vPjrkCrgAX_ooubwhZT1R66fDvPnkB3RHu0yti4vKjGcVbpyXcJvwbci3DFtF-GQoy3-qZyxs875UoJzZCewMi5JiEmFa7VrmKosGP_4lAs2DJ0h/s1600/dunia_anak.png" group-title="Kids", DUNIA ANAK
 https://cdn10jtedge.indihometv.com/atm/DASH/duniaanak/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyD8vpjIHgD1cjZ5YdBxGUZmKSLF4YSWdk3NdLkxuLQU4I6CKeRq6qnzo1yv07-HEfqrIjKVLIiDVCycr8n1TKDtGRrB4BoeygDsjWthvJWSwWirbcYq8wjr351FoF-X6sMXsPmOCKi_UinoCwVMR7sF9n3LwyKI2_WxbY9cnu3FLUW0VngM8WN95bjesn/s1600/Logo_Kids_TV.png" group-title="Kids", KIDS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/kidstv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivkAhw_d5LfLsuks-wVAumkdn70-2kHRZTzrRgYxcAa9ndcXHjU9pAbSpbD817rI-UYb2IMH7NVh4686clFc6YJVmIOu7I-f7H3vguG4XjwOpodzdP2ww7u6kyPZYDM2NXBv73kwuoRhfSeAVk3PD9q6Uup3chhULWZgL4SZfkpFxLM39O5dzDtvcTzqHe/s1600/CBeebies.png" group-title="Kids", BBC CBeebies
+https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgJvwfXWW2Gfwk-8wXIWGkHctklHu18N5ooeRaWal4WvgQJev__B1qUV5OBHQQG34Ke4PFJbZvLoBPAA_Esy_iun2PlC6XYm7339kcf37zC1d7ygcLiylFqEkl3FtiXSHyAzUNFosyTNZQQQgwPfuKFvoa9awU_vjREeP9MqY9Xh-DdhyhpmBdDdKMiLa/s1600/Cartoon_Classics.png" group-title="Kids", Cartoon Classics TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 
@@ -2352,6 +2358,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
