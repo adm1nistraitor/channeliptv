@@ -484,68 +484,86 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnWmq6qsFvJgPFBZTAMGdmqxzLPyckEM9Iv3gKkH_P69ocpinxQ5zGB_Gcs7Ejek8bXSR-eJc3UuVOVYiq_3fjtig0BLeNTffFd3apoCSOMhfUvOb2h5afH9fxQFPPb_pFEpZIBVqk3XNXHiZ6M9uUi5YW8ZLa1M0-U5d29quw_khKnaoH9M4PhZ6Ohzbu/s1600/Logo_RRI_NET_2023.png"  group-title="Indonesia TV",RRI Net
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSlcZza7XCdPqT_Y6VMQ2_AoXYsCPoXVTPUbduFjFeQ4mAawesuodjw-0PHsvlFwbThxI1xxX31pY2Of_urjRjVavo0cAWWEYVvR3FF5EfOsRjZaQZBISznKoVt2-Lq5j-OVy0Krhv3_Tpw_DGpagN_eQ6IbSz3i4mlLWhYN6kUiTiMplx2o0GPk-DfDDd/s1600/Logo_Trans7.png" group-title="Indonesia TV",Trans 7 (Indihome)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSlcZza7XCdPqT_Y6VMQ2_AoXYsCPoXVTPUbduFjFeQ4mAawesuodjw-0PHsvlFwbThxI1xxX31pY2Of_urjRjVavo0cAWWEYVvR3FF5EfOsRjZaQZBISznKoVt2-Lq5j-OVy0Krhv3_Tpw_DGpagN_eQ6IbSz3i4mlLWhYN6kUiTiMplx2o0GPk-DfDDd/s1600/Logo_Trans7.png" group-title="Indonesia TV",Trans 7 (IH)
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSlcZza7XCdPqT_Y6VMQ2_AoXYsCPoXVTPUbduFjFeQ4mAawesuodjw-0PHsvlFwbThxI1xxX31pY2Of_urjRjVavo0cAWWEYVvR3FF5EfOsRjZaQZBISznKoVt2-Lq5j-OVy0Krhv3_Tpw_DGpagN_eQ6IbSz3i4mlLWhYN6kUiTiMplx2o0GPk-DfDDd/s1600/Logo_Trans7.png" group-title="Indonesia TV",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxmgo9hrn8huiDbFTGTZbZ7Ii7AtHsCrx6_tw24nw9m_46XAU0iV136PAseUsP9eYifvjqyvYSKESnr-KWVrLYOE6P1zx7CVo061q8BekkQS2WpjEyT9T2PR9xYFqvgSQKa82wQ6hnWMjq6oacJaekYYXgmslPTKIkv4FFcSqSv47Fy5cE6e9OmfnMDj-d/s1600/Logo_Trans_TV.png"  group-title="Indonesia TV",Trans TV (IH)
+https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxmgo9hrn8huiDbFTGTZbZ7Ii7AtHsCrx6_tw24nw9m_46XAU0iV136PAseUsP9eYifvjqyvYSKESnr-KWVrLYOE6P1zx7CVo061q8BekkQS2WpjEyT9T2PR9xYFqvgSQKa82wQ6hnWMjq6oacJaekYYXgmslPTKIkv4FFcSqSv47Fy5cE6e9OmfnMDj-d/s1600/Logo_Trans_TV.png"  group-title="Indonesia TV",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgaJGZumMtpd1GqC9M4hWnCMi2zOvY86V8df7R8CN_HsbQz4c1bbtcu2A3v7WRjNWD-gOsdTFyuP3_cyt8ZRaqfb9ezQbl8v0rf6HffdQCp_mtMLa0ZwvFrCvByuzEqh0hMo_JkBnydEOLhJP_2k-RTd6YrkSSHwiv41a1_GfvoP-pINUaJTHt78TYgdPS/s1600/INDOSIAR_Logo_5.png" group-title="Indonesia TV",INDOSIAR
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?token=82023bfe00ca28f2339a420de887506ff27d8c8f919fbb07e53e39bb884fe224
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQETeJn1I2xz_w_a1Tsg4BfaNsDhV-WnFOjp0aG4Hdmy037cDenzG0ORvZQ5wl86L6ony0zLfjbMAsPwAI6KEHV7H9bTD3Nnj93Iey_BRqDmYyOCUpzIbLcdgdMfvIwEzB_NQPWTCmgeBQihgnfno-Up4Mb7JkZhI-WvJ8xe8l5_2Afu5WJA7OPU72L6Uy/s1600/Indosiar_Karya_Media.png" group-title="Indonesia TV",INDOSIAR 2
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaywH6ZzEQUgYHQK6E48r_kLbOXXk9RbboKv-Iyd1QBPwezxCx4QKXNsC5H6b8Vp81UxI2HhmhsZp2Q3kFoNHp1-PwuYfumg_9KRCCkGGqsYRBP5O2oqvpGq9fBe8VCaE7QQT2NkllIJKDezmW6h6X_0_bGlYCJ1KeVED5TPdOKoT2mnoOS3pN56VV7GNx/s1600/SCTV_Logo.png" group-title="Indonesia TV",SCTV 1
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKjNdeprFp7JZ66hOgKBfWQ5qcnkkGej4IVnU6BbyCfP6q4SBfc6pnWfqpxlMyzn-yVXI5w3ygw_IxbQ1iLWO0AzC5bUjQV__xGIbd5oy3gsTdgZibr4-qgJgsSRmJQCwPnB5JKEKvgdgxqDjuoJD4kkS08ctTju6GcXMoFhQ47X_RIWzNC9kQbDlDnr2E/s1600/SCTV_Indonesia_2003.png" group-title="Indonesia TV",SCTV 2
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6PRCpktKZ_yKe6cqyK_sOWS0iw6-SpZbr0Pn3cQYYWpiA5yG7MVQ34oEaAJCr7Q0C8ZFR1LXenpAkEiCDWknSTltFW8_fVRNC4x0dhLHV_4YKUSOd8Xv-D_4NVzCyXkaY689-v5HBZwmGpg629JRUIkMq12ID2SsD6ximf5NqvhIDgzPjFjmisM7U1VMF/s1600/RCTI_logo_2015.png" group-title="Indonesia TV",RCTI
 #https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aSUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
-http://allcutv.rctiplus.id/rcti2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#http://allcutv.rctiplus.id/rcti2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) 
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ7jL1g8K66NGiAwsOp9jCi7wikB-8CkGjR59Cb8h-gTqWYdJ_J9GVqn50hPT1-8jhav6rdJ78DOrfKs6LOZ3ssqCkU9K2beS9PR4pEl_OZTbb2fy9tuhY3BTO9AFrSYXY9xWTujK9Nw1sZiKgTpwm3qXnV_XF_yegcw7vDW2Q3DmRk7hqoMh8JmGFwSQr/s1600/2560px-GTV_%282017%29.png" group-title="Indonesia TV",GlobalTV
 #https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGZ3R2JTJGaW5ld3NpZCZoZWlnaHQ9MTAwJTI1JndpZHRoPTEwMCUyNQ==
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 #https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-http://allcutv.rctiplus.id/gtv2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#http://allcutv.rctiplus.id/gtv2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrS9WPG0nTbseQkIXdH2mZyokC_aY9lSYssBMOzxbi74jWmA1OKnWpEoyK6nXx9qU1ehtAeHzMVJJ5H53JdMAHMaN9M0l2xhB2Y19RVNmEUqHFv1SKzBAmj2MO_FOA4nH24C78INDJQvU04215SjOjx7JMshfTdZGU1hYRRw3-t6aCCGV66Dk4kfNTVgHc/s1600/MNCTV_logo_2015.png" group-title="Indonesia TV",MNCTV
 #https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGbW5jdHYlMkZpbmV3c2lkJmhlaWdodD0xMDAlMjUmd2lkdGg9MTAwJTI1
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-http://allcutv.rctiplus.id/mnctv2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#http://allcutv.rctiplus.id/mnctv2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpCaIf4_gv7_KaicA0sJUcHMtRCjp3rOYJbztlqAz3M0rpyn_2EGk7GiNNTzIh3CfKFPPGUEULaK3VL4UIhT4uXv63pl_gGbl00v-WZAxnrjMtL0a4KZi1srkbcF8GKi5b3dcpcjXXHeIaVJ2uxpPWFsCSC-xDpFXtNuvO6eAFEh83twij9RFHsGfeuQ-/s1600/INews_TV_logo.png" group-title="Indonesia TV",iNews TV
 #https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGaW5ld3MlMkZpbmV3c2lkJmhlaWdodD0xMDAlMjUmd2lkdGg9MTAwJTI1
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 #https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-http://allcutv.rctiplus.id/inews2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#http://allcutv.rctiplus.id/inews2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png" group-title="Indonesia TV",ANTV
+#https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/file/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgBL2tcpzeojuJoNu0B6mo7fNK-sfKxwpFiBoiLwYyEvUIs9aIe2duBK5xK-sfjvnEprNDrJrFBRxD5zSXscIbEB6513NABR-zkni3-QBR8fTsJlF1jTz6WqLsZCBxLDJtJ5zZooqSoQoMcY8frX9hBKVChMtq8k7CkqfyjqOXgWKD1-7rZYoxACRyPoD/s1600/BTV_%28Indonesia%29_logo_%282025%29.png" group-title="Indonesia TV",BTV
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Q3Om8vfRuC9ywGZ0xc8dNxAu9m4iK836MWOH2-qtlBanDFQoxuawlYJ2WxZXO6A54aMIRkxe7L55w4U55QfqzOgmZGD1KQLnb5amSGRpr2BLCZbqN81qQKbEHUzMRGpzqoYURmcFz-c2eaFBkzXAr2H9GOOErw-OOFW10C9cyRm83g2V0m3YmNHpVNAz/s1600/Rajawali_Televisi.svg.png"  group-title="Indonesia TV",RTV (Rajawali)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJIv1V4fPPsVzELisMuzttOLeZ1-tRC3LcXZiXIy3hN8QYbjLUSy2quK-VlCn6jMA3kGiRcCVan_LMAKbhO8p03Jdo5hXokYHmD7pi3rDyDGd9FvAwmLE2bl6oSOaB-LO_jmfkeqrijQ1vKSzG3xlr9iyDQ2o8GvLfg57pqnNVI9XObR17H0rCZPtA2Cj/s1600/Mentari_TV.png"  group-title="Indonesia TV",Mentari TV
-https://popmi.my.id/tes.m3u8?id=8237
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0gyIeSCQMMPZN3JtujLbUbIW4ZfA_Ri9A-3KGTlj_yNArUfawfeyStaXl4UNLynw-5Cupu2lPnWr8GEUzjlWpmLLXGq5uOAnu_9py4jLXKxknYgI5GLrMmAPdacXRbfBQkmhk0CuMGzoxG5JYSCgEM4OdsZL7uf78CJeEzEpJAoLO2tbP4L-PVRqhw_tC/s1600/VTV_Indonesia_red.png"  group-title="Indonesia TV",VTV
-https://flv.intechmedia.net/live/ch107.m3u8
-#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png" group-title="Indonesia TV", BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png" group-title="Indonesia TV", BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbg-X7f9D74KDxU4dKsRAm1FGPhpNIOiqcTuPgjE26W6ColiLQI6yd6Alnjqq1YrwTeTqpeFtg3I8klhl2uYQVFiTOvPxAVNE8D4a412GwplQ5DPehRw4glXu-f2HYQxpWJxO459DyEyrKVFuznCEGypJGTx6vH7A19fb9Ye-_8NJXPLV75Li0WhSNA_Sm/s1600/Biznet-lifestyle.png" group-title="Indonesia TV",Biznet Lifestyle (720p)
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHzcXoOmFcX93L-1PoHLiMX-7e-FgWxe4sZsBrwSUqgvDFP10XhzUJ1Ss2wtyi1SVraLEg9qz_9a15qFlqOgGUl9HUx1lZ2r-U7sQVQsSHOW6QCXxHLOcYqWsx2C6tRKCdzyD_vNwFxgdOQAzPIPo89Pzf5nbeO79YemxbUnb72BS5AsgQSwIeDvE0xh1/s1600/Biznet-Adventure.png" group-title="Indonesia TV",BIZNET ADVENTURE 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHzcXoOmFcX93L-1PoHLiMX-7e-FgWxe4sZsBrwSUqgvDFP10XhzUJ1Ss2wtyi1SVraLEg9qz_9a15qFlqOgGUl9HUx1lZ2r-U7sQVQsSHOW6QCXxHLOcYqWsx2C6tRKCdzyD_vNwFxgdOQAzPIPo89Pzf5nbeO79YemxbUnb72BS5AsgQSwIeDvE0xh1/s1600/Biznet-Adventure.png" group-title="Indonesia TV",BIZNET ADVENTURE 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKI8ABfW7f6IQa5yAcrYEcpwbTTlS_Abe5YdnzNbiN6Lk-taFGuCzYZESsHSbkQCToce0cCfmzVI-07fGIqmIzRmYELwHMaMDh1D5BIPxUCOuEPZ0lJlcZIfwXdBtLor5yZju7vh0UZV6W6iKPrV-vTYyuKB97MOZW04f_Ncf2ERTD4K86GqLQJlPqSCzO/s1600/CNN_Indonesia_logo.svg.png"  group-title="Indonesia TV",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzzP3en_NbaW6gUNr4450AZlYaMZT9hWTsQrPID4_YwDv6RdPQ3QJTTdFMPlnRBGPCgNw7MPd_elwtTm0-0MEODkvn_ErmGGMHZ88Fu-9Ldfc-C2vCQwFKZ7dI9bq_kauB6iEa-BRTUB3RO-6fhP2O8xECKWWx1-ORjAb6o95BWeu2pKPjsKrQ-D4D5oja/s1600/CNBC_Indonesia_logo.png"  group-title="Indonesia TV",CNBC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnfV2JaIzbA_Xckv985kF5MjrZkymeEZH3LppVS2xeEN55ysSOsWhgwPMftroQ3cC_TJA3loRL9nxM0wSpkTmDY8U8GrcGgvEpjh0Cq1e_d0HZ1KvnSDFyWklz2eqavM99HTVShPvuSVZAbNbTsAwb0F4C71rDEOk0B4QFw1BSS3DJsosAeEcPz5TWMk2z/s1600/IDXlogo.png" group-title="Indonesia TV",IDX Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+#https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+#https://allcutv.rctiplus.id/idx.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHiyrk45AXz9DqUTVnO9Bgbt1vX2IE1oc8tSFTiyXlBc2TCZVTN6XOXXISG6Ya1oM1V3gwX2nAkqDwnUvNxrdSvhkFZ7sjDK-x2ewIHV5Jc0bwfoRs5CfBOaOolkpYx1CupqKMwGF2g1b9uxiuEIrx3fgPYjKildqmYxN9L6WRFEQ0DOc-8S9hbDMz5zhyphenhyphen/s1600/KOMPAS_TV_%282017%29.png" group-title="Indonesia TV",KompasTV
+https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzHT5BRv5CsyT7-_fFKwcosmyLQdHj3JsB1v3o_4CYrWsJlpe9MMeFuXiwXO3CyEjXixeX0INNax7rg1G_YeXsLK2hU5BVfcshwSkzVwBpi93kBbRso3BBUubLse_8XAFOp2vzWC_JN_-MwV0Lzs9YLWdXI5pCW6AligVNiiAYEtnchaJB-E6KgLYhN-Sp/s1600/Kompas_TV_%282011%29_logo.png" group-title="Indonesia TV",KompasTV 2
+https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHIjes0Nl3NlawlK-gE45mFR6pGqthY84Fa_kwC27G0AE1FDU0n-qDqAi5aH3I6M9z3Qh9QpGbAOp5VnOTMnTJDh_8CyEGjmL-_A9E7zGXVo5hvoHUMSXc64CPLTELUecZyIHge3Wj39snJ189BpnNYn6RawjeUzmLRW7ZsbXtxxcyy8wt1b9nJANn5jfO/s1600/MetroTV_2000.png"  group-title="Indonesia TV",Metro TV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
@@ -562,38 +580,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYI1vglc8Ao4G36iKURMwb1Dvy5uRKmdzAtuEsvDgcDE7XfIxGosZI8lpOY7KHq39btWdT9w67L_fYMq3-m0jJgLcOieExNKtv375Wl8MrYkxsMwQtyNyqOtPArAhKHyKiDzRhIUajvrer7W_JltXfZl_M18KT6P0z3kjy2VyYZdjlOvWiPZiFmFjeSU6O/s1600/Nusantara_TV.png"  group-title="Indonesia TV",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgBL2tcpzeojuJoNu0B6mo7fNK-sfKxwpFiBoiLwYyEvUIs9aIe2duBK5xK-sfjvnEprNDrJrFBRxD5zSXscIbEB6513NABR-zkni3-QBR8fTsJlF1jTz6WqLsZCBxLDJtJ5zZooqSoQoMcY8frX9hBKVChMtq8k7CkqfyjqOXgWKD1-7rZYoxACRyPoD/s1600/BTV_%28Indonesia%29_logo_%282025%29.png" group-title="Indonesia TV",BTV
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv4fzBqk1BrOsLQh8-KLjWZsaLHnKyPbGksllMl-2oUFKQUQ0vurtIPkZ020tudD47Vr8VQKsKVqMWCUYHiomRmFEpB2wGooEkG7nRf32B49TNXEg8W6qOjbdXVD7Jl-usVaLPN6rqJ1uRnSMkUUqT7cTLupxbjsNAZw0VuAmo_FqUtTjyqC2nmx7VEpZ/s1600/UGTV_Indonesia.png" group-title="Indonesia TV",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnfV2JaIzbA_Xckv985kF5MjrZkymeEZH3LppVS2xeEN55ysSOsWhgwPMftroQ3cC_TJA3loRL9nxM0wSpkTmDY8U8GrcGgvEpjh0Cq1e_d0HZ1KvnSDFyWklz2eqavM99HTVShPvuSVZAbNbTsAwb0F4C71rDEOk0B4QFw1BSS3DJsosAeEcPz5TWMk2z/s1600/IDXlogo.png" group-title="Indonesia TV",IDX Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
-#https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
-https://allcutv.rctiplus.id/idx.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaywH6ZzEQUgYHQK6E48r_kLbOXXk9RbboKv-Iyd1QBPwezxCx4QKXNsC5H6b8Vp81UxI2HhmhsZp2Q3kFoNHp1-PwuYfumg_9KRCCkGGqsYRBP5O2oqvpGq9fBe8VCaE7QQT2NkllIJKDezmW6h6X_0_bGlYCJ1KeVED5TPdOKoT2mnoOS3pN56VV7GNx/s1600/SCTV_Logo.png" group-title="Indonesia TV",SCTV 1
-http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKjNdeprFp7JZ66hOgKBfWQ5qcnkkGej4IVnU6BbyCfP6q4SBfc6pnWfqpxlMyzn-yVXI5w3ygw_IxbQ1iLWO0AzC5bUjQV__xGIbd5oy3gsTdgZibr4-qgJgsSRmJQCwPnB5JKEKvgdgxqDjuoJD4kkS08ctTju6GcXMoFhQ47X_RIWzNC9kQbDlDnr2E/s1600/SCTV_Indonesia_2003.png" group-title="Indonesia TV",SCTV 2
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgaJGZumMtpd1GqC9M4hWnCMi2zOvY86V8df7R8CN_HsbQz4c1bbtcu2A3v7WRjNWD-gOsdTFyuP3_cyt8ZRaqfb9ezQbl8v0rf6HffdQCp_mtMLa0ZwvFrCvByuzEqh0hMo_JkBnydEOLhJP_2k-RTd6YrkSSHwiv41a1_GfvoP-pINUaJTHt78TYgdPS/s1600/INDOSIAR_Logo_5.png" group-title="Indonesia TV",INDOSIAR
-https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?token=82023bfe00ca28f2339a420de887506ff27d8c8f919fbb07e53e39bb884fe224
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQETeJn1I2xz_w_a1Tsg4BfaNsDhV-WnFOjp0aG4Hdmy037cDenzG0ORvZQ5wl86L6ony0zLfjbMAsPwAI6KEHV7H9bTD3Nnj93Iey_BRqDmYyOCUpzIbLcdgdMfvIwEzB_NQPWTCmgeBQihgnfno-Up4Mb7JkZhI-WvJ8xe8l5_2Afu5WJA7OPU72L6Uy/s1600/Indosiar_Karya_Media.png" group-title="Indonesia TV",INDOSIAR 2
-https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl8g5YeD3nMjkCzwwHcMKFcqsnz3pEfwizuzuuEB9zeECh8-ylkZedQtbLckoQFZ6hasLLCqCY-DQMD6PHF0oo2uY3rj-sL7hBx5nkng11gO85BCcy1uN0oyz-63-woISRk1bk48J1XjoyJ69rQw1y3WamS_2TP4IRoS-kwmBlspi8PAhCjv7qyEk0O8LT/s1600/TPI_Logo_2006-2010.png" group-title="Indonesia TV",TPI
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png" group-title="Indonesia TV",ANTV
-#https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/file/stream.mpd
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGEL0dyouQhF53cyfYb8qQPp8Z8wvwBSW_Qoj1l0RB439njLI7gHY2UiiWzPfhyphenhyphenuLVWeSrPG0uIchicpeffLbEjL1lGkBgHerPmPffn9FUuOxxnN3sQFRDEJZWDJlRVJZdNY6tIElaWXI2eLzVkfrk4iFeR6L7IjzFfWihENTv6L2Fh5FJKzpJhE73bIv/s1600/TvOne_2023.png" group-title="Indonesia TV",TVOne
 #https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
@@ -601,16 +587,10 @@ https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgey0WD8nRVpji7Rvg0Q4LYxPspfTatHYaAc1YTmEKzL-KwYd1_3R8Xl1gsOP7JrNuQvuDc-LJVfhEse2ZMBSeqT_N5NmiBEZS84CBBVe_eGgzwU_fb6k4NS-schmynG5fFTr0sxNqgjdB1R4SKyN7V5mF5StZP1rnVxNpEeZ-2WxCBCYwirwHAeZ8E6UgL/s1600/TvOne_logo_2012.png" group-title="Indonesia TV",TVOne 2
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHiyrk45AXz9DqUTVnO9Bgbt1vX2IE1oc8tSFTiyXlBc2TCZVTN6XOXXISG6Ya1oM1V3gwX2nAkqDwnUvNxrdSvhkFZ7sjDK-x2ewIHV5Jc0bwfoRs5CfBOaOolkpYx1CupqKMwGF2g1b9uxiuEIrx3fgPYjKildqmYxN9L6WRFEQ0DOc-8S9hbDMz5zhyphenhyphen/s1600/KOMPAS_TV_%282017%29.png" group-title="Indonesia TV",KompasTV
-https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzHT5BRv5CsyT7-_fFKwcosmyLQdHj3JsB1v3o_4CYrWsJlpe9MMeFuXiwXO3CyEjXixeX0INNax7rg1G_YeXsLK2hU5BVfcshwSkzVwBpi93kBbRso3BBUubLse_8XAFOp2vzWC_JN_-MwV0Lzs9YLWdXI5pCW6AligVNiiAYEtnchaJB-E6KgLYhN-Sp/s1600/Kompas_TV_%282011%29_logo.png" group-title="Indonesia TV",KompasTV 2
-https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFkFVsJgvT_Jz4NFv-tr0XSNJ-prix4dwgseohK1Qbu51fm2sFxkkN_VgNPUkfGPFWNJFa8Gw1WCfItIA4A60CWTvHe8Kljr0PXCLuTEmKav0TGvRfXP1A5i9tDdLUWE4t2rwkHFeW7et91mGnc07TX9_lW73A_0ZhpTaQaaSRpIfegZ9b3jbzLRY1mcCx/s1600/Logo_BeritaSatu_Media.png" group-title="Indonesia TV",Berita Satu
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtkEq3IUcYZTZ9_TgoNZU0IEx8rJNlTRqMASHv6mqlXDuWogMvuYyOMH3U8E1sZCOmIuGRwSrVzf7JZjAxyRKr_-oyDk8iTMiTIS2jmyt-bENM2VaE0seVBCXXXEi6gtNdIuyc1C_B4l6JTh0M8XQ6kj6xeF9-WkSjLBe141UphuwocLOV64xzI3xCA4VN/s1600/BeritaSatu_World_2019.svg.png" group-title="Indonesia TV",Berita Satu World HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtkEq3IUcYZTZ9_TgoNZU0IEx8rJNlTRqMASHv6mqlXDuWogMvuYyOMH3U8E1sZCOmIuGRwSrVzf7JZjAxyRKr_-oyDk8iTMiTIS2jmyt-bENM2VaE0seVBCXXXEi6gtNdIuyc1C_B4l6JTh0M8XQ6kj6xeF9-WkSjLBe141UphuwocLOV64xzI3xCA4VN/s1600/BeritaSatu_World_2019.svg.png" group-title="Indonesia TV",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzBs9k2vFkUqNijWq3X3i9rawJlNrpmRFgx8L3hhQH7nl2N5PifNc6-uCviCBzcUEazmlDpRSJ_iT-2aF2XzUAwbxmvE7YsldlAD1zUE_otkO2eVvaucu1Z_D7c0ZHbAPntpfQ4SeCsyLz00OgV_6K_sjb6jRYv-9B1kxnqpHXgw52tAGoLuk81P9ecG8/s1600/Logo_GarudaTV_Primer_Flat_2025.png" group-title="Indonesia TV",Garuda TV
@@ -621,6 +601,11 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJxNXvLDHhefBgi1cL1zPEdns1GQuSCDWSRyarXINdYddFpbGInPr1RjSk6k8AgOnTwO0ZHhvbp991qNn8Y7W0gpvBlaDkUfXd7vN8J3GeLkFL_tE48g3FeQLE_eHtGJNJ-B7ZjOWTJmJxpElw_iV7LjP907J5t0f0cS281T9BoQ3HospHy3pbptbQicuq/s1600/IndonesianaTV.png" group-title="Indonesia TV",Indonesiana TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tvstreamcast.com/indonesiana.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCA3ts7Pw3bpw1u6Jl1N_FS0NW8BbsAezVk-Uid90ng4f5tvyCNovvxPxOe_tjFYNitWQFvLIjf1ltdzg2QY-_xkPG13RBjW0rRGoRRT9kgVyf6nbHlygRvx1Mq-A0JZ_h9dR_B6L0KD9kXOUxh9DrornMpU4Dk7MNbAtof4nVrGUaHMRia1djj6BPgoh4/s1600/Moji_blue.png"  group-title="Indonesia TV",Moji TV
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
@@ -630,6 +615,25 @@ https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDJRF7u05B0l-aNiT4PUjOgxYer3xBmXo5wJkcVD-tRBr_kGOPNYzJzYzgOYose7hp7Kjp1q2FawFXxQuPAxla0vLc2KJMXVLIYYyZJhQGQPbfelvyWBFKQcqZ03ekftqi99Ge0AMT0ATKa7cLYhtH6qzd3Av2rocOLdS3K_qf0qzeFWfdT-Tnf5V6cW1/s1600/logo_oxygen_new_site.png" group-title="Indonesia TV",Oxygen.id TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJIv1V4fPPsVzELisMuzttOLeZ1-tRC3LcXZiXIy3hN8QYbjLUSy2quK-VlCn6jMA3kGiRcCVan_LMAKbhO8p03Jdo5hXokYHmD7pi3rDyDGd9FvAwmLE2bl6oSOaB-LO_jmfkeqrijQ1vKSzG3xlr9iyDQ2o8GvLfg57pqnNVI9XObR17H0rCZPtA2Cj/s1600/Mentari_TV.png"  group-title="Indonesia TV",Mentari TV
+https://popmi.my.id/tes.m3u8?id=8237
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0gyIeSCQMMPZN3JtujLbUbIW4ZfA_Ri9A-3KGTlj_yNArUfawfeyStaXl4UNLynw-5Cupu2lPnWr8GEUzjlWpmLLXGq5uOAnu_9py4jLXKxknYgI5GLrMmAPdacXRbfBQkmhk0CuMGzoxG5JYSCgEM4OdsZL7uf78CJeEzEpJAoLO2tbP4L-PVRqhw_tC/s1600/VTV_Indonesia_red.png"  group-title="Indonesia TV",VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png" group-title="Indonesia TV", BizNet KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbg-X7f9D74KDxU4dKsRAm1FGPhpNIOiqcTuPgjE26W6ColiLQI6yd6Alnjqq1YrwTeTqpeFtg3I8klhl2uYQVFiTOvPxAVNE8D4a412GwplQ5DPehRw4glXu-f2HYQxpWJxO459DyEyrKVFuznCEGypJGTx6vH7A19fb9Ye-_8NJXPLV75Li0WhSNA_Sm/s1600/Biznet-lifestyle.png" group-title="Indonesia TV",BizNet LIFESTYLE
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHzcXoOmFcX93L-1PoHLiMX-7e-FgWxe4sZsBrwSUqgvDFP10XhzUJ1Ss2wtyi1SVraLEg9qz_9a15qFlqOgGUl9HUx1lZ2r-U7sQVQsSHOW6QCXxHLOcYqWsx2C6tRKCdzyD_vNwFxgdOQAzPIPo89Pzf5nbeO79YemxbUnb72BS5AsgQSwIeDvE0xh1/s1600/Biznet-Adventure.png" group-title="Indonesia TV",BizNet ADVENTURE 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHzcXoOmFcX93L-1PoHLiMX-7e-FgWxe4sZsBrwSUqgvDFP10XhzUJ1Ss2wtyi1SVraLEg9qz_9a15qFlqOgGUl9HUx1lZ2r-U7sQVQsSHOW6QCXxHLOcYqWsx2C6tRKCdzyD_vNwFxgdOQAzPIPo89Pzf5nbeO79YemxbUnb72BS5AsgQSwIeDvE0xh1/s1600/Biznet-Adventure.png" group-title="Indonesia TV",BizNet ADVENTURE 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuiBhSb3VakkNbGVbclGZGFUWC4hKNWHF-sVVkX0doSQUD5rPhrIoObGLMCtDSbzkKWbcohTr4WUHdoaUkmowGDMqG8GQmsVGXfUgAmEVm_vZPZZEqYEkSalHhFHpUL8mJDd9VYXedi7cy6ou20b4iDv8GTRSNGH7lKAK3YZ_HsRI18Fe2VHfLpcTtLikC/s1600/dtvi-logo-2024.png" group-title="Indonesia TV",dTVi
 https://e.siar.us/live/dtvi.m3u8
@@ -643,6 +647,12 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLpkpO4VqhYt-4mMZWmFhnJzu7JuMbCvsIVqAp2_16xbrBB1Rcl5PVZLW3FrFngw8r4u0jnfV5F5KufBN3wR4J9OFS0s6zynVCn4KcXBol3-rR-KgAXC63ZahTxgQDETaPX-qL_zXdr7SxYDtmlzyHz9jionxZbsDH6BxQaLgMZdLhYbwYhziJvGNm5TF6/s1600/MGSTV_%282015%29.png" group-title="Indonesia TV",MGS TV (Megaswara)
 http://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv4fzBqk1BrOsLQh8-KLjWZsaLHnKyPbGksllMl-2oUFKQUQ0vurtIPkZ020tudD47Vr8VQKsKVqMWCUYHiomRmFEpB2wGooEkG7nRf32B49TNXEg8W6qOjbdXVD7Jl-usVaLPN6rqJ1uRnSMkUUqT7cTLupxbjsNAZw0VuAmo_FqUtTjyqC2nmx7VEpZ/s1600/UGTV_Indonesia.png" group-title="Indonesia TV",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWwWo-dlo3AlN9aOJdwzTCRi-CZkpkBz2mVjbvHn_n-FdkX_pcn5qjAz60Kg0EsG-x5-EhJIhwI4sSs0udoj9s7xEQeVBNmqb2ucmasUOG-3QRhl9JRgO8v7fVsphrW3b1Z5w54Ikdf0arnEeke7_AcpGcqoNKMawy-DMACqEYq1p7sC_5pQaKmGodrGU/s1600/TVR_Parlemen.png" group-title="Indonesia TV",TV Parlemen
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8   
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiixSXSUUsGoBfgbsrjcgPNThvlSvIge1AYGf2Ic9z-J0lvX69_TywkVcm0yx_N7rjCAv83ooQdWAq8-l5p5xYS3IWvLZ9sC58YE1Qk0I4zuSgo8jL6299R_kpkBKJeIk5JY3aI35yVUPZy5auzAU6haQvLPxGpsNUrSn5HENfFCYNRM8s0wvejarbJGasV/s1600/DAAI_TV_Jakarta.png" group-title="Indonesia TV",DAAI TV
 #http://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
@@ -650,16 +660,11 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGJ66K0yCobNcF6_LdiGjvZllbtvMmfHFeAjRYOU-Qd7ce9dXDv9NBcrS1jJYjfGUx-MNNrdGUBc9_AFZ6Hu9ZZbE7SZWECVyleZDICPDZwCekOIeDjyP3OOPTRytNHSON_l4WWyRThiRPUy4iD6tfw8I-mPJgnPUpvnhLZTjoeDyHWODWHn_twn2FIjO/s1600/Jakarta_globe_news_channel_id.png" group-title="Indonesia TV",Jakarta Globe
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/hvideo-960x480.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJxNXvLDHhefBgi1cL1zPEdns1GQuSCDWSRyarXINdYddFpbGInPr1RjSk6k8AgOnTwO0ZHhvbp991qNn8Y7W0gpvBlaDkUfXd7vN8J3GeLkFL_tE48g3FeQLE_eHtGJNJ-B7ZjOWTJmJxpElw_iV7LjP907J5t0f0cS281T9BoQ3HospHy3pbptbQicuq/s1600/IndonesianaTV.png" group-title="Indonesia TV",Indonesiana TV
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvstreamcast.com/indonesiana.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWwWo-dlo3AlN9aOJdwzTCRi-CZkpkBz2mVjbvHn_n-FdkX_pcn5qjAz60Kg0EsG-x5-EhJIhwI4sSs0udoj9s7xEQeVBNmqb2ucmasUOG-3QRhl9JRgO8v7fVsphrW3b1Z5w54Ikdf0arnEeke7_AcpGcqoNKMawy-DMACqEYq1p7sC_5pQaKmGodrGU/s1600/TVR_Parlemen.png" group-title="Indonesia TV",TV Parlemen
-http://103.16.220.69:1935/golive/livestream/playlist.m3u8   
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6QK9qoXewOgIXwvgbtdFRSAyajKftczhL5gzYeMP-Ytmenm-2UkId8DeBwsmvw3w0J0DV_Kj2craOwCRKw5KMPVV_jgG1FuTvqxs98_AEI5XlVbm7CB20Z-L0u25sitQRRAb6zsb1R6w6rIfbRTIeYTXnXVOHXOY19WOpmocUVu7stOkhFkcINtlm05iz/s1600/Netmediatama.png"  group-title="Indonesia TV",NET.
 http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl8g5YeD3nMjkCzwwHcMKFcqsnz3pEfwizuzuuEB9zeECh8-ylkZedQtbLckoQFZ6hasLLCqCY-DQMD6PHF0oo2uY3rj-sL7hBx5nkng11gO85BCcy1uN0oyz-63-woISRk1bk48J1XjoyJ69rQw1y3WamS_2TP4IRoS-kwmBlspi8PAhCjv7qyEk0O8LT/s1600/TPI_Logo_2006-2010.png" group-title="Indonesia TV",TPI
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVae2Uh6LgYVv2Ioh0Wbs-S29D8_YG8DFKA3-sZ4CVGTPF1xbFwFJpYbxda1W0EWgT45JZSVhBEingR0299Kjknk6MYm-V6c3MCn8AcGBp5F2QoTpNTrOmzgwefQZjospfR0EtLdXeCtYGypMihOAuFrUmcuajGEN59lS9jpZQFzcdakkw-0Q0bmq8C44b/s1600/MOLA_TV.png" group-title="Indonesia TV",Mola TV
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
@@ -708,7 +713,8 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 http://122.248.43.138:1935/jpm/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDo-mwZ0utQZaTT57nKdmdOqaDNaqsu5FRW5OI5_Ge8GIhh6Zz4RxGJEFbUI_bL0cGh2v5atNmQpviJ1am65WcJG_BWaCQss7M2z6fCzG6_XTIsTZHn8ogF0mgMbZ9SYA9bEfHVnoQuqs-DIgmKQUOTvl2HFPLCD1KBBGQ7bzQCoc4txrq7R3jYUD18xqt/s1600/BaliTV_2014.png" group-title="TV Lokal",Bali TV
-https://d3vd9lfkzbru3h.cloudfront.net/6a3270a3204336d38045_balitvnaradha_314764063209_1758022489/chunked/4.ts
+#https://d3vd9lfkzbru3h.cloudfront.net/6a3270a3204336d38045_balitvnaradha_314764063209_1758022489/chunked/4.ts
+https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjZOXlWwiHpxwKPVjc1vHHTfxWXSerL4IrAO54jnZXNtTBmjDAxHdShmWiOJtrIsDKrnSt5UfHfUNyIM02JCEVD54pr3kTpWa9P1V-mBAjrjEw_hvy5Sb-HbP3_fjZ3K5Y2huTddsOwhiw1CuAhX48RLA6317_B1YnwwFbJfL7ks9kn3AvKP9dH-Cb1gz/s1600/sangaji_logo.png" group-title="TV Lokal",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
@@ -1236,6 +1242,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png" group-title="Kids", BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgJvwfXWW2Gfwk-8wXIWGkHctklHu18N5ooeRaWal4WvgQJev__B1qUV5OBHQQG34Ke4PFJbZvLoBPAA_Esy_iun2PlC6XYm7339kcf37zC1d7ygcLiylFqEkl3FtiXSHyAzUNFosyTNZQQQgwPfuKFvoa9awU_vjREeP9MqY9Xh-DdhyhpmBdDdKMiLa/s1600/Cartoon_Classics.png" group-title="Kids", Cartoon Classics TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 
@@ -1268,10 +1277,6 @@ http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFt6XWtQsUpawbDAX98h-YGF9N94PiEbu4JKjxPqTpbGZZ1ERg6ovQfkcJ_vz-UwAtC7EdPB-Ak9YMkqOItKhD7jKa7dU6EG48BCB_npDkwJywmdcK8Nfyyw9-UFfy8l6rSV4iVaQclj9v2NWS2vycvzZI2ngHq6zsN40tW2iboG-IJxSi33-5ppVjLh1J/s1600/Spacetoon_logo.png" group-title="Kids",Spacetoon (Dubai)
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w158753526_b596000_slAR.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPST8fRg9QY5oDd1IOZ2yLAercd10licPKWM1IoiD8dMJzduZ-c-04bMCTHCqTbrJwInim7HgMLZ9dCyxXypiQ66DkejCS7NliUoDGMwhlFahrvpYAzn_3ljHGnZXOc1HcMOBgWMrr8fiNBaLD3hQltAdDheOOPxzlIKsuk2KfKCgqsnAaCv1rzhOiNiZ/s1600/Warner_Bros._Television_2023_%28Alt%29.png" group-title="Kids",Warner Bross TV
-#https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd_video_1_5_35292333.mp4?m=1725696893
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDeKPTQ4Xmku4-RmcvNJMA-8wZDy34K8Otj8HrXH2yuVUSbHalKw_1eBZiA81Ga-EgLDy_6-IY70Jp3GNZ7rU35auXxPVn0CkASNGfqiWI8OZvA3PCukuSU0CWr1lLKmtSaymG6yUAX1sHrx9klfMOHZL5kqpXMUPpCRA7DAqHBiSK4c1gOyCdzZwZCWx8/s1600/Zoo%20moo.png" group-title="Kids",Zoo Moo (Samsung)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -1828,6 +1833,10 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMC80G1E9Gxtdj5a2JeS0IIVn2blOHRIaY-T-TvVx5g0OyoQ4HcuvPf-vTTI-oPLqmMlcFFSqXrbq5GeGokYq_CAKhz7EeW4WZ-xEJikPoUPrgQC7qjcla1OUeN8UVsqTwZgFM0KZPkkNJB9ILQWCuZ0tQ6ZMHjG7Mhw844YiUml38UML0nRADs82pl5DD/s1600/HBORed.png" group-title="Film TV",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPST8fRg9QY5oDd1IOZ2yLAercd10licPKWM1IoiD8dMJzduZ-c-04bMCTHCqTbrJwInim7HgMLZ9dCyxXypiQ66DkejCS7NliUoDGMwhlFahrvpYAzn_3ljHGnZXOc1HcMOBgWMrr8fiNBaLD3hQltAdDheOOPxzlIKsuk2KfKCgqsnAaCv1rzhOiNiZ/s1600/Warner_Bros._Television_2023_%28Alt%29.png" group-title="Film TV",Warner Bross TV
+#https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd_video_1_5_35292333.mp4?m=1725696893
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvgqpjCFvlZTCJmi_MQgd9cmYoddQP1Cwz61ynZivvHLvHkEC4N0vd7tzjR2VGGrP152QSZMiEKZ2jwxU90cWYC8ix9LpATNHHTfdxEgAZx7b9gTAscjf0Zp4zqVp3TDgzLW8xhtM-XMhKo7sX7ELvDjXraWWk2OeqCT4utDJBjlqT202BYSFzN3pkBX9/s1600/HauntTV.png" group-title="Film TV",TWD Universe | Vizio (AMC)
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
 
@@ -2332,174 +2341,6 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
