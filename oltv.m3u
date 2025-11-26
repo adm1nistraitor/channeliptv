@@ -603,7 +603,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMieZRWTo8AfVtk_iqdS2EiChSfqXqDNll9z3ghpnzwO6ymFMIlHTkoLNwhBwfAb_m1y3ZM7pttQytNwK2QWdZ2wt_VZxCdZOtWbLYD8MKbb1Mbw8j0vVHz4iLslaefsEef7XPrTwccK9G_9g-C49FYBsNVAJOD15xeGNLiAmI7JiuY32GcOp7C3hYB0hY/s1600/SindonewsTV.png" group-title="Indonesia TV",SINDONEWS TV (IH)
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzBs9k2vFkUqNijWq3X3i9rawJlNrpmRFgx8L3hhQH7nl2N5PifNc6-uCviCBzcUEazmlDpRSJ_iT-2aF2XzUAwbxmvE7YsldlAD1zUE_otkO2eVvaucu1Z_D7c0ZHbAPntpfQ4SeCsyLz00OgV_6K_sjb6jRYv-9B1kxnqpHXgw52tAGoLuk81P9ecG8/s1600/Logo_GarudaTV_Primer_Flat_2025.png" group-title="Indonesia TV",Garuda TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzBs9k2vFkUqNijWq3X3i9rawJlNrpmRFgx8L3hhQH7nl2N5PifNc6-uCviCBzcUEazmlDpRSJ_iT-2aF2XzUAwbxmvE7YsldlAD1zUE_otkO2eVvaucu1Z_D7c0ZHbAPntpfQ4SeCsyLz00OgV_6K_sjb6jRYv-9B1kxnqpHXgw52tAGoLuk81P9ecG8/s1600/Logo_GarudaTV_Primer_Flat_2025.png" group-title="Indonesia TV",GARUDA TV
 #https://cdn.garuda.tv/garudatvlivestreaming/720p.m3u8
 #https://flv.intechmedia.net/live/ch62.m3u8
 #http://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
@@ -681,9 +681,6 @@ http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 #https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcmPzQFtwg8GDAC01kv__etzWDqewkOFWGpkmgr4iwChKhU6qyYM5eflp6Daw73iqNKUK6Ms46CUT6WB6fVk3gBXaCmIF4H-P-ysJmrEubpx5dlZo-rhw54SU7NSkTVsdkSn1Fz256cM78eRo-FlIRHKobvg_glwX8L7_f32nww_t8QVfBqVB4Hl4rrw40/s1600/Logo_Tegar_TV_Lmpng.png" group-title="TV Lokal",TEGAR TV Lampung
-https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYFTaZOBG4-L-N_UGGYyxEYBymoRBDg-ELGboFUjT26WyXCkmiWRU7W4EONGIWwu8ccgfhTuOLoSHsNSEtAQqjBqMjQOrDNUwQ1pSpYK7Jb4E5uIpCJH5SfZmIHJUMMEyRVFkQOa9qcayBbezY-wmbCDseHW62orpiRpTbgnyqd1yu0OPwl5bITTjyH9Mh/s1600/Bungo_TV.png" group-title="TV Lokal",Bungo TV Jambi
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
@@ -702,6 +699,9 @@ https://v3.siar.us/paltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiozDvcowxfAU7wJi6xHOagmfA-xTUCw19LVAduo2PrzXUPsEvbcYIoCC3kxQQsiUssmz20WAvKSy_fwEyGk4L4VN4mU69AIWq4QAGbesZ0SLBkRV4oChIifCQXQmADfQY-HkaJimkeZzQpKbfEsEnZV1rmKcgswMfbezEXWvsK61zjTTS7sV27PZVsqhTM/s1600/Sriwijaya_tv_logo_2006.png" group-title="TV Lokal",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcmPzQFtwg8GDAC01kv__etzWDqewkOFWGpkmgr4iwChKhU6qyYM5eflp6Daw73iqNKUK6Ms46CUT6WB6fVk3gBXaCmIF4H-P-ysJmrEubpx5dlZo-rhw54SU7NSkTVsdkSn1Fz256cM78eRo-FlIRHKobvg_glwX8L7_f32nww_t8QVfBqVB4Hl4rrw40/s1600/Logo_Tegar_TV_Lmpng.png" group-title="TV Lokal",TEGAR TV (Lampung)
+https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLy1JGjEkgfgp8FLLWX-t-JT0W9WzwUvqR2TkxoK9PZ-0gE0kcYdsjwcr-Io8o8sZ0MrpvUg81BIrLMhSG1NsAojAjZnx7imZsR5O3NZJoZIWsRVyVw5zfWPRlxAKmvZGfcPi_wH0ANQtAHMtZBMJPS7uhhp0Rm6tl5AMur7aNbL6juOb5dpbCjtRFdUq7/s1600/Logo_Duta_TV.png" group-title="TV Lokal",Duta TV (Bali)
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
@@ -778,7 +778,7 @@ http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxGzzCG36HNthm5ktO8fW7Q0ZCsb4BdbG2Nfso4LktiMjoLIquZC54_B7bW0_icR16OgYq8pxf0ijCP0dpJU6hUvcl8v0SkeKG2Ku3ix-1-SFhQkEe1puQxeil81dSnGjqcvv-swwufsyh3txbwoerwguQOjUWWGYTDYQ_ybsOlbPDjUGHteSDNNmETgS/s1600/TATV.png" group-title="TV Lokal",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZx3AInoFrAl6qImU_G7_dRuTJdwUxXRx4pXe3JxlWgWJ0D527gvu-L0UoA6efAat_oEFmTt_TdzlUtphxl2v7BHzOf6UhK1wF1OQqMFv5DFOFD1eWWaD02eYel8Iav6FTKT_kp9Pmk-hVP0fe6xskdpSoBuYsvwpsbVOkM3UMOYcIJ2kTnzg4BhSq7g42/s1600/PONTV.png" group-title="TV Lokal",Pon TV (Pontianak)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZx3AInoFrAl6qImU_G7_dRuTJdwUxXRx4pXe3JxlWgWJ0D527gvu-L0UoA6efAat_oEFmTt_TdzlUtphxl2v7BHzOf6UhK1wF1OQqMFv5DFOFD1eWWaD02eYel8Iav6FTKT_kp9Pmk-hVP0fe6xskdpSoBuYsvwpsbVOkM3UMOYcIJ2kTnzg4BhSq7g42/s1600/PONTV.png" group-title="TV Lokal",PON TV (Pontianak)
 https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmuvifZpVIWxl09jc-RGBfvQnxLR8jO-N8n_8CbyKWB15cSbMAYaKgHvF4dbBXK6_oQ4Edg1V_Ozhyphenhypheng5KTu9qNEqFqTS7GG4FOaVEXNt4sosiVyXyN4BmQqiGLT0cBfVz8D_1D1QC0utqnoLzrX8hGJTBIPqDZljMkeR9lZdkERUhry3dUu5Lu81VWrKN/s1600/Padang_TV_2007.png" group-title="TV Lokal",Padang TV
@@ -2491,6 +2491,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
