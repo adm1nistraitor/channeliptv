@@ -1006,6 +1006,10 @@ https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSTIQSUAnF9vYIIvq8E4pupQOxlI4DdiJjjSBWUSh7M55GJwSNWzbaRTuIyKAI-ziDWl9Qr3SDOiN6B0T-Ugn_xrGeCMJGKMslVch3zjBCyF4fqNkahr3OjCs07qCDAz-FmH8fhE5DW7hrC5ZpYnK5xcJdBvmcnKsESPDxeIhDBBGzWYsRQk3EGQoXKJVl/s1600/Mta-TV.png" group-title="RELIGI", MTATV
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSOyJANDz_mQJUHTY9VLpDW-bg-ZFMSK0Aoq3dHndn1YCSrZSQwpChAGoZfNeOtrakwhusDBOPU1ovLMt27o4JcfgfWVCLQ6N5lzbTlcFIoL4rKoEGRo0r-m9k8D6DJCtbG7ySr0k7mb5jxi79eoFMLMGJQ1Vw9Y1Fr8Nh9TL6Leu9I4ZlSvdbZRDwxAjV/s1600/TawafTV.png" group-title="RELIGI", TAWAF TV
+#https://cdngb196.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
 
 
 ######NEIGHBOUR######
@@ -2502,6 +2506,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
