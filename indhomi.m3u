@@ -7,7 +7,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 #EXTINF:-1,Bali TV
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
-#EXTINF:-1,Daai TV
+#EXTINF:-1,Daai TV joss
 https://cdn10jtedge.indihometv.com/joss/DASH/daaitv/manifest.mpd
 #EXTINF:-1,FunPlanet TV 
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
@@ -184,6 +184,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/fightsport/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/beib1/manifest.mpd
 #EXTINF:-1,SPOTV2
 https://cdn10jtedge.indihometv.com/atm/DASH/beib2/manifest.mpd
+
 
 
 
