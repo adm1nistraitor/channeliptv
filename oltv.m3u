@@ -578,7 +578,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh034jeaLXELEFEMA2_rOqCspTwNv201-T1gWKOxcmgkRpHk9OkWEANf7xWwaQdp9nFc615K0p-s8tadwS4DiZZTVCzJmhjH8hNpApcWswZcV6PebOswkQw7vf0o51-05TP78B2AAsyjNvkd6ctbuG3vPcTRHk6Z8x1e8lCbtyBvGRAhlUg5ia0vcNljWzS/s1600/Magnatv.gif"  group-title="Indonesia TV",MAGNA Channel 2
-#https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYI1vglc8Ao4G36iKURMwb1Dvy5uRKmdzAtuEsvDgcDE7XfIxGosZI8lpOY7KHq39btWdT9w67L_fYMq3-m0jJgLcOieExNKtv375Wl8MrYkxsMwQtyNyqOtPArAhKHyKiDzRhIUajvrer7W_JltXfZl_M18KT6P0z3kjy2VyYZdjlOvWiPZiFmFjeSU6O/s1600/Nusantara_TV.png"  group-title="Indonesia TV",NUSANTARA TV
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYI1vglc8Ao4G36iKURMwb1Dvy5uRKmdzAtuEsvDgcDE7XfIxGosZI8lpOY7KHq39btWdT9w67L_fYMq3-m0jJgLcOieExNKtv375Wl8MrYkxsMwQtyNyqOtPArAhKHyKiDzRhIUajvrer7W_JltXfZl_M18KT6P0z3kjy2VyYZdjlOvWiPZiFmFjeSU6O/s1600/Nusantara_TV.png"  group-title="Indonesia TV",NUSANTARA TV
@@ -2509,6 +2511,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
