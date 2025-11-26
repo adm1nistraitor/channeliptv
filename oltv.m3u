@@ -945,6 +945,10 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQC62wGWjfa6q9d4qTrbD0hyphenhyphenHASXaD7MtbfW3zr4_V7ka2wJpgSIWOZJwx9CgZ5fe1ADyT_N2eMHolQg-otFW7_ysAvY0CK2DKGxWdvuw1teQ0KeEXvrkyGzOpF9NBFHYgOp6npTqxUIZcCOtLUSj2g2ZhchWhzu336eGm69YvUUtITdZo-3-l1vG8OgvT/s1600/Assunah-Anabawi.png" group-title="RELIGI", ASSUNAH ANABAWI
+https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+#http://210.210.155.37/x6bnqe/s/s27/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF7aLtmllvKnt2j1tCaYbTnRiAkYXgnTyPnld0rmtNJMP2cJYdooq_zKWP6sPaxlJqAXvHNNmHpUV0tHID-1nMErWJ-gblwGXxofjPfYg-QyaLWL0fPXb7Cw_MX5KG-b93RFRBF0UhftmXkXL5rGjWq-ZnJ14ounWpH8ZwEhc0Od265JxuK_BwDaMmvYki/s1600/Iqraa_TV_Logo.png" group-title="Religi",Iqra TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
@@ -2498,6 +2502,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
