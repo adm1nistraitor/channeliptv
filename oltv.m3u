@@ -941,6 +941,10 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 ######RELIGI######
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio1gEPhV9MtKv5eRem4j9rz3Vb-lw511WBlyDTw74Uz1_Omt82_p5sD_KgcjPJMV9XDw5Mwy2nOeneVYhnya7MzWLARCghsdjI9zIow-4JoXiFOK1D5SpzGR4GQnKCyBTmugLk4WLCdpv5Lq4Uswvv04ojsW8NRw1svzQC1QU3Ua2dWk3Ayw7J8jhGzClP/s1600/Alquran-Kareem.png" group-title="Religi", Al-Quran Kareem
+#https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF7aLtmllvKnt2j1tCaYbTnRiAkYXgnTyPnld0rmtNJMP2cJYdooq_zKWP6sPaxlJqAXvHNNmHpUV0tHID-1nMErWJ-gblwGXxofjPfYg-QyaLWL0fPXb7Cw_MX5KG-b93RFRBF0UhftmXkXL5rGjWq-ZnJ14ounWpH8ZwEhc0Od265JxuK_BwDaMmvYki/s1600/Iqraa_TV_Logo.png" group-title="Religi",Iqra TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
@@ -994,6 +998,9 @@ https://mui.siar.us/mui/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-jSzWij1qIYtOniYQLUOrKBTDwPAKpyoHmzov8L6OAjPhZ18LXJHvpv5Lb6h7h0cNOHc9Kk8_AWLy8O7Ofa0f4ydPEv3JGAik3DzaHbkv3w-gD41jwT4brgCZdsCs6PMLOJOSOYA6eSWfKV8aBUQ9Yyn8qlNUc0PJvofeTYKoWMsanPxXNG0LE0bsez_/s1600/TVMuh.png" group-title="Religi",TV Muhammadiyah
 https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSTIQSUAnF9vYIIvq8E4pupQOxlI4DdiJjjSBWUSh7M55GJwSNWzbaRTuIyKAI-ziDWl9Qr3SDOiN6B0T-Ugn_xrGeCMJGKMslVch3zjBCyF4fqNkahr3OjCs07qCDAz-FmH8fhE5DW7hrC5ZpYnK5xcJdBvmcnKsESPDxeIhDBBGzWYsRQk3EGQoXKJVl/s1600/Mta-TV.png" group-title="RELIGI", MTATV
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 
 
@@ -2491,6 +2498,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
