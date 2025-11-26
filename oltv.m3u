@@ -695,7 +695,10 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/chunklist_w2003386219.m3u
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA2FmoxhB4561fmqRCwDr8HT35AGQJ5MY7r7Rjj6Wf-Cl6KDUCP5kpMFVF2XfYySNHNJMeY9AcuwMxNYrrzrajJ9CFwWE665LSqQISKk-sl22bYR3wMlcJgqEkHD8zHavIF4rnBOH4GFiZ_6X1CVLACpF6ofxpwwGO3eg282H1NljwqB672lLPaa4YBfYl/s1600/PalTV_Palembang.png" group-title="TV Lokal",PAL TV
 #https://paltv.siar.us/live/paltv.m3u8
-https://v3.siar.us/paltv/live/playlist.m3u8
+#https://v3.siar.us/paltv/live/playlist.m3u8
+#https://e.siar.us/live/paltv.m3u8
+https://paltv.siar.us/paltv/live/playlist.m3u8
+#https://re1.siar.us/paltv/hd720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiozDvcowxfAU7wJi6xHOagmfA-xTUCw19LVAduo2PrzXUPsEvbcYIoCC3kxQQsiUssmz20WAvKSy_fwEyGk4L4VN4mU69AIWq4QAGbesZ0SLBkRV4oChIifCQXQmADfQY-HkaJimkeZzQpKbfEsEnZV1rmKcgswMfbezEXWvsK61zjTTS7sV27PZVsqhTM/s1600/Sriwijaya_tv_logo_2006.png" group-title="TV Lokal",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
@@ -2506,6 +2509,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
