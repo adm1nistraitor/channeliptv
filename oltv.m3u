@@ -1469,7 +1469,7 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvgdjtJX8aDklpXVAwykP-YP_fa05c5NKCqPrE0PsJ-7lobHpgd98dw0GQbmr5WNY0rWDGKqHqrOGNNq2Xuewy0IH0Dsp_DmXyAvhp_p36aQblY5Mjpe2Ph93ln5v4fe7DjuCuMxDa1JkThikXjgAeZ5KFqHd3eSZ7dUvfPZE8o2DM_7wWVoxuZjKg3jx3/s1600/ABC_Entertains_logo.png" group-title="International",ABC Entertainment
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifJ2oy7UFpuZPVXdOMgRd81_wvgKA0k2fAwGgkyXT32ZtQzUKBz0jO2xhGwZrho6ZEsji8YePjxrk6EfOHMjKcIsZAqILfVZjO2fOPyWcwxq2jz3plXjVZ0L7fK5NCPxVOg2fni-hcags73ToJUl4yNRwNoFdIGvPlKnuCI59t4qVjZy6fHSipfr5Qy5rv/s1600/SEA%20Today.png" group-title="International",SEA TODAY (IH)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifJ2oy7UFpuZPVXdOMgRd81_wvgKA0k2fAwGgkyXT32ZtQzUKBz0jO2xhGwZrho6ZEsji8YePjxrk6EfOHMjKcIsZAqILfVZjO2fOPyWcwxq2jz3plXjVZ0L7fK5NCPxVOg2fni-hcags73ToJUl4yNRwNoFdIGvPlKnuCI59t4qVjZy6fHSipfr5Qy5rv/s1600/SEA%20Today.png" group-title="International",SEA Today (IH)
 https://cdn10jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPHyXZeydOigwL1swynlwyKTT67bQNDnDmep9gtW0V6igwxYK4Ylg5qiKerQZts4-heyTMGQHJPYm84nK6PYXeJTgic4O-j3fTz-FMsM3iKXvuE-k2VRzDuqGu-0E_0PgGneKMO3eX-Kxcq9mg9YZloPr1g_J7ieP9wN1BQ3bZBuRIB8ypB1MT3xHBU58C/s1600/ABC-News-Logo-2007.png" group-title="International",ABC News Live
@@ -2511,6 +2511,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
