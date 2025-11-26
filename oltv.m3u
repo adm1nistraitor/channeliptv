@@ -950,7 +950,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQC62wGWjfa6q9d4qTrbD0hyphenhyphenHASXaD7MtbfW3zr4_V7ka2wJpgSIWOZJwx9CgZ5fe1ADyT_N2eMHolQg-otFW7_ysAvY0CK2DKGxWdvuw1teQ0KeEXvrkyGzOpF9NBFHYgOp6npTqxUIZcCOtLUSj2g2ZhchWhzu336eGm69YvUUtITdZo-3-l1vG8OgvT/s1600/Assunah-Anabawi.png" group-title="RELIGI", ASSUNAH ANABAWI
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQC62wGWjfa6q9d4qTrbD0hyphenhyphenHASXaD7MtbfW3zr4_V7ka2wJpgSIWOZJwx9CgZ5fe1ADyT_N2eMHolQg-otFW7_ysAvY0CK2DKGxWdvuw1teQ0KeEXvrkyGzOpF9NBFHYgOp6npTqxUIZcCOtLUSj2g2ZhchWhzu336eGm69YvUUtITdZo-3-l1vG8OgvT/s1600/Assunah-Anabawi.png" group-title="Religi", ASSUNAH ANABAWI
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 #http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 
@@ -1008,10 +1008,10 @@ https://mui.siar.us/mui/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-jSzWij1qIYtOniYQLUOrKBTDwPAKpyoHmzov8L6OAjPhZ18LXJHvpv5Lb6h7h0cNOHc9Kk8_AWLy8O7Ofa0f4ydPEv3JGAik3DzaHbkv3w-gD41jwT4brgCZdsCs6PMLOJOSOYA6eSWfKV8aBUQ9Yyn8qlNUc0PJvofeTYKoWMsanPxXNG0LE0bsez_/s1600/TVMuh.png" group-title="Religi",TV Muhammadiyah
 https://e.siar.us/live/tvmu.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSTIQSUAnF9vYIIvq8E4pupQOxlI4DdiJjjSBWUSh7M55GJwSNWzbaRTuIyKAI-ziDWl9Qr3SDOiN6B0T-Ugn_xrGeCMJGKMslVch3zjBCyF4fqNkahr3OjCs07qCDAz-FmH8fhE5DW7hrC5ZpYnK5xcJdBvmcnKsESPDxeIhDBBGzWYsRQk3EGQoXKJVl/s1600/Mta-TV.png" group-title="RELIGI", MTATV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSTIQSUAnF9vYIIvq8E4pupQOxlI4DdiJjjSBWUSh7M55GJwSNWzbaRTuIyKAI-ziDWl9Qr3SDOiN6B0T-Ugn_xrGeCMJGKMslVch3zjBCyF4fqNkahr3OjCs07qCDAz-FmH8fhE5DW7hrC5ZpYnK5xcJdBvmcnKsESPDxeIhDBBGzWYsRQk3EGQoXKJVl/s1600/Mta-TV.png" group-title="Religi", MTATV
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSOyJANDz_mQJUHTY9VLpDW-bg-ZFMSK0Aoq3dHndn1YCSrZSQwpChAGoZfNeOtrakwhusDBOPU1ovLMt27o4JcfgfWVCLQ6N5lzbTlcFIoL4rKoEGRo0r-m9k8D6DJCtbG7ySr0k7mb5jxi79eoFMLMGJQ1Vw9Y1Fr8Nh9TL6Leu9I4ZlSvdbZRDwxAjV/s1600/TawafTV.png" group-title="RELIGI", TAWAF TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSOyJANDz_mQJUHTY9VLpDW-bg-ZFMSK0Aoq3dHndn1YCSrZSQwpChAGoZfNeOtrakwhusDBOPU1ovLMt27o4JcfgfWVCLQ6N5lzbTlcFIoL4rKoEGRo0r-m9k8D6DJCtbG7ySr0k7mb5jxi79eoFMLMGJQ1Vw9Y1Fr8Nh9TL6Leu9I4ZlSvdbZRDwxAjV/s1600/TawafTV.png" group-title="Religi", TAWAF TV
 #https://cdngb196.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 
@@ -2511,6 +2511,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
