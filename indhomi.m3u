@@ -184,6 +184,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/fightsport/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/beib1/manifest.mpd
 #EXTINF:-1,SPOTV2
 https://cdn10jtedge.indihometv.com/atm/DASH/beib2/manifest.mpd
+#EXTINF:-1,Curiosity
+https://cdn10jtedge.indihometv.com/atm/DASH/curiosity/manifest.mpd
+
 
 
 
