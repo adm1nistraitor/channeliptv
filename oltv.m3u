@@ -648,6 +648,11 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 #http://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3eg9TZO1e18_4XtNo3BwfOL0K71XWuIgb6FvsmFO3WabIt4buHHxy_11EjKVWj9cVOCiJmIZDM7394kDmrAXiBHS4jwh1zBMDZrCVA3PZmstPH_pXKIfnA3XxVoI7_ED-M4EUc2NSkO6bSwE9tV7JAO0Fjdzarr_ZsLY9Slc5Cw43cmS7Eq-vLMpZfVAg/s1600/Sin_Po_TV.png" group-title="Indonesia TV",SINPO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGJ66K0yCobNcF6_LdiGjvZllbtvMmfHFeAjRYOU-Qd7ce9dXDv9NBcrS1jJYjfGUx-MNNrdGUBc9_AFZ6Hu9ZZbE7SZWECVyleZDICPDZwCekOIeDjyP3OOPTRytNHSON_l4WWyRThiRPUy4iD6tfw8I-mPJgnPUpvnhLZTjoeDyHWODWHn_twn2FIjO/s1600/Jakarta_globe_news_channel_id.png" group-title="Indonesia TV",Jakarta Globe
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/hvideo-960x480.m3u8
 
@@ -839,6 +844,10 @@ https://flv.intechmedia.net/live/ch52.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9Sr2dbVSHnMccRIyFcR81l1aCPZVWpvlM140tUMOA4lu84J-9HZ0dApHMzTfPbk454yTuKTbTuucI6LTucPhCBw0eBEHH2WcvfADCddDrQEOzpl_tKdcQ4NUco3vKpd0oZ40_EqTpwGF8pkLsAN_vT3_t3VOntYhpaCMGc7WCBPrIIukiUxxL_qnY8GS/s1600/PrimaTV.png" group-title="TV Lokal", Prima TV
 https://primatv.siar.us/primatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfu5_93uo96pmPt5N9Y6wTdMDNpQWsGTtA88E_bkYhdvkIhg9_vw9GMpvKT_Jnp0iGldxDC9-OeqYuvp3ZltKUtS55dOM7c80ARGQDVJ73sZVgbpCQNZgvvknH_siQexiEJomtVkAe9JkxY-sIVshV7lKex1k8oPfbyPPxdGH9hLY3UNUl5n6rGTxky5v/s1600/Logo_Agropolitan_TV_2022.png" group-title="TV Lokal",ATV
+https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+
 
 
 
@@ -1103,6 +1112,20 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxO5_X0jF4Eenc7P0WHIh0SLVRfj5DHvKHbIVsEotVcxTevruTQnuX45uzNG_cOfb38zbXeYmFloYFfqmI2gx4GIiG0fNKRGQErdKKBOhP8qEHVT6ac2nDLu3Ve8qCgjCNaBtrx1mACdKv7njG8LnCV4Gjdxro4-fTmdZkjviScHkRrwlo0NdCNEQXhYN/s1600/SNAP_CHANNEL.png" group-title="TV Jiran",SNAP (Malaysia)
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgialnRT88ldZnr9u2BOMxm9Wo4ZYcPp9nl7DvmeueVeEjIbgByz5PkGGJbF8ckgwy4RQQbvqbUijJe2873tOu7iJnTgzbbfm2gZYNucp9pTpidsMKKaWP6nbA2Kah9ylnFX1OaOrmjY2a35T_e4yKSOVByeCcCyyj3oUjvUotvjIwnGBaihgZP1pdg4d80/s1600/Mediacorp_Suria_2023.png" group-title="TV Jiran",SURIA (Singapore)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJMLLLLItNU_oPz_IVD1a6cSaQ4B4pfqPdWqpppNeTCOLifOxJG_2GHKhskEpuqlBk5cHypjHLH9VKYvk6ce81G9UanZBKdJ-QL18nHxH4ghtvJDJscTvQiZKcgk9YTXORSlaceJB1nEGJ8KEMUsmdxlzzkAy300cocAd3v8aXGSKCGYyGcKnIuen1hoRA/s1600/Mediacorp_flat_logo_%282015%29.png" group-title="TV Jiran",Mediacorp Ent. English (Singapore)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJMLLLLItNU_oPz_IVD1a6cSaQ4B4pfqPdWqpppNeTCOLifOxJG_2GHKhskEpuqlBk5cHypjHLH9VKYvk6ce81G9UanZBKdJ-QL18nHxH4ghtvJDJscTvQiZKcgk9YTXORSlaceJB1nEGJ8KEMUsmdxlzzkAy300cocAd3v8aXGSKCGYyGcKnIuen1hoRA/s1600/Mediacorp_flat_logo_%282015%29.png" group-title="TV Jiran",Mediacorp Ent. Tamil (Singapore)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJMLLLLItNU_oPz_IVD1a6cSaQ4B4pfqPdWqpppNeTCOLifOxJG_2GHKhskEpuqlBk5cHypjHLH9VKYvk6ce81G9UanZBKdJ-QL18nHxH4ghtvJDJscTvQiZKcgk9YTXORSlaceJB1nEGJ8KEMUsmdxlzzkAy300cocAd3v8aXGSKCGYyGcKnIuen1hoRA/s1600/Mediacorp_flat_logo_%282015%29.png" group-title="TV Jiran",Mediacorp Ent. China (Singapore)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+
 
 
 
@@ -1251,14 +1274,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 ####### KIDS #######
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJIv1V4fPPsVzELisMuzttOLeZ1-tRC3LcXZiXIy3hN8QYbjLUSy2quK-VlCn6jMA3kGiRcCVan_LMAKbhO8p03Jdo5hXokYHmD7pi3rDyDGd9FvAwmLE2bl6oSOaB-LO_jmfkeqrijQ1vKSzG3xlr9iyDQ2o8GvLfg57pqnNVI9XObR17H0rCZPtA2Cj/s1600/Mentari_TV.png"  group-title="Kids",Mentari TV
-#https://popmi.my.id/tes.m3u8?id=8237
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0gyIeSCQMMPZN3JtujLbUbIW4ZfA_Ri9A-3KGTlj_yNArUfawfeyStaXl4UNLynw-5Cupu2lPnWr8GEUzjlWpmLLXGq5uOAnu_9py4jLXKxknYgI5GLrMmAPdacXRbfBQkmhk0CuMGzoxG5JYSCgEM4OdsZL7uf78CJeEzEpJAoLO2tbP4L-PVRqhw_tC/s1600/VTV_Indonesia_red.png"  group-title="Kids",VTV
-https://flv.intechmedia.net/live/ch107.m3u8
-#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7jbpZ_DGj10PqOma6pgAqASsqDDH67gzK7NWsq97uh-j4GFFAvLDRUtm5FFapXBBDI6YbF5-ZLxJYGl8l63GxKsltHO5ZYh_apae5uHHEaRWo3MrevIrrTVYHhCQf904eTCloR6WPnVGeCAnUnWGJC9R-plBnFoZcN9iHW_kcatw4QY_aleTQIdiTbTC/s1600/camp-spoopy-2021_1920-x-1080_option-5.jpg" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 
@@ -1266,6 +1281,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJIv1V4fPPsVzELisMuzttOLeZ1-tRC3LcXZiXIy3hN8QYbjLUSy2quK-VlCn6jMA3kGiRcCVan_LMAKbhO8p03Jdo5hXokYHmD7pi3rDyDGd9FvAwmLE2bl6oSOaB-LO_jmfkeqrijQ1vKSzG3xlr9iyDQ2o8GvLfg57pqnNVI9XObR17H0rCZPtA2Cj/s1600/Mentari_TV.png"  group-title="Kids",Mentari TV
+#https://popmi.my.id/tes.m3u8?id=8237
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0gyIeSCQMMPZN3JtujLbUbIW4ZfA_Ri9A-3KGTlj_yNArUfawfeyStaXl4UNLynw-5Cupu2lPnWr8GEUzjlWpmLLXGq5uOAnu_9py4jLXKxknYgI5GLrMmAPdacXRbfBQkmhk0CuMGzoxG5JYSCgEM4OdsZL7uf78CJeEzEpJAoLO2tbP4L-PVRqhw_tC/s1600/VTV_Indonesia_red.png"  group-title="Kids",VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png" group-title="Kids", BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
@@ -1285,25 +1308,25 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png" group-title="Kids", NICKELODEON
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png" group-title="Kids", NICKELODEON (Pluto)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgzM8SVzGpK0xMyhyevt9vHg6TC1QL0X4cn5hBHRI1kc8NjZ2uUO1unr4twXfd-2AmFcB1hs33nZYuxy8EanAefF31ApQDe8LIXgSGGANEf680vsJFOU3wuGmQ346YPGDMvuSAQFF0FOB52hy1SpDpnyk-qb08FsOimtARjfXYTvDRwHZGSvmZ3o5f7x0/s1600/Nicktoons_2023_Outlined_Logo.png" group-title="Kids", NICK TOONS
 http://143.244.60.30/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsmC5wiG8PSv5H3S6kdq8B5ok9Uzy1-Wwa5e7toBj9cDD32Don_v3niQ_4PSqLV1UfdfqNEqTvplQu9vIxnWXk8TjJR5KBsPthusM5TEboqdILEVc1U8QIC5eYjPt47W0yDUH-QZewyW6NLXiC6ckZjEwh2rDn6w9n-yG9TerW44uGxTfm7m6Nd3XFv8ju/s1600/Nick_Jr._logo_2023.svg.png" group-title="Kids", Pluto TV NICK JUNIOR
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsmC5wiG8PSv5H3S6kdq8B5ok9Uzy1-Wwa5e7toBj9cDD32Don_v3niQ_4PSqLV1UfdfqNEqTvplQu9vIxnWXk8TjJR5KBsPthusM5TEboqdILEVc1U8QIC5eYjPt47W0yDUH-QZewyW6NLXiC6ckZjEwh2rDn6w9n-yG9TerW44uGxTfm7m6Nd3XFv8ju/s1600/Nick_Jr._logo_2023.svg.png" group-title="Kids", TV NICK Jr (Pluto)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png" group-title="Kids", Pluto TV NICKELODEON
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSPLd228mThb0Br3R8uAfTrpRT_lOz0705vm_MLxev6QATe4nzAbbzqiFVqwAuEHrjq8pqgaXVXEWMqAh-46SKqrgQiqJUFztFFIxrLcsRK8PD6-zyHqDfQc6DEOh_Ocehy20XVpvsdBA54y8p1bRWdR6okKVEJo72jwmpd12TbHeQmGFYOH9FT3RNUyGO/s1600/Nickelodeon%20TOTALLY%20TURTLES.png" group-title="Kids",Nickelodeon TOTALLY TURTLES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUcXRhNbeuNATJ3zjj9PrPfrtsZAzjZS7QiVgJMH_tGP6U9Zy0LkNbGMYAnaoG6AsgzggE73ON4TVTf3pHx0UnZRYmKhvvEBU01ECYidlRlOpzvVFSNR3pcn1NwLY78vyrtlEUSnnbsLVzYnip3OaLFRI-v4Bo2opxocsdEeUUwLg6A7qxu1LSZCsM-8ox/s1600/Pluto%20TV%20After%20School%20Cartoons.png" group-title="Kids",Pluto TV After School Cartoons (720p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUcXRhNbeuNATJ3zjj9PrPfrtsZAzjZS7QiVgJMH_tGP6U9Zy0LkNbGMYAnaoG6AsgzggE73ON4TVTf3pHx0UnZRYmKhvvEBU01ECYidlRlOpzvVFSNR3pcn1NwLY78vyrtlEUSnnbsLVzYnip3OaLFRI-v4Bo2opxocsdEeUUwLg6A7qxu1LSZCsM-8ox/s1600/Pluto%20TV%20After%20School%20Cartoons.png" group-title="Kids",TV After School Cartoons (Pluto)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5vSZPu5lC7p8PBurkMoQlNXg0Tja1RkiZwCx_2fj3b8wQklDmrWO02c1DYNCcVuSxktEH-Vy5R6bwHt_3bnoS5cz9TLFll6EUVHVXNb7xEDh2MQA8-cuYkbfC9rqaHHG1NrpE-2oNpxZoIs0xQBnd0hMHYgNcrOBjro0VCuHI8cLk1OrKLwoWsGxdo_od/s1600/Pluto%20TV%20Anime%20All%20Day.png" group-title="Kids",Pluto TV Anime All Day (720p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5vSZPu5lC7p8PBurkMoQlNXg0Tja1RkiZwCx_2fj3b8wQklDmrWO02c1DYNCcVuSxktEH-Vy5R6bwHt_3bnoS5cz9TLFll6EUVHVXNb7xEDh2MQA8-cuYkbfC9rqaHHG1NrpE-2oNpxZoIs0xQBnd0hMHYgNcrOBjro0VCuHI8cLk1OrKLwoWsGxdo_od/s1600/Pluto%20TV%20Anime%20All%20Day.png" group-title="Kids",Anime All Day (Pluto)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnnr8b1I_WFWHL-0QD2UiK2RfRc0upRmAcGsuORZSWSlNajNTVpT_6IbrJIw4I9Ue3lPhsIKy7RbMcJkTopwEKx4Q1ras47y0PC4gvLkJBOOBzNr3HrFBeeGOEB_4tTm9RurDen7cmoz1ifjilANwloj3dBDJDB0iBdN0BpsqbhrlgSfTUOJzDNFJ9MMoY/s1600/Peppa%20Pig%20TV.png" group-title="Kids",Pluto Nickelodeon Peppa Pig TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnnr8b1I_WFWHL-0QD2UiK2RfRc0upRmAcGsuORZSWSlNajNTVpT_6IbrJIw4I9Ue3lPhsIKy7RbMcJkTopwEKx4Q1ras47y0PC4gvLkJBOOBzNr3HrFBeeGOEB_4tTm9RurDen7cmoz1ifjilANwloj3dBDJDB0iBdN0BpsqbhrlgSfTUOJzDNFJ9MMoY/s1600/Peppa%20Pig%20TV.png" group-title="Kids",Nickelodeon Peppa Pig TV (Pluto )
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiga_aTAT3bMept2RZfTjvaEZp68WIDK2vboSBWzS6mJ-sobCRouVdwj9WuD3rfAipHF7WnCC3dAbDOHTkBWs7ceNoRbi9HjfAKZWIKuR-_zEZG6RnV_FUFJMdnWcERJFcqqQDuroORj0RRjwKkvQ0CkFUBVJ4MNoCNgFXbHvd6v1U7m4K0WdCxP10S9WS1/s1600/Toonmax_TV.png" group-title="Kids",Toon Max
@@ -1315,7 +1338,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w15875
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDeKPTQ4Xmku4-RmcvNJMA-8wZDy34K8Otj8HrXH2yuVUSbHalKw_1eBZiA81Ga-EgLDy_6-IY70Jp3GNZ7rU35auXxPVn0CkASNGfqiWI8OZvA3PCukuSU0CWr1lLKmtSaymG6yUAX1sHrx9klfMOHZL5kqpXMUPpCRA7DAqHBiSK4c1gOyCdzZwZCWx8/s1600/Zoo%20moo.png" group-title="Kids",Zoo Moo (Samsung)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzQeCAR04M2EwW6_WaJ8ivBH8M0Fs-AEZYvorIOyGkBOyCxqu8FeubuZuvgoYMCr7uJxuXzTULKpltjIwxYdFPMKOC9bomEnok-MrxhyjNapIO8GlQdTV22PTElb08LGkNPR7vSrRWN-8_DK2prnUoY2xw3jBCQfbyDW8GOrHsPwTzzs-ZBMLsg1dXXRey/s1600/ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids",Zoo Moo (Australia) (1080p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzQeCAR04M2EwW6_WaJ8ivBH8M0Fs-AEZYvorIOyGkBOyCxqu8FeubuZuvgoYMCr7uJxuXzTULKpltjIwxYdFPMKOC9bomEnok-MrxhyjNapIO8GlQdTV22PTElb08LGkNPR7vSrRWN-8_DK2prnUoY2xw3jBCQfbyDW8GOrHsPwTzzs-ZBMLsg1dXXRey/s1600/ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids",Zoo Moo (Australia)
 https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP5akCck-RVCj6KuFNx3bQK64d0fELBDAlQQ45UlRJvkDM6-rgVD3i11lXFrf4jb433X990qOMHFaBBADnDnuL1v-wK5r3vcZKPVxY1eO5PEBEOqwXFqoOiQSiRF5JhyphenhyphenLur8FzBgw8T0cNNiQdJ0-RofB17N2hyoesfyAmh6utvCW0LQP4KNKoEx00V_Nq/s1600/EBS-kids.png" group-title="Kids",EBS Kids
@@ -1369,6 +1392,19 @@ http://210.210.155.35/dr9445/h/h144/index10.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCV61k60yepJFy4mkEGJebGjXt0HJ2OTalQ3Q-KvK8wMJs9GROf8qEYmwTSUPRuqdNaIbxOnwame9vc2TbxXdfXwYSwDq2SP57Dw1QBwaLIrPJOgO1_VXnDGCee7mFZzSFq1ItZUtOIaYofohzVXluqvw9a_SQEa22vC18GBCxTqrvcXG-g-R2D3G1b8s/s1600/Disney-Channel.png" group-title="Kids", DISNEY CHANNEL
+#http://38.96.178.201:80/live/Disney/index.m3u8
+#http://212.102.60.231/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2303
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSa5zMnBsEYh1Dt-WdVRWAGqxg5u8otQuRgoTwQw7xP8BS87Szyiwnu5QPijD0Fwjbr7qGh2RxEvN8hZbrajAqsE0bDZqYATRkSAQsL9iEXs4MUyJqaC-Ow1diXxMoELDuI8Eu9852Fd_y-Fin18zf6bIE4ECFm0DATpGXzQr5dvrSOnd7aMC30xxoCGLJ/s1600/Disney-Jr.png" group-title="Kids", DISNEY Jr
+#http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8608
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZIR7HSFvLNYYpVbv8ye733UUhJuH86Uh20Xnuym5QGwvofpBYgKPZpUcmHuaorpcd0EUMOesR7LN6RZ-WbIxS3RffsgrcTSuuFK-fm7sSg2IpUT9t2-KX9Z5KZCu1UF4DZDEhe111vYfjF45y5mdU9716HjUHceFRPuuZn72ceMLoTVWo-qyh49Zvoi89/s1600/Disney-XD.png" group-title="Kids", DISNEY XD
+#http://212.102.60.231/DISNEY_XD/tracks-v1a1/mono.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6395
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlnraBconynbmUR01DPYig_s5t7K-LSlswMA2_vzjOi9JxMpgAaQ_icRit2k7aV8DpEB9jDOlEXXe2zUFNbFetdNpr4AOnPa1Gq8q7HRLRBM5PafwcRLu_Akoru7yGzVF_sJdWC20s_UWRzmPhwbhUrnM1j4SSDwwDPBuWtmgWPO_DYaxKKnor9e15qOFm/s1600/SpongeBob_SquarePants_logo_by_Nickelodeon.svg.png" group-title="Kids",Spongebob
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
 
@@ -1392,6 +1428,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPoELlmyiACWO3yxHhPjZ5eyhFS9jMZiAaXLAhqA70ZglTo6CxTLJS-RxlnqlfLdUAeSeWB_IvqROu-SfkNM0s_Ieofb-BDWnzRrUfdNgwNU4JUMBIfDuuEQIWRZkdZ07lznOuwVEE76ueCtlor_n3ZjLJ9Y37xOSbRAcSC6ndkyrlgcwJd4XOtFCOQsb/s1600/BabyFirstTV_Logo_2019.png" group-title="Kids",Baby First TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigbO6pOZ3WeveURflIMdm-bSLvtWqAoiAbjbfQqDALFjQfhb3EPym2BFddd8cxNAezMD-gbdOKxHJnfXNm2vj_beTqwsUKXE-1SzlOXYObBOqgE3WNi8FvlyqMAbLEIa2MRxSa43FJsv7DJLC1JZWssnqi1FWsXPARHMOjylpe35so28MY-ytZTbahEkgK/s1600/WWE.png" group-title="Kids",Da Vinci (IH)
+https://cdn10jtedge.indihometv.com/atm/DASH/davinci/manifest.mpd
 
 
 
@@ -1513,6 +1552,19 @@ https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_576P/playlist.m3u
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVzbXD707rFHrjhNdgcAN0ZHqqMzUr-nfbSrH_2CrzjLbwIYCUPgEBa6aPw5kYF7vFPAoCqT_FQjbt0HmjV9BLyBFRxJab1JZdtxEbCZCyskixsWUNQWcmFxwgfa1QS9TZTF4zMaCd8rGmUYb6afGW60kwx02PIda_pp8yoLtbo9SD6zP1yAC6GEGt5VVS/s1600/cctv_4_logo.png" group-title="International",CCTV 4
 #https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTAoP8D0RZIzF_lhW7aqp0ZVzmefpY6zhCF8DkmFMNRNflv7vTJ4zuoPa6po_OhDeYmoTQja7q-efSo6YAyM294-6d7OXYXK_MqcrtIY2MPU2l-wYHX_59HJM7_5a_l7RpNq6hzoGMFbALlg6e9D4DxQT3M34loBeILxoujmR4ZGys9HeDRSdJiUngS5l/s1600/CCTV4.png" group-title="International",CCTV 4
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTAoP8D0RZIzF_lhW7aqp0ZVzmefpY6zhCF8DkmFMNRNflv7vTJ4zuoPa6po_OhDeYmoTQja7q-efSo6YAyM294-6d7OXYXK_MqcrtIY2MPU2l-wYHX_59HJM7_5a_l7RpNq6hzoGMFbALlg6e9D4DxQT3M34loBeILxoujmR4ZGys9HeDRSdJiUngS5l/s1600/CCTV4.png" group-title="International",CCTV 4 (IH)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYQOVAN3oSB0BusB-xW3M9XYxABzIxmv4VGDfVcSiZG4-Ext8WmFoO8yoPaGWX8ZmToFYkcusigAURErDo_1d1tyfcn-WmWoE0OnV4j3pvYtym3YBzXbhHZTDh92ruVPdVTJsJZFvxbJ5U1Pmso9lkaM84bI8pOwoPu0N8fshFSkAv2CBmhobl01UXwkA3/s1600/CCTV+.png" group-title="International",CCTV+
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8S7eYRywYNqomq6UXny3M83sSVJJHOTtS80HXIpkqHNV53d9PJSHyynhhbfqIEBXrOu0mFnKcX_ZD0gn-YqcXWo5fFG4IIfBGHzELztUTE9wZkpwxCNHYt_Y9C5DIyI4DkTYRqqWuLKQohFG20JLUYUMra0QdKtrnEV50QIio5cKJvNXtmsXzyPBaKHId/s1600/France24.png" group-title="International",FRANCE 24
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
@@ -1637,8 +1689,20 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsRmZQquMlGVfGpsu6BtaKgKtRbsZzgNyR-lI5MbI6Bc6M8dBS4Ah2QkWqpjTi13KdcdvQQ1N6XE1idCMylifRxY6oWWWkPYaM9Q4XJKezh8KU_RCk0lROSS4Ro-HtGCG3UwBjLZH7IByJYmLIIE-uUzM6x37PKrRdGQXpLIV3UBXtQTKKwb5PVBckZKAr/s1600/4kTravel.png" group-title="International",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaT51Y8Kk4de4A2CBQ2PLKkcCc6ZEM2xIh6PHc2e3PshI1VMBvfRBq7nSD1hQ__o17KQL29LAv_Rjm5ByBwkdY8Pvx8yb5HSKAXmOYCmGrDvrFV9Ve-OLDpFbXp6tCMIbNwdT4S9tWhcA36_V6uZycwpYDWGJFzYqTkutEOKDgW8tVFBQLQPLypfkoFT1R/s1600/AWE_Logo_%28platinum%29.png" group-title="International",AWE Encore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp81GsUehhDXzwynxGD-Dj7Rk0V5RJyw-dCREsSk_2ljEKvaXjEPx9Nd968T774PM3lyWEgT8tjbMcNvx9b_l9m2F6jPqWb5TcWRDTyz7FZF5YzLCZ1d0qr-IFl4fb8Eil68nNT62L_xbzLAgGuMBbIGnoVlJbNgRYqhtKAVhUYYZyGLGRUPo1JRGCWz-K/s1600/Earth%20Touch.png" group-title="International",Earth Touch tv
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpxwt_tgPRHCPWqFiVgnoc4_eOeAHbTncOTBn27iGsokR-TmY06wHZIAD4BZpwOZkrTQO8mnBf-SHxwZAQvqeGIV1fRcCMQb9-EIo5QuzNJeo9BoYqXZrx1Evqo0JKaZ3k1k3oYOS6DlkznCUawQqa3BYIKKOMBiwbEdimf7t11CPE-VBmYx-ct0iL7OPU/s1600/VOALogo.png" group-title="International",VoA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
+
+
 
 
 
@@ -1661,6 +1725,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=l
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCJ8T4yIMml_XKGzrF2hLP-5vNTD0jjgKM7tLsC1CAGmdzgOKYG0GfxWIAPLCVCeQiW6GWIehnBR-taSxOiz290FXDgiCkUeQWq5rXNzZQhQMfgBV5NmJ1aytwsDmJ2tq7ePQUXA39UonxbDhSv4pSFzr-lrsysAdPLnl7rjQCeKxbPBoVFJF8hWDuOqe4/s1600/MCE.png" group-title="Premium",My Cinema Europe
 https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="Premium",DUNIA SINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png" group-title="Premium", BizNet KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
@@ -1692,7 +1762,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjglResYWOvxYdGLEK7dEV713ykQkhVFt4HydJgYi9DrAXSD2Re_SILJb35iXpkLaSRSXJHToKHpADWEXTcOEqUytUDb5lcJ2LWzcoJ6qORBsw-UJY2AWfKv8rMcbXa9kZPwz_MbgVhZby8pWeBvat8ORipk0h73ZvOh3nyFj9fXA-4acQOupULhja2GHGU/s1600/CinemaWorld.png" group-title="Premium",CinemaWorld
-https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemaworld/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8tZNV3tNZc-Z8yC5vDFwJRD-iDbKzfv0EmQkcZZDH2Ux0_leVvoMntZDQs49rRlUCZzqEQIzfSlPR0m5XgMo7yIGknWGuCBpzhmvFTlSVkN_doaP8oLC59Z9aEFlIZwZrVyYleCINeZNfuIFfdtRcuvWitpEchX-q-PXu9flS6Hr8enXY-eXE6gg5T7/s1600/KIX_logo.svg.png" group-title="Premium",KIX
 https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
@@ -1975,6 +2046,9 @@ https://e3.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 #https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJhOTViNzg2Mi0wMmUwLTRjNmYtOWUyOS0zZjZjNzQyYTEzZDYiLCJleHAiOjE3NjAzMTk3ODMsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6bWxiMi1SUjBOQ0oiLCJ1c2VyX2lkIjowfQ.N36-9uUa0pjBfHUDxvUSqxPZe60za4kX75AEVCRLlnGdwOLlDilmFjlUyt3CYfFqlqT5zMunWhR3nJ7C6xQgqg&tb.sid=d241e21c-891d-4fef-babb-f009dc9c572b&ap-fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS85NGVmMDIyZS01OWFkLTQ4NmEtODFiYi1mODE3NjEzZTNkZjEvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKaE9UVmlOemcyTWkwd01tVXdMVFJqTm1ZdE9XVXlPUzB6Wmpaak56UXlZVEV6WkRZaUxDSmxlSEFpT2pFM05qQXpNVGszT0RNc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NNmFIUjBjSE02THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5ODRZakpqWVROaVlTMWlabVptTFRRM09USXRPRFZpTkMxbU56VmpZekZpT1RBNE5qZ3ZjR3hoZVd4cGMzUXViVE4xT0NJc0luVnpaWEpmYVdRaU9qQjkuQjV2c2M4djRwZG5sVTcxTWpuSGowVE54WHYzVEpVT3k5amt6MFdXVWJtZVVMRG1xMDBFd2t3QTlqTl9XYVZNcHg1RTRFVlBzbHBnWjJMNlM1cUg1VFEmdGIuc2lkPTZlY2NjODQ5LTNhNjEtNDZlNy04NWNmLTZkOTg4OGI5NjVjYQ&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=613765&content_type=mp4&device_id=a95b7862-02e0-4c6f-9e29-3f6c742a13d6&language=en&now_pos=0&pub_id=48adc00351a349678d624ddb788c11ce&vpaid_enabled=false&origin=search&platform=WEB&ap.pt=2&ap.furl=0
 https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ/1024x576.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimNIW7i3Gqb1FNAhek0xu2msa7HZmN7u103zfNBQkG-wcA7wHDBFwX2c533gATnD4RW51Esso_xsN6e5hekFB6b2rERh_VoaKvr_o6TgiD_YlDUbsciBu5eM9yYz0oufNhUZSUunOTAJoRzuaFfF1izYcSHmQ-ZgrCX8M4jOL6Ov3lUZZ5yl157UtjtOhd/s1600/tennis-channel-logo.png" group-title="TV Olahraga",Tennis+
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgwRdKwodFM7AOrSikqWQiypt6p43jNJ99a4NFgUAD7X7UWFNd3bq-3dRvfkAFhRtN4XxSuYeDIpoKbeZJVyoJ-l-tzS_2BKUkNGU3IP0C5TUlXJLAE6dd0_emxwsJp0zs1r2wCC_j5pXJmkI12XoBMOGZ1_T99Dyuq5kKpvpN9BuR3yIfx1_ZeK1AJeO/s1600/9Sports.jpg" group-title="TV Olahraga",Cricket Gold TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Fhx47RvJvdxKTEYnb6u2
 
@@ -1986,6 +2060,9 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqNkauAdA79lBsGseQJ3bmVPIQW7zLmS3ge7hsW_wcNI4RWTLtK0WZp-eFhQqBo4DXuRrXp0FD42apdy1H4UtAhTI9_t7lMxuiNDIcp8AyI8IeehqKTwsmgDkaXNOgJcfRi4Gs0cHPYvCw81iorWhwgf4dDqvvy3DRRXRozudTezUtrlie_NmRlk4nUbQH/s1600/UFC.png" group-title="TV Olahraga",UFC
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigbO6pOZ3WeveURflIMdm-bSLvtWqAoiAbjbfQqDALFjQfhb3EPym2BFddd8cxNAezMD-gbdOKxHJnfXNm2vj_beTqwsUKXE-1SzlOXYObBOqgE3WNi8FvlyqMAbLEIa2MRxSa43FJsv7DJLC1JZWssnqi1FWsXPARHMOjylpe35so28MY-ytZTbahEkgK/s1600/WWE.png" group-title="TV Olahraga", WWE
+http://Supersonictv.live:8080/live/006779/439866/22185.ts
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvIv4BApqrHkcJXXoIdIEmDn599scX1MTKucIW12ytP27xuElR-lIMxiw8C27gtzmg6IzzORPu-U8K-ZYUy5y8OjQPZpg0e8Ug8_oY88G-X5xwGH7O1qXumQ6hOuy3o-7vFhSuoCAvwD1Te9GuhW2zf0r_yAjc59Qi9JnfhKrK4f9QVvQGjHZNhZ9ly5yS/s1600/World_Poker_Tour_white_on_black_logo.jpg" group-title="TV Olahraga",World Poker Tour
 https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
@@ -2051,8 +2128,23 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtqjnRXWcgYLQSg804DjXLSsSVxJp63ucfMljMZWYBUX1QPyGdP2ECEN7YNx48GGEjPbbJfCFBH0Tm8gHos6Ywb6pFuPHvTaCVBtosOvxrXR4dHAhmqdpcDc61CTeZjVLCFx3CaWp719LvS12M58-jh3EdFwksHHApa0r4EfJuNblcN6NSYOhp9IYCzUWn/s1600/PremierLeague.png",B1 Premier League 5 
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimNIW7i3Gqb1FNAhek0xu2msa7HZmN7u103zfNBQkG-wcA7wHDBFwX2c533gATnD4RW51Esso_xsN6e5hekFB6b2rERh_VoaKvr_o6TgiD_YlDUbsciBu5eM9yYz0oufNhUZSUunOTAJoRzuaFfF1izYcSHmQ-ZgrCX8M4jOL6Ov3lUZZ5yl157UtjtOhd/s1600/tennis-channel-logo.png" group-title="TV Olahraga",Tennis+
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnpx-go2IxxfsUn3CzzWv59CYCW5PhWYctpm1pjS9UYJ5ahHvpg5jw_gfAjFj4uDtiyZBmHuQ4ApoFKV3Qhe6DRBEd6UkVPGI18AvD_nCs0Km9mcmZ8nSIbOOrIeJfHsWoJvLvrQrnsEXcvWe4GcmN8J_8MgNkGBV8jk8cD34aYH2uH-uyN0nX3nnprfSn/s1600/UnifiSports2023.png" group-title="TV Olahraga",UNIFI SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4wkTfWCg4ezTQlRCVOVRlsJB3Yb4Nik9liZSE-0B-oi-F-foOI-wJs0-t5x9h38lErjgX68asZNK3Gj6_chDKy3D3Lyy5hxyd9TXuG5NNjJKWbn6D8v3QwnwK9A_YGHtSdl2JyLHyplzKc9HVsjKBGJmqP48htEp__KY_gqAKt2_1dfx9C3dS7knnc9vA/s1600/DubaiSport1.png" group-title="TV Olahraga",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_4Y3gKP6-9KjtHjkx0xO2ZM8Wyto1-Uyc0GZnmSyggg0isx4yfPJEIMoRL-3OqSXlBgZxP7hCEoBdLr-fShe14dHtaqqwU8_AFyhUcom8uwTVm5BletTWTCdcqznjfmkklJLJ7RosU6rAgbpyP-v7cVSrCLmLnFftHn3b3jGAYHoJp8k36i5HYpWMWd5V/s1600/dubaisports2.png" group-title="TV Olahraga",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNgebPgera6mzW8SXDy0esdGMpg5lUvHa7qy2T02qb2QlNPp4DQqBMZ_wKQr8w2ll9NWijC_2acq_oSsIVOcvpRbVAGxO-bdZ8iSBvAOQwvxeBCFJT55LmqS-9tAI3pLTMQmQ6ux3Wd6hwMZlENMNgCQ2RocIVCD1iI5KwUtxsU_1qUXFKOgIuW3pORLMb/s1600/dubaisports3.png" group-title="TV Olahraga",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxfbGAaGeVnKwFzWdQhlk6o2k1WKREMgWZtBzydHLJH62tC1o5UjydYaVBYKkdkCAggdTNr2ssF6qsllrBrvUy0UfIpQ3lXgS7dH0U2-S9gfCPmPY_zrhc4JtH0TmMbwOlqnD3obkzKj3ZFSWx0MaMLvdR5kBdzQEmYB_4cYh7FqctIK4UFaBeSrX5unN4/s1600/MV_Plus_Logo_1920x1080.png" group-title="TV Olahraga",Motorvision TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 
 
@@ -2399,6 +2491,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
