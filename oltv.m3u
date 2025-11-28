@@ -1135,7 +1135,8 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgialnRT88ldZnr9u2BOMxm9Wo4ZYcPp9nl7DvmeueVeEjIbgByz5PkGGJbF8ckgwy4RQQbvqbUijJe2873tOu7iJnTgzbbfm2gZYNucp9pTpidsMKKaWP6nbA2Kah9ylnFX1OaOrmjY2a35T_e4yKSOVByeCcCyyj3oUjvUotvjIwnGBaihgZP1pdg4d80/s1600/Mediacorp_Suria_2023.png" group-title="TV Jiran",SURIA (Singapore)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+#https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJMLLLLItNU_oPz_IVD1a6cSaQ4B4pfqPdWqpppNeTCOLifOxJG_2GHKhskEpuqlBk5cHypjHLH9VKYvk6ce81G9UanZBKdJ-QL18nHxH4ghtvJDJscTvQiZKcgk9YTXORSlaceJB1nEGJ8KEMUsmdxlzzkAy300cocAd3v8aXGSKCGYyGcKnIuen1hoRA/s1600/Mediacorp_flat_logo_%282015%29.png" group-title="TV Jiran",Mediacorp Ent. English (Singapore)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
@@ -1792,7 +1793,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh85RVp1RX1ObgaMxQW8rc2mi3VmEt8cBEfv-YiHq4xFXrzuPACGPig131RSDyXVhJe1wyR8W1q71HDg2igdlVWNA3AlaMlRAOBSh2dxeCLJHbvp5B_zgizxOltvg7T7yAe6RSfO74sofAFVW69Oj1dF84QwWqai4_YuMcLxskfKFR2Y5-EOHu5_z9eXkmx/s1600/K-Plus_%282013%29.png" group-title="Premium",K+
 #https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPYHnLjHC5zoeWw_H2qGDtJKwnc8Xe5pmCRgHakOflxszEGgqcqHposNJj3xU1eS9HS9HSdin-3lhaEuYEoap0Wbg_XirKR0XfX6JfWTbsgGkvwsZpwIOoTBa7MyFqF4VFc0E2-C2BWFBSh9j7WeMG3lI0gCZXz0xiefNyQkf2iBGsrz1PEGZewpJlPLp/s1600/Rock%20Action.png" group-title="Premium",Rock Action
 #https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
@@ -2547,6 +2549,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
