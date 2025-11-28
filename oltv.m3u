@@ -539,8 +539,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png" group-title="Indonesia TV",ANTV
-#https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/file/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png" group-title="Indonesia TV",ANTV
+https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png" group-title="Indonesia TV",ANTV
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgBL2tcpzeojuJoNu0B6mo7fNK-sfKxwpFiBoiLwYyEvUIs9aIe2duBK5xK-sfjvnEprNDrJrFBRxD5zSXscIbEB6513NABR-zkni3-QBR8fTsJlF1jTz6WqLsZCBxLDJtJ5zZooqSoQoMcY8frX9hBKVChMtq8k7CkqfyjqOXgWKD1-7rZYoxACRyPoD/s1600/BTV_%28Indonesia%29_logo_%282025%29.png" group-title="Indonesia TV",BTV
 https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
@@ -1288,6 +1293,9 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN-GaqSRAe3LWMA6l_m4oi6sZgxK6xANA6o1IJVtyq-VYi-vpWU6oD5faSaUjw4FaJNaZdV7uocDoe_O0q9Ra3_LlLGlXcRaw5oIFr_-lY_349z4cW_tUQlaVCJ5vq8ElH8Lv8I2T6DO32n8vdmVROniYM6Agq_mAUo-0yD7L8AL5V67J930G3u8M41Zpa/s1600/New_mnc_music_logo_2020.png" group-title="Music",Music TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXFgviWl8x5rbu1Bj-GTQOR3FBWpFAKCMCsOt8konrOSeiZJBKqd8P9OP_xo-PJ8Kb4es-kAfwPBd8FEtO86v8c0OpU7kJ6xldTgU3WRCgzyBTpr7JoWyHuQC988LYk-u9xq4yuMm-hRfyp9DItbu_3f-a4CDfrmEpwk6tfeqiAGTY1n6xxLctgpDUr5d/s1600/Musik_Indonesia.png" group-title="Music", MUSIK INDONESIA
+https://cdn10jtedge.indihometv.com/atm/DASH/musikindo/manifest.mpd
+
 
 
 
@@ -1844,6 +1852,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRdObfnhjkDyn453I2GI2zsI_XFqfO4TTf9ToBFkgyrDYbLFKmSxfpVZH_BlqdSVPpamDbsGYUSOEeQCst2MmZzUkCEzvXrb6FqN9cBeQXxPh6fd1w87vEPAbABmu383dvJlvm00v1zqsxxkpBzQHeuLjpyotoMqirXmoTrWYmrxPB3xOjYHc6FtnZDX_t/s1600/Style_TV_HD_2016.png" group-title="Premium",Style HD
 http://210.210.155.35/uq2663/h/h01/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNJ91qztPLP9_XFqxm0bIxaVy2YJ-gjF8h5Y014pLKdM09HZtgBSA8wwBZwLVDZxQzUhjxW-xe45V3Jl3_9BYUYMfrb6rW5qf2FjLrdM7cUqh01vL2QeSpnGCV9itfAleHAvUfp2GX6BsHM3Ef5eUbNB4q1E9ipgbI2snpOA3A3x8Re2ia2m7y_Ld21RII/s1600/Lifetime.png" group-title="Premium",LIFETIME
+https://cdn10jtedge.indihometv.com/atm/DASH/lifetime/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpbUOo1G9sribwQzjrc3DnPEmibC5R1hUGtWtMlu5CxIeAQ8k_dkDNCDkxjf3BexWX8gnbsrHvhCGZyzMvitBVMzkeaGlBXopPBB-wFnfFXmtm75ztVGH7bannISdNQRqDTh1yC0DaKQqQl5PBwjT1CyruQ_Z4FNqIhN1eAxadeGHVz5XQpgXk5U5tPhzm/s1600/WEDO_MOVIES_ROUND_RED.png" group-title="Premium",WedoTVMovies
 https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee15f42df39a0b90140c07d40fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848cb9599106f224365623709cf215f9a366b7ca8a56379d7c2d7b44298cc986ed712c944e555dfbe6b9d10f9328db9a1a91723ead019b56b96af601c008b7f171a2b8b5db4e444bcaae375a26b0f59f88ee3b37b163c6f885b711758c84721223f264cd1f7156fa9ec71990b172fcd31889b97d2062aefb269f94b6f188dae871982ccefaaef657214a6d1070e137c7a169d53de022dfa47b285a4c7bb98345c1f4b23459594680814acd031e8481f9e9ba0d34da701a28810abe600663dc246d41bf4193f8356ffb4060e10e34f8656fee289fad3ef9d5bc8f6300a0cccb7fa52d85d80bc2e63dba79334b078ce73e53373d17bfd5671d2046d051ebc1cfde621b0cd1ad8194b25037092d125c18b4eeee669e9dd43b1817cc21500a002b14990ac26cd114760c27df1bc0b81b71840b1c7794cd5a5a5f6284cdc3e8edb1f143b071c1cac06341513a64ad23774104b68d8a49ed05110e1039870b7451cf6f3024d192cdf58bbd348ef608ad3c72065cc6ff19520c5c67117af1fe53d05af28122ba94c44fc9e1992f1ff356c406008eefcf65fc9feaad263497ba4726749ed71a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50df57dfde922e2af1c1c419357f56aaaa12b529e2fde11a9db4/158/1280x720_3329040/index.m3u8
@@ -2555,6 +2566,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
