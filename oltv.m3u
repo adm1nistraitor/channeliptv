@@ -1348,7 +1348,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSPLd228mThb0Br3R8uAfTrpRT_lOz0705vm_MLxev6QATe4nzAbbzqiFVqwAuEHrjq8pqgaXVXEWMqAh-46SKqrgQiqJUFztFFIxrLcsRK8PD6-zyHqDfQc6DEOh_Ocehy20XVpvsdBA54y8p1bRWdR6okKVEJo72jwmpd12TbHeQmGFYOH9FT3RNUyGO/s1600/Nickelodeon%20TOTALLY%20TURTLES.png" group-title="Kids",Nickelodeon TOTALLY TURTLES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUcXRhNbeuNATJ3zjj9PrPfrtsZAzjZS7QiVgJMH_tGP6U9Zy0LkNbGMYAnaoG6AsgzggE73ON4TVTf3pHx0UnZRYmKhvvEBU01ECYidlRlOpzvVFSNR3pcn1NwLY78vyrtlEUSnnbsLVzYnip3OaLFRI-v4Bo2opxocsdEeUUwLg6A7qxu1LSZCsM-8ox/s1600/Pluto%20TV%20After%20School%20Cartoons.png" group-title="Kids",TV After School Cartoons (Pluto)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUcXRhNbeuNATJ3zjj9PrPfrtsZAzjZS7QiVgJMH_tGP6U9Zy0LkNbGMYAnaoG6AsgzggE73ON4TVTf3pHx0UnZRYmKhvvEBU01ECYidlRlOpzvVFSNR3pcn1NwLY78vyrtlEUSnnbsLVzYnip3OaLFRI-v4Bo2opxocsdEeUUwLg6A7qxu1LSZCsM-8ox/s1600/Pluto%20TV%20After%20School%20Cartoons.png" group-title="Kids",After School Cartoons (Pluto)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5vSZPu5lC7p8PBurkMoQlNXg0Tja1RkiZwCx_2fj3b8wQklDmrWO02c1DYNCcVuSxktEH-Vy5R6bwHt_3bnoS5cz9TLFll6EUVHVXNb7xEDh2MQA8-cuYkbfC9rqaHHG1NrpE-2oNpxZoIs0xQBnd0hMHYgNcrOBjro0VCuHI8cLk1OrKLwoWsGxdo_od/s1600/Pluto%20TV%20Anime%20All%20Day.png" group-title="Kids",Anime All Day (Pluto)
@@ -2562,6 +2562,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
