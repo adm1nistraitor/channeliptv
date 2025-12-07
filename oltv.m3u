@@ -1339,7 +1339,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png" group-title="Kids", Nickelodeon (Pluto)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgzM8SVzGpK0xMyhyevt9vHg6TC1QL0X4cn5hBHRI1kc8NjZ2uUO1unr4twXfd-2AmFcB1hs33nZYuxy8EanAefF31ApQDe8LIXgSGGANEf680vsJFOU3wuGmQ346YPGDMvuSAQFF0FOB52hy1SpDpnyk-qb08FsOimtARjfXYTvDRwHZGSvmZ3o5f7x0/s1600/Nicktoons_2023_Outlined_Logo.png" group-title="Kids", NickToon
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgzM8SVzGpK0xMyhyevt9vHg6TC1QL0X4cn5hBHRI1kc8NjZ2uUO1unr4twXfd-2AmFcB1hs33nZYuxy8EanAefF31ApQDe8LIXgSGGANEf680vsJFOU3wuGmQ346YPGDMvuSAQFF0FOB52hy1SpDpnyk-qb08FsOimtARjfXYTvDRwHZGSvmZ3o5f7x0/s1600/Nicktoons_2023_Outlined_Logo.png" group-title="Kids", NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsmC5wiG8PSv5H3S6kdq8B5ok9Uzy1-Wwa5e7toBj9cDD32Don_v3niQ_4PSqLV1UfdfqNEqTvplQu9vIxnWXk8TjJR5KBsPthusM5TEboqdILEVc1U8QIC5eYjPt47W0yDUH-QZewyW6NLXiC6ckZjEwh2rDn6w9n-yG9TerW44uGxTfm7m6Nd3XFv8ju/s1600/Nick_Jr._logo_2023.svg.png" group-title="Kids", Nick Jr (Pluto)
@@ -2562,6 +2562,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
