@@ -5,83 +5,83 @@
 ######
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",UNIfi61
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",UNIfi64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live61-1080FHD.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live64-1080FHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Unifi62
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Unifi65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live62-1080FHD.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live65-1080FHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Unifi63
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Unifi66
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live63-1080FHD.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live66-1080FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h212/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h204/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h205/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h206/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h216/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="UNIfi",Dens0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h220/index.m3u8
 
 
 
@@ -181,7 +181,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 http://op-group1-swiftservehd-1.dens.tv/h/h128/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="DENS",My Kidz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -193,6 +192,44 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="DENS",???
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="DENS",Dens3 Showbiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+http://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="DENS",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="DENS",N/A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+http://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="DENS",Berkta Satu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+http://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3rGTGVYs_kgL1cliOcZnt23sKxf30LYWg&s" group-title="DENS",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+
+
 
 
 
@@ -2763,6 +2800,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
