@@ -1631,7 +1631,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/S1/mnf.m3u8
 http://210.210.155.35/uq2663/h/h157/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsfu1IOcQKjcKpPNxaWydM-2ZrzW5D5hJsTRzVlwK0wKH6gEU3JLAvCAh39jIIH7u0DKa0rDQzarHNl9OMwGmEf-acXYcC8Uq6UOh4wWg9JwPqjEGtkwtrdc8b8qChWkomhDEY3Y-GzPYglrt3GSeMoAKnVc7vaQBhFdqHJi4V6v1av77FfBZ9q0IETWrT/s1600/Phoenix_InfoNews.svg.png" group-title="International",Phoenix News
-http://45.126.83.51/qwr9ew/s/s21/index.m3u8
+#http://45.126.83.51/qwr9ew/s/s21/index.m3u8
+http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHnMJSau-1J_mtrm2Cj8STASKRo-P_1KvmGRG40BDva_DL-q2wk8iLMvrWhvp08oX2H4qXSe949uqa42jCzHeP556tz9ed95jLhj8be6ErQaX7ZoztPUYuTSDEKuhpTwpGm_byZP5uYI74eanLHYQ-6PFIMQtsRNvuUZrCV5tOHgi7ZLMADY4iEIXYm4Q/s1600/Xing_Kong_China.png" group-title="International",Xing Kong
 http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
@@ -2568,6 +2569,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
