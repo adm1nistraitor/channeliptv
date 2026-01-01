@@ -1623,7 +1623,7 @@ https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="TV Musik",MTV Live
 http://190.102.246.93:9005/play/a01p
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMtP832eBCV8gZB4FPWJaqPVC7zxQTRJHqUI2T4glr8vdId8oELukhGH1JYtIeweMxAV7LjSaaUMaCkqELOKHAy1yerq5SuK1wlJ1cfbvxVCVa8pm_R0aPeiHzO-OjRyWn8ZoBecvA2oir3ydtwC3pEud9QF-z4QCbpQP6UulQ4Cno1qEoX9hAg33MR9J/s1600/MTV_Hits_2021.png" group-title="tV Musik",MTV Hits Europe
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMtP832eBCV8gZB4FPWJaqPVC7zxQTRJHqUI2T4glr8vdId8oELukhGH1JYtIeweMxAV7LjSaaUMaCkqELOKHAy1yerq5SuK1wlJ1cfbvxVCVa8pm_R0aPeiHzO-OjRyWn8ZoBecvA2oir3ydtwC3pEud9QF-z4QCbpQP6UulQ4Cno1qEoX9hAg33MR9J/s1600/MTV_Hits_2021.png" group-title="TV Musik",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9UQcD0tDV8aE9V27oZdN_OgMjcFTxAclp0ppGFGbUPuxN2kqudtA3DSeugaTNE8KZEHBxDlHgh8GkIftOgq_ioQD-rsPAok5jZSbxob8n9ab0jm_zQKJ0nMIGR9zZj1iQlxMvl4saIzFIjUjk5N6xykFFtLGsRadNkSRd-VyK8pTQ_YPXprXxtIZJ6B3-/s1600/MTV_Pop.png" group-title="TV Musik",MTV Biggest Pop
@@ -1704,7 +1704,7 @@ https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.24hrkpop.com/hls/3/stream.m3u8
 
-#EXTINF:-1 group-title="TVMusik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJq5-7XVFSa0wdFdyeMbTlXYNe6lXSdQdLHwUsHQGW-PUtFVKpARIgv4orbj3vi275Y2DIvJZXg62PMzUxnMfy5H2jeIEbSr2muxy3mi8o-Sa0IFKpNy5sjrz8tI5KgkwqL5z59fV__mI4DWdpbAr9oPTMbEkeJXg1duxpj1-oCmWayl3T14WzqiyXUGEp/s1600/LogoBahanaFMJKT.png",Bahana Radio Music
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJq5-7XVFSa0wdFdyeMbTlXYNe6lXSdQdLHwUsHQGW-PUtFVKpARIgv4orbj3vi275Y2DIvJZXg62PMzUxnMfy5H2jeIEbSr2muxy3mi8o-Sa0IFKpNy5sjrz8tI5KgkwqL5z59fV__mI4DWdpbAr9oPTMbEkeJXg1duxpj1-oCmWayl3T14WzqiyXUGEp/s1600/LogoBahanaFMJKT.png",Bahana Radio Music
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeuCLfAEnt3W_Rbjilo8DUH9lL_Gv_z4ex4Z3C2OH_uAN_aMJtjL2CIi7d_UFjrbeaCmJc0abnELBNtmEFAYOT8ybASNmAl3eiq393FhNq9agyLxln3xBk1YvSmVSZlqgWL5Ul_vDnOlFqbeZx6sy0QD9RDa6RnevtjJgQVn1xh7T4IPlxyw3yC-3x8DoQ/s1600/Logo_MIC_Channel.png", MIC TV
@@ -3012,6 +3012,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
